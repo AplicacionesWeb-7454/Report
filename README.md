@@ -17,7 +17,7 @@
 ### Integrantes:
 - Vidal Malaga, Jareth Beycker  (u202316878)
 - Seminario Castillo, Diego Vicente  (u202412591)
-- Apellidos, Nombre  (Codigo)
+- Chuchon Choquimamani, Jhon Alexander  (u20231c895)
 - Apellidos, Nombre  (Codigo)
 - Apellidos, Nombre  (Codigo)
 

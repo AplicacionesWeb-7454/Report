@@ -16,7 +16,7 @@
 
 ### Integrantes:
 - Vidal Malaga, Jareth Beycker  (u202316878)
-- Apellidos, Nombre  (Codigo)
+- Seminario Castillo, Diego Vicente  (u202412591)
 - Apellidos, Nombre  (Codigo)
 - Apellidos, Nombre  (Codigo)
 - Apellidos, Nombre  (Codigo)

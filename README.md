@@ -256,7 +256,47 @@ Cuando el 90% de los usuarios utilice los reportes de merma al menos una vez por
 
 #### 1.2.2.4. Lean UX Canvas.
 ## 1.3. Segmentos objetivo.
+A. Pequeños y Medianos Restaurantes (PYMES)
+Establecimientos gastronómicos cuyo modelo de negocio depende de la frescura y calidad de sus insumos. Manejan un inventario diverso de productos perecibles (vegetales, carnes, lácteos) en cámaras de refrigeración y almacenes, pero carecen de sistemas especializados para su control. Están motivados por reducir costos operativos, minimizar el desperdicio de alimento y garantizar la calidad y seguridad de los platos que sirven a sus clientes.
 
+Necesidades:
+
+Prevenir la pérdida de inventario por mal almacenamiento o caducidad.
+
+Automatizar el control de temperatura de sus cámaras frigoríficas.
+
+Optimizar el proceso de compra basándose en el estado real de su inventario.
+
+Garantizar el cumplimiento de normas de salubridad.
+
+Motivaciones:
+
+Aumentar la rentabilidad al reducir significativamente la merma.
+
+Mejorar la eficiencia operativa al ahorrar tiempo en gestión manual.
+
+Ofrecer un menú de mayor calidad y seguridad al cliente final.
+
+B. Proveedores y Puestos en Mercados de Abastos
+Comercios ubicados en mercados tradicionales que se dedican a la venta al por mayor y menor de productos frescos (frutas, verduras, carnes, pescados). Operan en un entorno de alto volumen y rotación, donde la trazabilidad es mínima y las pérdidas por deterioro son absorbidas como parte del costo operativo. Son altamente sensibles al precio pero reconocen la necesidad de modernizarse para ser más competitivos.
+
+Necesidades:
+
+Tener visibilidad en tiempo real del estado de su mercancía perecedera.
+
+Recibir alertas inmediatas para vender o procesar productos que están próximos a dañarse.
+
+Evitar pérdidas económicas por loteos de productos echados a perder.
+
+Digitalizar sus operaciones para competir con cadenas de retail más grandes.
+
+Motivaciones:
+
+Maximizar el rendimiento de cada lote de productos adquirido.
+
+Tomar decisiones rápidas (como hacer ofertas) para salvar inventario vulnerable.
+
+Ganar una ventaja competitiva al ofrecer una gestión de calidad más transparente.
 ---
 
 # **Capítulo II: Requirements Elicitation & Analysis**

@@ -142,6 +142,15 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
+
+Pandora’s Fresh es una startup innovadora del sector FoodTech (Tecnología Alimentaria) fundada con la misión de combatir el desperdicio de alimentos y revolucionar la gestión de inventarios para productos perecibles. Nuestra visión es convertirnos en el socio tecnológico esencial para mercados locales, restaurantes y pequeños productores, permitiéndoles operar con máxima eficiencia y sostenibilidad.
+
+Operamos en un mercado donde la trazabilidad y el control de variables ambientales son críticas, pero a menudo se gestionan con métodos manuales y propensos a errores. Pandora’s Fresh cierra esta brecha tecnológica al ofrecer una plataforma integral que combina hardware de sensores IoT y un software inteligente. Esta solución permite el monitoreo en tiempo real de condiciones críticas como temperatura, humedad y fechas de caducidad, enviando alertas proactivas para prevenir pérdidas.
+
+Nuestro valor principal radica en transformar datos brutos en insights accionables. No solo mostramos el estado del inventario, sino que predecimos riesgos, automatizamos reportes y facilitamos la toma de decisiones basada en datos, lo que se traduce directamente en ahorro de costos, reducción de mermas y una mejora significativa en la calidad y seguridad de los alimentos.
+
+Propuesta de Valor: Ofrecemos control absoluto, tranquilidad y eficiencia en la gestión de productos perecibles a través de una plataforma intuitiva, confiable y diseñada específicamente para las necesidades del sector alimentario local.
+
 ### 1.1.2. Perfiles de integrantes del equipo
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática

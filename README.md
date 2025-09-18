@@ -164,6 +164,15 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
+
+- User Persona 1: Primer Segmento
+  
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter2/UserPersona1.jpg" alt="User Persona - Diego Ríos" style="max-width:100; height:auto;">
+
+- User Persona 2: Segundo Segmento
+  
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter2/UserPersona2.jpg" alt="User Persona - Carlos Diaz" style="max-width:100; height:auto;">
+
 ### 2.3.2. User Task Matrix.
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.

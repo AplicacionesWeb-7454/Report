@@ -199,6 +199,9 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 
 ### 2.3.3. User Journey Mapping.
 
+En esta sección se presentan los **User Journey Maps** de los segmentos definidos.  
+El objetivo es ilustrar el recorrido end-to-end actual de cada User Persona, mostrando cómo gestionan sus actividades cotidianas relacionadas con el manejo de inventarios de productos perecibles, **sin la existencia de la solución Pandora’s Fresh**. 
+
 - User Journey Mapping 1: Primer Segmento
   
   <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter2/UserJourneyMapping1.jpg" alt="User Journey Mapping 1" style="max-width:100; height:auto;">

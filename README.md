@@ -221,6 +221,22 @@ El objetivo es ilustrar el recorrido end-to-end actual de cada User Persona, mos
 ## 2.4. Big Picture Event Storming.
 ## 2.5. Ubiquitous Language.
 
+- **Perishable Goods (Productos perecibles)**: Alimentos con vida útil limitada (frutas, verduras, carnes, lácteos, pescados) que requieren condiciones específicas de almacenamiento para mantener su frescura.  
+- **Food Waste (Desperdicio de alimentos)**: Pérdida de productos alimenticios que no llegan a ser consumidos debido a caducidad, deterioro o mala gestión de inventario.  
+- **Traceability (Trazabilidad)**: Capacidad de rastrear el origen, almacenamiento y estado de un producto a lo largo de la cadena de suministro.  
+- **Inventory Management (Gestión de inventarios)**: Conjunto de prácticas para controlar la entrada, almacenamiento y salida de productos perecibles en restaurantes, mercados o almacenes.  
+- **Cold Chain (Cadena de frío)**: Proceso logístico que asegura la conservación de alimentos perecibles a bajas temperaturas desde la producción hasta la venta.  
+- **Stock Rotation (Rotación de inventario)**: Método de organización de productos donde los más antiguos se venden o usan primero (ej. método FIFO: First In, First Out).  
+- **Shrinkage (Merma)**: Pérdida de valor o cantidad de productos por caducidad, deterioro, manipulación o robo.  
+- **Food Safety (Seguridad alimentaria)**: Conjunto de prácticas para garantizar que los alimentos sean seguros para el consumo humano.  
+- **Supplier (Proveedor)**: Persona o empresa que abastece a restaurantes o mercados con productos frescos.  
+- **Customer Demand (Demanda del cliente)**: Cantidad y tipo de productos que los consumidores esperan encontrar disponibles en condiciones óptimas.  
+- **Shelf Life (Vida útil)**: Tiempo durante el cual un producto perecible mantiene sus características de calidad y seguridad para el consumo.  
+- **Spoilage (Descomposición/Deterioro)**: Estado en el cual los alimentos pierden frescura y ya no son aptos para la venta o consumo.  
+- **Overstocking (Sobreabastecimiento)**: Exceso de inventario que supera la demanda real, generando riesgo de desperdicio.  
+- **Understocking (Desabastecimiento)**: Falta de inventario suficiente para cubrir la demanda, ocasionando pérdidas de ventas y clientes insatisfechos.  
+- **Quality Control (Control de calidad)**: Procedimientos para evaluar y garantizar que los productos perecibles cumplen con los estándares establecidos de frescura y seguridad.  
+
 ---
 
 # **Capítulo III: Requirements Specification**

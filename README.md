@@ -177,6 +177,15 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+
+| Estrategia | Objetivo | Tácticas |
+|------------|---------|----------|
+| **Diferenciación tecnológica** | Destacar como la solución más avanzada para PYMEs y mercados locales | - Integración de sensores IoT para monitoreo en tiempo real. <br> - Alertas proactivas y predicción de riesgos. <br> - Panel de control intuitivo con insights accionables. |
+| **Foco en PYMEs locales** | Atacar un nicho desatendido por competidores grandes | - Campañas de marketing local en Lima Metropolitana. <br> - Alianzas con mercados de abastos y asociaciones de restaurantes. <br> - Pricing escalable adaptado a pequeños negocios. |
+| **Sostenibilidad y reducción de desperdicio** | Posicionarse como aliado de eficiencia y responsabilidad | - Promover casos de éxito que muestren reducción de mermas. <br> - Contenido educativo sobre sostenibilidad y buenas prácticas. <br> - Certificaciones o reconocimientos de sostenibilidad para clientes. |
+| **Educación y confianza tecnológica** | Reducir la reticencia de negocios a adoptar IoT y software | - Webinars, workshops y demostraciones en sitio. <br> - Manuales simples y soporte personalizado. <br> - Programas de onboarding rápido. |
+| **Marketing de prueba y recomendación** | Generar adopción inicial y boca a boca | - Versiones piloto gratuitas o con descuento. <br> - Testimonios de clientes satisfechos. <br> - Programa de referidos para atraer nuevos negocios. |
+
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
 ### 2.2.2. Registro de entrevistas.

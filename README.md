@@ -174,6 +174,29 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
   <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter2/UserPersona2.jpg" alt="User Persona - Carlos Diaz" style="max-width:100; height:auto;">
 
 ### 2.3.2. User Task Matrix.
+
+- **Segmento 1: Gerentes de Pequeños y Medianos Restaurantes (AS IS)**
+  
+| Tarea principal                                   | Frecuencia | Importancia |
+|---------------------------------------------------|------------|-------------|
+| Revisar inventario en libretas o Excel            | Alta       | Alta        |
+| Verificar fechas de caducidad manualmente         | Media      | Alta        |
+| Revisar cámaras de refrigeración de forma visual  | Alta       | Alta        |
+| Registrar compras con boletas o apuntes sueltos   | Media      | Media       |
+| Descartar insumos dañados sin registro formal     | Media      | Alta        |
+| Elaborar reportes contables a mano o en hojas     | Baja       | Alta        |
+  
+- **Segmento 2: Dueños de Puestos en Mercados de Abastos (AS IS)**
+
+| Tarea principal                                   | Frecuencia | Importancia |
+|---------------------------------------------------|------------|-------------|
+| Revisar visualmente el estado de frutas/verduras  | Alta       | Alta        |
+| Separar productos malogrados durante la venta     | Alta       | Alta        |
+| Ajustar precios según deterioro o exceso de stock | Alta       | Media       |
+| Controlar inventario de memoria o en papel        | Media      | Alta        |
+| Negociar precios rápidos con clientes             | Alta       | Media       |
+| Asumir pérdidas como parte del costo operativo    | Media      | Alta        |
+
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
 ## 2.4. Big Picture Event Storming.

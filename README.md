@@ -198,6 +198,15 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 | Asumir pérdidas como parte del costo operativo    | Media      | Alta        |
 
 ### 2.3.3. User Journey Mapping.
+
+- User Journey Mapping 1: Primer Segmento
+  
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter2/UserJourneyMapping1.jpg" alt="User Journey Mapping 1" style="max-width:100; height:auto;">
+
+- User Journey Mapping 2: Segundo Segmento
+  
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter2/UserJourneyMapping2.jpg" alt="User Journey Mapping 1"  style="max-width:100; height:auto;">
+  
 ### 2.3.4. Empathy Mapping.
 ## 2.4. Big Picture Event Storming.
 ## 2.5. Ubiquitous Language.

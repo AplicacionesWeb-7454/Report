@@ -211,6 +211,13 @@ El objetivo es ilustrar el recorrido end-to-end actual de cada User Persona, mos
   <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter2/UserJourneyMapping2.jpg" alt="User Journey Mapping 1"  style="max-width:100; height:auto;">
   
 ### 2.3.4. Empathy Mapping.
+
+- Empathy Mapping 1
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter2/EmpathyMapping1.jpg" alt="Empathy Mapping 1" style="max-width:100; height:auto;">
+
+- Empathy Mapping 2
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter2/EmpathyMapping2.jpg" alt="Empathy Mapping 2" style="max-width:100; height:auto;">
+  
 ## 2.4. Big Picture Event Storming.
 ## 2.5. Ubiquitous Language.
 

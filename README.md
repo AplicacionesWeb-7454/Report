@@ -157,6 +157,24 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 # **Capítulo II: Requirements Elicitation & Analysis**
 ## 2.1. Competidores.
 ### 2.1.1. Análisis competitivo.
+
+| Por qué llevar a cabo este análisis? |  |
+|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| Características |  |  |  |  | **Pandora's Fresh** |
+|-----------------|----------|---------|---------|-------|-------------|
+| **Perfil**      |  |  |  |  |  |
+| **Ventaja competitiva**<br>¿Qué valor ofrece a los clientes? |  |  |  |  | |
+| **Mercado objetivo** |  |  |  |  |  |
+| **Estrategias de marketing** |  |  |  |
+| **Precios & Costos** | |  |  | | |
+| **Productos & Servicios** |  |  |  |  |  |
+| **Canales de distribución**  | |  |  |  |  |
+| **Fortalezas**               |  |  |  |  |  |
+| **Debilidades**              |  |  |  |  | |
+| **Oportunidades**            |  | |  | |  |
+| **Amenazas**                 |  |  |  |  |  |
+
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.

@@ -326,6 +326,7 @@ Ganar una ventaja competitiva al ofrecer una gestión de calidad más transparen
 
 # **Capítulo IV: Product Design**
 ## 4.1. Style Guidelines.
+En la realización de este capitulo, abordaremos el diseño integral de la startup, cubriendo aspectos clave como el estilo visual, los diagramas C4 para la arquitectura del sistema, los diagramas de clases, y los modelos de base de datos, proporcionando una visión clara y estructurada de la infraestructura y el funcionamiento del proyecto.
 ### 4.1.1. General Style Guidelines.
 ### 4.1.2. Web Style Guidelines.
 ## 4.2. Information Architecture.

@@ -332,6 +332,20 @@ Ganar una ventaja competitiva al ofrecer una gestión de calidad más transparen
 |   US07  |  Ver Preguntas Frecuentes   |   Como usuario confundido, quiero acceder a una sección de preguntas frecuentes, para resolver mis dudas rápidamente sin contactar soporte.   |        |        |
 |   US08  |  Ver Terminos y Condiciones    |   Como cliente responsable, quiero poder revisar los Términos y Condiciones, para conocer mis derechos y obligaciones antes de usar la app.   |        |        |
 |   US09  |  Formulario de Contacto    |  Como usuario con dudas o problemas, quiero tener un medio de contacto o feedback, para comunicarme fácilmente con el equipo.   |        |        |
+
+
+- Epicas:
+- 
+| ID   | Título                 | Descripción                                                                 |
+|------|------------------------|-----------------------------------------------------------------------------|
+| EP01 | Gestión de usuarios    | Permite a los usuarios registrarse, iniciar sesión y administrar su perfil. |
+| EP02 | Exploración de productos | Los usuarios pueden ver frutas, verduras y carnes con sus detalles.        |
+| EP03 | Carrito y compras      | Funcionalidad para agregar productos al carrito, editarlos y realizar pagos.|
+| EP04 | Gestión de pedidos     | Seguimiento del estado de los pedidos y acceso al historial de compras.     |
+| EP05 | Administración del negocio | Módulo para los administradores: inventario, reportes y control interno. |
+| EP06 | Landing     | Información institucional: historia, quiénes somos, contacto y visión.      |
+
+  
 ## 3.2. Impact Mapping.
 ## 3.3. Product Backlog.
 

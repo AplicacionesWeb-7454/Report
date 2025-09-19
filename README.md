@@ -160,7 +160,95 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
+
+- Preguntas para el primer segmento:
+  
+  - ¿Podría contarme brevemente en qué consiste su trabajo diario como jefe de cocina?
+    
+  - ¿Cómo decide qué cantidad de productos comprar a sus proveedores?
+    
+  - ¿Cómo lleva el control de las existencias que tiene disponibles?
+    
+  - ¿Cómo gestionan actualmente el inventario de alimentos en la cocina?
+    
+  - ¿Qué herramientas o métodos usan para controlar las fechas de caducidad y el estado de los productos?
+    
+  - ¿Qué tan seguido enfrentan problemas de falta o exceso de insumos?
+    
+  - ¿Cómo es la coordinación entre usted y el área de compras o proveedores?
+    
+  - ¿Qué procesos siguen para asegurar la calidad y frescura de los ingredientes antes de usarlos?
+    
+  - ¿Cómo garantizan el cumplimiento de normas de higiene y seguridad alimentaria en la cocina?
+    
+  - ¿Utilizan actualmente alguna herramienta digital para gestionar inventarios o pedidos?
+    
+  - ¿Qué funcionalidades cree que serían útiles en una herramienta pensada para la gestión de cocina?
+    
+  - ¿Qué consejo le daría a alguien que está empezando en este rol?
+
+- Preguntas para el segundo segmento:
+  
+  - ¿Podría explicarme cómo gestiona actualmente el inventario de productos frescos, lácteos y otros artículos perecederos?
+
+  - ¿Cuáles son los mayores desafíos o dolores de cabeza que enfrenta con la gestión de estos productos perecederos?
+
+  - ¿Cómo hace un seguimiento actualmente de cosas como las fechas de caducidad o la frescura de los productos?
+
+  - El desperdicio de alimentos es un desafío común en la industria. ¿Puede describir cómo se manifiesta eso en su negocio? ¿Con qué frecuencia tiene que tirar artículos?
+
+  - ¿Qué impacto tiene este desperdicio en su negocio, tanto financiero como operativo?
+
+  - ¿Ha tenido alguna vez una situación en la que se quedó sin un producto fresco inesperadamente durante las horas pico? ¿Qué pasó?
+
+  - ¿Qué herramientas o software utiliza hoy en día para la gestión de inventarios? ¿Es un sistema dedicado, una hoja de cálculo o simplemente lápiz y papel?
+
+  - ¿Qué le gusta de su método actual? ¿Qué le disgusta?
+
+  - ¿Cómo monitoriza el entorno de almacenamiento, como la temperatura en su cámara frigorífica o congelador? ¿Es manual?
+
+  - ¿Quién participa en el proceso de inventario y cuánto tiempo suele llevar cada día o semana?
+
+  - Si una varita mágica pudiera resolver tres de sus problemas de inventario, ¿cuáles serían?
+
+  - ¿Cómo mejoraría su día si pudiera ver la cantidad exacta y la fecha de caducidad de cada artículo en su inventario desde su teléfono o computadora?
+
+  - ¿Y si pudiera recibir alertas automáticas en su teléfono cuando la temperatura de un refrigerador se desvía de un rango seguro o cuando un producto específico está a punto de caducar? ¿Qué tan útil sería eso?
+
+  - ¿Qué valor tendría un informe que predijera sus niveles de desperdicio, ayudándole a tomar decisiones de compra más inteligentes para la próxima semana?
+
+  - Imagine que pudiera escanear un producto cuando llega y que se agregara automáticamente a su inventario digital. ¿Cuánto tiempo le ahorraría eso?
+
+  - ¿Cómo decide cuánto pedir de un artículo perecedero cada semana?
+
+  - Si un sistema pudiera reducir su desperdicio de alimentos en un 20% o más, ¿qué significaría eso para su resultado final?
+
+  - ¿Preferiría un sistema independiente o uno que se integre con otras herramientas que utiliza, como su sistema de punto de venta (TPV)?
+
+  - Para una solución que le ahorra tiempo, reduce el desperdicio y le da tranquilidad, ¿cómo preferiría pagar? ¿Una suscripción mensual, una licencia única o por característica?
+
+  - ¿Cuál sería el siguiente paso para usted si estuviera interesado en una solución como esta?
+
 ### 2.2.2. Registro de entrevistas.
+- **Primer Segmento:**
+  - **Entrevista 1**
+ 
+
+
+  - **Entrevista 2**
+ 
+
+  - **Entrevista 3**
+ 
+- **Segundo Segmento:**
+  - **Entrevista 1**
+ 
+
+
+  - **Entrevista 2**
+ 
+
+  - **Entrevista 3**
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.

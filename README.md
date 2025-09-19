@@ -321,29 +321,71 @@ Ganar una ventaja competitiva al ofrecer una gestión de calidad más transparen
 ## 3.1. User Stories.
 
 
-| User Story ID | Título | Description |Acceptance Criteria  | Epic Relacionado |
-|---------------|--------|------|-----------------------------------|-----------|
-|   US01  |  Navegación clara    |   Como visitante, quiero un menú claro y visible (Acerca de, Funcionalidades, Beneficiados, etc.), para ubicarme rápido en la página.   |        |    EP01    |
-|   US02  |  Acciones rápidas    |   Como visitante nuevo, quiero ver botones de acción rápida (Acerca de / Descarga), para decidir de inmediato si sigo explorando o bajo la app.   |        |   EP01     |
-|   US03  |  Ver Acerca de Nosotros    |   Como interesado en la app, quiero conocer la historia, misión, visión, valores y al equipo, para confiar en la propuesta y sentir seguridad en quiénes la desarrollan.   |        |   EP01     |
-|   US04  |  Ver Funcionalidades   |   Como visitante curioso, quiero ver un listado de funcionalidades explicadas de forma simple y visual, para entender qué puede hacer la app y si se adapta a mi negocio.   |        |    EP01    |
-|   US05  |  Ver Beneficiarios    |  Como potencial cliente, quiero conocer qué tipos de usuarios se benefician (restaurantes, proveedores, consumidores), para identificarme y validar que la app me sirve.   |        |     V   |
-|   US06  |  Ver Testimonios    |   Como nuevo visitante, quiero leer testimonios de otros usuarios reales, para ganar confianza en Pandora’s Fresh.   |        |     EP01   |
-|   US07  |  Ver Preguntas Frecuentes   |   Como usuario confundido, quiero acceder a una sección de preguntas frecuentes, para resolver mis dudas rápidamente sin contactar soporte.   |        |     EP01   |
-|   US08  |  Ver Terminos y Condiciones    |   Como cliente responsable, quiero poder revisar los Términos y Condiciones, para conocer mis derechos y obligaciones antes de usar la app.   |        |    EP01    |
-|   US09  |  Formulario de Contacto    |  Como usuario con dudas o problemas, quiero tener un medio de contacto o feedback, para comunicarme fácilmente con el equipo.   |        |     EP01   |
+| User Story ID | Título | Description | Acceptance Criteria | Epic Relacionado |
+|---------------|--------|-------------|---------------------|------------------|
+| US01 | Navegación clara | Como visitante, quiero un menú claro y visible (Acerca de, Funcionalidades, Beneficiados, etc.), para ubicarme rápido en la página. | El menú debe estar fijo y accesible en toda la navegación. | EP01 |
+| US02 | Acciones rápidas | Como visitante nuevo, quiero ver botones de acción rápida (Acerca de / Descarga), para decidir de inmediato si sigo explorando o bajo la app. | Los botones deben estar visibles en el primer scroll. | EP01 |
+| US03 | Ver Acerca de Nosotros | Como interesado en la app, quiero conocer la historia, misión, visión, valores y al equipo, para confiar en la propuesta y sentir seguridad en quiénes la desarrollan. | La sección debe mostrar texto e imágenes del equipo. | EP01 |
+| US04 | Ver Funcionalidades | Como visitante curioso, quiero ver un listado de funcionalidades explicadas de forma simple y visual, para entender qué puede hacer la app y si se adapta a mi negocio. | La página debe mostrar mínimo 5 funcionalidades clave. | EP01 |
+| US05 | Ver Beneficiarios | Como potencial cliente, quiero conocer qué tipos de usuarios se benefician (restaurantes, proveedores, consumidores), para identificarme y validar que la app me sirve. | La sección debe mostrar ejemplos claros de beneficiarios. | EP01 |
+| US06 | Ver Testimonios | Como nuevo visitante, quiero leer testimonios de otros usuarios reales, para ganar confianza en Pandora’s Fresh. | Deben mostrarse al menos 3 testimonios de clientes. | EP01 |
+| US07 | Ver Preguntas Frecuentes | Como usuario confundido, quiero acceder a una sección de preguntas frecuentes, para resolver mis dudas rápidamente sin contactar soporte. | La sección FAQ debe tener mínimo 5 preguntas frecuentes. | EP01 |
+| US08 | Ver Términos y Condiciones | Como cliente responsable, quiero poder revisar los Términos y Condiciones, para conocer mis derechos y obligaciones antes de usar la app. | El enlace debe ser accesible desde el footer. | EP01 |
+| US09 | Formulario de Contacto | Como usuario con dudas o problemas, quiero tener un medio de contacto o feedback, para comunicarme fácilmente con el equipo. | El formulario debe aceptar nombre, correo y mensaje. | EP01 |
+| US10 | Registrar productos | Como administrador, quiero registrar mis productos perecibles en la app, para llevar un control digital del inventario. | Debo poder ingresar nombre, categoría, cantidad y fecha de caducidad. | EP02 |
+| US11 | Editar inventario | Como administrador, quiero modificar la información de mis productos, para actualizar datos en caso de cambios. | El sistema debe permitir editar cualquier campo del producto. | EP02 |
+| US12 | Eliminar productos | Como administrador, quiero eliminar productos del inventario, para mantener la base de datos limpia y actualizada. | El sistema debe confirmar antes de borrar un producto. | EP02 |
+| US13 | Consultar inventario | Como usuario, quiero ver el estado general del inventario, para conocer disponibilidad y fechas de caducidad. | El inventario debe mostrar lista filtrada por estado y fecha. | EP02 |
+| US14 | Categorizar inventario | Como usuario, quiero organizar los productos por categorías (frutas, carnes, lácteos), para encontrarlos más rápido. | Debo poder asignar y filtrar productos por categoría. | EP02 |
+| US15 | Escaneo de códigos | Como usuario, quiero escanear códigos de barras o QR, para registrar productos más rápido. | La app debe activar cámara y registrar datos básicos del producto. | EP02 |
+| US16 | Monitorear temperatura | Como encargado, quiero ver en tiempo real la temperatura de almacenamiento, para garantizar condiciones seguras. | El sistema debe mostrar gráficos actualizados cada 5 min. | EP03 |
+| US17 | Monitorear humedad | Como encargado, quiero ver en tiempo real los niveles de humedad, para evitar que los productos se deterioren. | El sistema debe mostrar humedad actual y alertas si supera límites. | EP03 |
+| US18 | Conectar sensores IoT | Como administrador, quiero vincular sensores a la app, para registrar automáticamente las condiciones ambientales. | La app debe permitir emparejar sensores con un código único. | EP03 |
+| US19 | Historial ambiental | Como usuario, quiero consultar el historial de temperatura y humedad, para analizar tendencias y riesgos. | La app debe mostrar registros de al menos 30 días. | EP03 |
+| US20 | Alertas de desconexión | Como usuario, quiero recibir una alerta si un sensor deja de transmitir, para actuar de inmediato. | El sistema debe notificar por app y correo la falla de sensor. | EP03 |
+| US21 | Reporte de inventario | Como administrador, quiero generar reportes de inventario actuales, para tomar decisiones informadas. | El reporte debe exportarse en PDF y Excel. | EP04 |
+| US22 | Reporte de mermas | Como administrador, quiero reportes de pérdidas, para conocer causas y costos asociados. | El sistema debe calcular mermas por fecha y tipo de producto. | EP04 |
+| US23 | Reporte de caducidades | Como usuario, quiero ver un listado de productos próximos a vencer, para tomar acciones preventivas. | La app debe listar productos con menos de 5 días de vida útil. | EP04 |
+| US24 | Exportar reportes | Como administrador, quiero exportar mis reportes a formatos estándar, para compartirlos fácilmente. | El sistema debe exportar a PDF, Excel y CSV. | EP04 |
+| US25 | Dashboard general | Como gerente, quiero ver un tablero con métricas clave, para tener un panorama rápido del inventario. | El dashboard debe mostrar inventario total, pérdidas y alertas. | EP04 |
+| US26 | Alertas por caducidad | Como usuario, quiero recibir notificaciones de productos próximos a vencer, para evitar pérdidas. | La app debe enviar alertas con 3 días de anticipación. | EP05 |
+| US27 | Alertas por temperatura | Como usuario, quiero recibir alertas cuando la temperatura esté fuera de rango, para proteger mis productos. | La app debe enviar alertas push inmediatas. | EP05 |
+| US28 | Alertas por humedad | Como usuario, quiero recibir alertas de humedad fuera de rango, para evitar deterioro. | El sistema debe notificar en tiempo real con el valor exacto. | EP05 |
+| US29 | Alertas personalizadas | Como usuario, quiero configurar mis propios rangos de alertas, para adaptarlas a mis necesidades. | La app debe permitir ajustar umbrales de cada producto. | EP05 |
+| US30 | Notificaciones por correo | Como usuario, quiero recibir notificaciones también en mi correo, para no depender solo del celular. | Cada alerta debe enviarse en tiempo real al correo registrado. | EP05 |
+| US31 | Registro de cuenta | Como nuevo usuario, quiero registrarme en la app con correo y contraseña, para empezar a usar Pandora’s Fresh. | El registro debe validar correo único y contraseña segura. | EP06 |
+| US32 | Iniciar sesión | Como usuario, quiero acceder con mis credenciales, para entrar a mi cuenta personal. | Debo poder iniciar sesión con correo y contraseña correctos. | EP06 |
+| US33 | Cierre de sesión | Como usuario, quiero poder cerrar sesión, para proteger mi información en dispositivos compartidos. | La sesión debe cerrarse y redirigir a la pantalla principal. | EP06 |
+| US34 | Recuperar contraseña | Como usuario, quiero recuperar mi contraseña en caso de olvido, para volver a acceder a mi cuenta. | El sistema debe enviar un correo de recuperación. | EP06 |
+| US35 | Editar perfil | Como usuario, quiero actualizar mis datos personales, para mantener mi información vigente. | Debo poder modificar nombre, correo y contraseña. | EP06 |
+| US36 | Roles de usuario | Como administrador, quiero asignar roles (admin, empleado), para controlar accesos en la app. | El sistema debe limitar funciones según el rol asignado. | EP06 |
+| US37 | Recordar sesión | Como usuario frecuente, quiero mantener mi sesión activa, para no loguearme cada vez. | La app debe tener opción "recordarme". | EP06 |
+| US38 | Borrar cuenta | Como usuario, quiero eliminar mi cuenta de forma permanente, para dejar de usar el servicio. | El sistema debe confirmar antes de borrar y avisar consecuencias. | EP06 |
+| US39 | Notificación de login | Como usuario, quiero recibir un correo cuando alguien inicie sesión en mi cuenta, para detectar accesos no autorizados. | La app debe notificar en menos de 5 min. | EP06 |
+| US40 | Registro con Google | Como usuario, quiero registrarme usando mi cuenta Google, para acelerar el proceso de acceso. | La app debe permitir OAuth con Google. | EP06 |
+| US41 | Integración móvil | Como usuario, quiero acceder desde mi celular, para gestionar inventario en cualquier lugar. | La app debe funcionar en Android e iOS. | EP02 |
+| US42 | Multidispositivo | Como usuario, quiero usar la app en varios dispositivos, para tener sincronización en tiempo real. | Los cambios deben reflejarse en todos los dispositivos. | EP02 |
+| US43 | Vista rápida | Como usuario, quiero ver un resumen rápido del inventario en el inicio, para ahorrar tiempo. | El inicio debe mostrar estado general y alertas recientes. | EP02 |
+| US44 | Filtros avanzados | Como usuario, quiero aplicar filtros avanzados (categoría, estado, caducidad), para encontrar productos fácilmente. | Los filtros deben aplicarse de inmediato en la lista. | EP02 |
+| US45 | Buscador inteligente | Como usuario, quiero buscar productos por nombre o código, para ubicar rápidamente ítems. | El buscador debe mostrar resultados en menos de 2s. | EP02 |
+| US46 | Reporte mensual automático | Como administrador, quiero recibir un reporte mensual automático de inventario y pérdidas, para planificar mejor. | El sistema debe enviar reporte en PDF cada fin de mes. | EP04 |
+| US47 | Compartir reportes | Como gerente, quiero compartir reportes con mis socios, para mantenerlos informados. | Debo poder enviar reportes directamente por correo desde la app. | EP04 |
+| US48 | Alertas de energía | Como usuario, quiero recibir alertas cuando haya cortes de energía, para prevenir pérdida de productos. | El sistema debe notificar en menos de 1 min tras la desconexión. | EP05 |
+| US49 | Registro por invitación | Como administrador, quiero invitar a empleados a registrarse en la app, para que accedan a sus funciones. | Los invitados deben recibir correo con link único. | EP06 |
+| US50 | Confirmación de acciones críticas | Como usuario, quiero que la app me pida confirmación en acciones críticas (eliminar producto, borrar cuenta), para evitar errores. | Cada acción crítica debe mostrar ventana de confirmación. | EP06 |
 
 
 - Epicas:
-- 
-| ID   | Título de la Épica                     | Descripción                                                                 |
-|------|-----------------------------------------|-----------------------------------------------------------------------------|
-| E01  | Landing Page                            | Como visitante, quiero acceder a un landing atractivo e informativo para conocer Pandora’s Fresh y sus beneficios. |
-| E02  | Monitoreo IoT de productos perecibles   | Como usuario, quiero que la app me muestre en tiempo real la temperatura, humedad y estado de mis productos para evitar pérdidas. |
-| E03  | Alertas y notificaciones proactivas     | Como usuario, quiero recibir notificaciones cuando mis productos estén próximos a caducar o en condiciones inadecuadas. |
-| E04  | Gestión centralizada de inventario      | Como usuario, quiero tener un dashboard con fechas de caducidad, métricas y reportes para optimizar la administración de mis productos. |
-| E05  | Reportes de merma y análisis            | Como gerente, quiero generar reportes claros de pérdidas y costos para tomar decisiones estratégicas. |
-| E06  | Compras a proveedores desde la app      | Como usuario, quiero poder comprar insumos directamente desde la app a proveedores aliados para mantener siempre el stock óptimo. |
+  
+| Epic ID | Título | Descripción |
+|---------|--------|-------------|
+| EP01 | Landing Page | Asegura que los visitantes comprendan rápidamente el propósito de Pandora’s Fresh a través de una página clara, atractiva y funcional. |
+| EP02 | Gestión de Inventario | Permite a los usuarios registrar, organizar y consultar productos perecibles, con datos como cantidades, fechas de caducidad y condiciones de almacenamiento. |
+| EP03 | Monitoreo en Tiempo Real | Habilita el control constante de variables críticas (temperatura, humedad) mediante sensores IoT conectados a la plataforma. |
+| EP04 | Reportes y Trazabilidad | Genera reportes automáticos sobre estado del inventario, mermas y causas, asegurando la trazabilidad de los productos perecibles. |
+| EP05 | Notificaciones y Alertas | Envía alertas proactivas sobre riesgos en inventario (caducidad cercana, cambios ambientales) para reducir desperdicio y pérdidas. |
+| EP06 | Registro y Gestión de Usuarios | Permite a los usuarios crear cuentas, iniciar sesión y gestionar su perfil, garantizando experiencias personalizadas y seguras. |
+
 
   
 ## 3.2. Impact Mapping.

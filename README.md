@@ -367,6 +367,19 @@ En la realización de este capitulo, abordaremos el diseño integral de la start
 ### 5.2.1.1. Sprint Planning 1.
 ### 5.2.1.2. Aspect Leaders and Collaborators.
 ### 5.2.1.3. Sprint Backlog 1.
+| Sprint # | Sprint 1 |             |                   |                 |                                                |
+|----------|---|-------------|-------------------|-----------------|------------------------------------------------|
+|          | User Story |             |                   |                 |                                                ||
+| Id       | Title | Description | Estimation(hours) | Assigned to     | Status (To-do / In-Process / To-Review / Done) |
+| US01     | Navegación clara	  |       Como visitante, quiero un menú claro y visible (Acerca de, Funcionalidades, Beneficiados, etc.), para ubicarme rápido en la página.	      | 4                 | Jareth341       | Done                                           |
+| US02     | Acciones rápidas	 |    Como visitante nuevo, quiero ver botones de acción rápida (Acerca de / Descarga), para decidir de inmediato si sigo explorando o bajo la app.	         | 3                 | Diego Llamozas  |          Done                                      |
+| US03     | Ver Acerca de Nosotros	 |     Como interesado en la app, quiero conocer la historia, misión, visión, valores y al equipo, para confiar en la propuesta y sentir seguridad en quiénes la desarrollan.	        | 4                 | Jhon Chuchon    |                         Done                       |
+| US04     | Ver Funcionalidades	  |    Como visitante curioso, quiero ver un listado de funcionalidades explicadas de forma simple y visual, para entender qué puede hacer la app y si se adapta a mi negocio.	         | 5                 | Diego Seminario |                               Done                 |
+| US05     | Ver Beneficiarios	 |      Como potencial cliente, quiero conocer qué tipos de usuarios se benefician (restaurantes, proveedores, consumidores), para identificarme y validar que la app me sirve.	       | 4                 | AlexBoo578      |                                     Done           |
+| US06     | Ver Testimonios	 |     Como nuevo visitante, quiero leer testimonios de otros usuarios reales, para ganar confianza en Pandora’s Fresh.	        | 4                 | Jareth341       |                             Done                   |
+| US07     | Ver Preguntas Frecuentes	 |       Como usuario confundido, quiero acceder a una sección de preguntas frecuentes, para resolver mis dudas rápidamente sin contactar soporte.	      | 5                 | Diego Llamozas  |                                           Done     |
+| US08     | Ver Términos y Condiciones	 |   Como cliente responsable, quiero poder revisar los Términos y Condiciones, para conocer mis derechos y obligaciones antes de usar la app.	          | 5                 | Jhon Chuchon    |                                           Done     |
+| US09     | Formulario de Contacto	 |     Como usuario con dudas o problemas, quiero tener un medio de contacto o feedback, para comunicarme fácilmente con el equipo.	        | 4                 | Diego Seminario |                                         Done       |
 ### 5.2.1.4. Development Evidence for Sprint Review.
 ### 5.2.1.5. Execution Evidence for Sprint Review.
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.

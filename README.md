@@ -336,14 +336,14 @@ Ganar una ventaja competitiva al ofrecer una gestión de calidad más transparen
 
 - Epicas:
 - 
-| ID   | Título                 | Descripción                                                                 |
-|------|------------------------|-----------------------------------------------------------------------------|
-| EP01 | Gestión de usuarios    | Permite a los usuarios registrarse, iniciar sesión y administrar su perfil. |
-| EP02 | Exploración de productos | Los usuarios pueden ver frutas, verduras y carnes con sus detalles.        |
-| EP03 | Carrito y compras      | Funcionalidad para agregar productos al carrito, editarlos y realizar pagos.|
-| EP04 | Gestión de pedidos     | Seguimiento del estado de los pedidos y acceso al historial de compras.     |
-| EP05 | Administración del negocio | Módulo para los administradores: inventario, reportes y control interno. |
-| EP06 | Landing     | Información institucional: historia, quiénes somos, contacto y visión.      |
+| ID   | Título de la Épica                     | Descripción                                                                 |
+|------|-----------------------------------------|-----------------------------------------------------------------------------|
+| E01  | Landing Page                            | Como visitante, quiero acceder a un landing atractivo e informativo para conocer Pandora’s Fresh y sus beneficios. |
+| E02  | Monitoreo IoT de productos perecibles   | Como usuario, quiero que la app me muestre en tiempo real la temperatura, humedad y estado de mis productos para evitar pérdidas. |
+| E03  | Alertas y notificaciones proactivas     | Como usuario, quiero recibir notificaciones cuando mis productos estén próximos a caducar o en condiciones inadecuadas. |
+| E04  | Gestión centralizada de inventario      | Como usuario, quiero tener un dashboard con fechas de caducidad, métricas y reportes para optimizar la administración de mis productos. |
+| E05  | Reportes de merma y análisis            | Como gerente, quiero generar reportes claros de pérdidas y costos para tomar decisiones estratégicas. |
+| E06  | Compras a proveedores desde la app      | Como usuario, quiero poder comprar insumos directamente desde la app a proveedores aliados para mantener siempre el stock óptimo. |
 
   
 ## 3.2. Impact Mapping.

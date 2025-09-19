@@ -359,9 +359,85 @@ En la realización de este capitulo, abordaremos el diseño integral de la start
 # **Capítulo V: Product Implementation, Validation & Deployment**
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
+| Tipo de Actividad       | Herramienta / Producto | URL                                | Motivos de uso                                                                 |
+|--------------------------|-------------------------|------------------------------------|--------------------------------------------------------------------------------|
+| UX/UI Design             | Figma                  | https://www.figma.com/es-la        | Realizar los diseños de interfaz y de experiencia de usuario para nuestra solución. |
+| Desarrollo de Software   | VS Code                | https://code.visualstudio.com      | Desarrollar la Landing Page de nuestra solución.                                |
+| Documentación            | GitHub                 | https://github.com                 | Realizar la documentación de nuestra propuesta.                                 |
+| Gestión de Requisitos    | Miro                    | https://miro.com/                | Para organizar, colaborar y realizar un seguimiento del trabajo de manera eficiente. |
+| Reuniones                | Discord                | https://discord.com/               | Reuniones con el equipo.                                                        |
 ### 5.1.2. Source Code Management.
+**Link Repositorio Report**
+
+Link: https://github.com/AplicacionesWeb-7454/Report.git
+
+**Link Repositorio Landing**
+
+Link: https://github.com/AplicacionesWeb-7454/LandingPage.git
+
+
+**Workflow – GitFlow**
+
+Se implementará el modelo **GitFlow** para el manejo de ramas:
+
+- **main**: rama principal, contiene solo versiones estables listas para producción.
+- **develop**: rama de integración, donde se juntan las nuevas funcionalidades antes de liberar una versión.
+- **feature/***: cada nueva funcionalidad tendrá su propio branch.
+    - Ejemplo: feature/login-auth
+- **release/***: rama usada para preparar una nueva versión antes de pasar a producción.
+    - Ejemplo: release/1.0.0
+- **hotfix/***: ramas para corregir errores críticos en producción.
+    - Ejemplo: hotfix/fix-login-bug
+
+
+**Versionado**
+
+Se aplicará **Semantic Versioning (SemVer 2.0.0):**
+
+- **Formato**: MAJOR.MINOR.PATCH
+- **Ejemplo**: v1.2.3
+
+### Significado:
+- **MAJOR**: cambios incompatibles.
+- **MINOR**: nuevas funcionalidades sin romper compatibilidad.
+- **PATCH**: corrección de bugs.
+
+
+**Commits**
+
+Se utilizarán los estándares de **Conventional Commits**:
+
+- **feat**: nueva funcionalidad.
+- **fix**: corrección de bug.
+- **docs**: cambios en documentación.
+- **style**: cambios de formato (no afectan código).
+- **refactor**: cambios internos sin alterar funcionalidad.
+- **test**: pruebas añadidas o corregidas.
+- **chore**: tareas de mantenimiento.
 ### 5.1.3. Source Code Style Guide & Conventions.
+- HTML
+    - "p" Utiliza esta etiqueta para dividir el texto en párrafos.
+    - "a" Permite crear enlaces hacia otras páginas web.
+    - "ul" Crea una lista no ordenada (sin numeración).
+    - "li" Define cada elemento dentro de una lista.
+    - "meta" Se incluye en la sección de encabezado del HTML y no es visible en la página.
+    - "h1" Indica el encabezado más importante del contenido.
+    - "div" Agrupa diferentes secciones de contenido.
+
+- CSS
+    - width: Define el ancho de un elemento.
+    - height: Establece el alto de un elemento.
+    - padding: Crea espacio interno entre el borde y el contenido.
+    - font-family: Determina el tipo de fuente.
+    - font-size: Ajusta el tamaño de la fuente.
+    - font-weight: Controla el grosor o peso de la fuente.
+    - font-style: Configura el estilo de la fuente (normal, cursiva, etc.).
+    - text-align: Alinea el texto según lo especificado (izquierda, centro, derecha).
+    - color: Aplica color al texto o al borde del elemento.
+    - background-color: Define el color de fondo del elemento.
+
 ### 5.1.4. Software Deployment Configuration.
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 ### 5.2.1.1. Sprint Planning 1.

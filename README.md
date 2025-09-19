@@ -440,7 +440,22 @@ Se utilizarán los estándares de **Conventional Commits**:
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
+En esta sección, se documentará y explicará, en términos de producto y colaboración, el primer sprint de trabajo.
 ### 5.2.1.1. Sprint Planning 1.
+| **Sprint #**                  | Sprint 1                                                                                                                                                                            |
+|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background** |                                                                                                                                                                                     |
+| **Date**                       | 19 de septiembre del 2025                                                                                                                                                           |
+| **Time**                       | 18:00 horas                                                                                                                                                                         |
+| **Location**                   | Modalidad remota a través de la plataforma Discord                                                                                                                                  |
+| **Prepared By**                | Todos los integrantes del equipo Pandoras Fresh                                                                                                                                     |
+| **Attendees (to planning meeting)** | Todos los integrantes del equipo Pandoras Fresh                                                                                                                                     |
+| **Sprint 0 Review Summary**    | Dado que es nuestro primer sprint de desarrollo, aún no se ha realizado un resumen del sprint anterior.                                                                             |
+| **Sprint 0 Retrospective Summary** | No se identificaron mejoras ya que es el primer sprint.                                                                                                                             |
+| **Sprint Goal & User Stories** | US01, US02, US03, US04, US05, US06, US07, US08, US09                                                                                                                                |
+| **Sprint 1 Goal**              | En este sprint, nuestro enfoque está en describir nuestra startup y en construir la estructura de la Landing Page, realizar las entrevisas, y tener definidos nuestros user stories |
+| **Sprint 1 Velocity**          | 5                                                                                                                                                                                   |
+| **Sum of Story Points**        | 5                                                                                                                                                                                   
 ### 5.2.1.2. Aspect Leaders and Collaborators.
 ### 5.2.1.3. Sprint Backlog 1.
 | Sprint # | Sprint 1 |             |                   |                 |                                                |

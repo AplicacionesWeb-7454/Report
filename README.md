@@ -322,6 +322,59 @@ Ganar una ventaja competitiva al ofrecer una gestión de calidad más transparen
 ## 3.2. Impact Mapping.
 ## 3.3. Product Backlog.
 
+| #Orden | User Story ID | Descripción | Story Point(1/3/5/8) |
+|--------|---------------|-------------|-------------|
+| 1 | US01 | Como visitante, quiero un menú claro y visible (Acerca de, Funcionalidades, Beneficiados, etc.), para ubicarme rápido en la página. | 3 |
+| 2 | US02 | Como visitante nuevo, quiero ver botones de acción rápida (Acerca de / Descarga), para decidir de inmediato si sigo explorando o bajo la app. | 3 |
+| 3 | US03 | Como interesado en la app, quiero conocer la historia, misión, visión, valores y al equipo, para confiar en la propuesta y sentir seguridad en quiénes la desarrollan. | 5 |
+| 4 | US04 | Como visitante curioso, quiero ver un listado de funcionalidades explicadas de forma simple y visual, para entender qué puede hacer la app y si se adapta a mi negocio. | 5 |
+| 5 | US05 | Como potencial cliente, quiero conocer qué tipos de usuarios se benefician (restaurantes, proveedores, consumidores), para identificarme y validar que la app me sirve. | 3 |
+| 6 | US06 | Como nuevo visitante, quiero leer testimonios de otros usuarios reales, para ganar confianza en Pandora’s Fresh. | 3 |
+| 7 | US07 | Como usuario confundido, quiero acceder a una sección de preguntas frecuentes, para resolver mis dudas rápidamente sin contactar soporte. | 3 |
+| 8 | US08 | Como cliente responsable, quiero poder revisar los Términos y Condiciones, para conocer mis derechos y obligaciones antes de usar la app. | 2 |
+| 9 | US09 | Como usuario con dudas o problemas, quiero tener un medio de contacto o feedback, para comunicarme fácilmente con el equipo. | 3 |
+| 10 | US10 | Como administrador, quiero registrar mis productos perecibles en la app, para llevar un control digital del inventario. | 5 |
+| 11 | US11 | Como administrador, quiero modificar la información de mis productos, para actualizar datos en caso de cambios. | 3 |
+| 12 | US12 | Como administrador, quiero eliminar productos del inventario, para mantener la base de datos limpia y actualizada. | 3 |
+| 13 | US13 | Como usuario, quiero ver el estado general del inventario, para conocer disponibilidad y fechas de caducidad. | 5 |
+| 14 | US14 | Como usuario, quiero organizar los productos por categorías (frutas, carnes, lácteos), para encontrarlos más rápido. | 3 |
+| 15 | US15 | Como usuario, quiero escanear códigos de barras o QR, para registrar productos más rápido. | 8 |
+| 16 | US16 | Como encargado, quiero ver en tiempo real la temperatura de almacenamiento, para garantizar condiciones seguras. | 8 |
+| 17 | US17 | Como encargado, quiero ver en tiempo real los niveles de humedad, para evitar que los productos se deterioren. | 8 |
+| 18 | US18 | Como administrador, quiero vincular sensores a la app, para registrar automáticamente las condiciones ambientales. | 8 |
+| 19 | US19 | Como usuario, quiero consultar el historial de temperatura y humedad, para analizar tendencias y riesgos. | 5 |
+| 20 | US20 | Como usuario, quiero recibir una alerta si un sensor deja de transmitir, para actuar de inmediato. | 5 |
+| 21 | US21 | Como administrador, quiero generar reportes de inventario actuales, para tomar decisiones informadas. | 5 |
+| 22 | US22 | Como administrador, quiero reportes de pérdidas, para conocer causas y costos asociados. | 5 |
+| 23 | US23 | Como usuario, quiero ver un listado de productos próximos a vencer, para tomar acciones preventivas. | 3 |
+| 24 | US24 | Como administrador, quiero exportar mis reportes a formatos estándar, para compartirlos fácilmente. | 5 |
+| 25 | US25 | Como gerente, quiero ver un tablero con métricas clave, para tener un panorama rápido del inventario. | 8 |
+| 26 | US26 | Como usuario, quiero recibir notificaciones de productos próximos a vencer, para evitar pérdidas. | 3 |
+| 27 | US27 | Como usuario, quiero recibir alertas cuando la temperatura esté fuera de rango, para proteger mis productos. | 5 |
+| 28 | US28 | Como usuario, quiero recibir alertas de humedad fuera de rango, para evitar deterioro. | 5 |
+| 29 | US29 | Como usuario, quiero configurar mis propios rangos de alertas, para adaptarlas a mis necesidades. | 5 |
+| 30 | US30 | Como usuario, quiero recibir notificaciones también en mi correo, para no depender solo del celular. | 3 |
+| 31 | US31 | Como nuevo usuario, quiero registrarme en la app con correo y contraseña, para empezar a usar Pandora’s Fresh. | 5 |
+| 32 | US32 | Como usuario, quiero acceder con mis credenciales, para entrar a mi cuenta personal. | 3 |
+| 33 | US33 | Como usuario, quiero poder cerrar sesión, para proteger mi información en dispositivos compartidos. | 2 |
+| 34 | US34 | Como usuario, quiero recuperar mi contraseña en caso de olvido, para volver a acceder a mi cuenta. | 3 |
+| 35 | US35 | Como usuario, quiero actualizar mis datos personales, para mantener mi información vigente. | 3 |
+| 36 | US36 | Como administrador, quiero asignar roles (admin, empleado), para controlar accesos en la app. | 5 |
+| 37 | US37 | Como usuario frecuente, quiero mantener mi sesión activa, para no loguearme cada vez. | 2 |
+| 38 | US38 | Como usuario, quiero eliminar mi cuenta de forma permanente, para dejar de usar el servicio. | 3 |
+| 39 | US39 | Como usuario, quiero recibir un correo cuando alguien inicie sesión en mi cuenta, para detectar accesos no autorizados. | 3 |
+| 40 | US40 | Como usuario, quiero registrarme usando mi cuenta Google, para acelerar el proceso de acceso. | 5 |
+| 41 | US41 | Como usuario, quiero acceder desde mi celular, para gestionar inventario en cualquier lugar. | 8 |
+| 42 | US42 | Como usuario, quiero usar la app en varios dispositivos, para tener sincronización en tiempo real. | 8 |
+| 43 | US43 | Como usuario, quiero ver un resumen rápido del inventario en el inicio, para ahorrar tiempo. | 5 |
+| 44 | US44 | Como usuario, quiero aplicar filtros avanzados (categoría, estado, caducidad), para encontrar productos fácilmente. | 5 |
+| 45 | US45 | Como usuario, quiero buscar productos por nombre o código, para ubicar rápidamente ítems. | 5 |
+| 46 | US46 | Como administrador, quiero recibir un reporte mensual automático de inventario y pérdidas, para planificar mejor. | 5 |
+| 47 | US47 | Como gerente, quiero compartir reportes con mis socios, para mantenerlos informados. | 3 |
+| 48 | US48 | Como usuario, quiero recibir alertas cuando haya cortes de energía, para prevenir pérdida de productos. | 5 |
+| 49 | US49 | Como administrador, quiero invitar a empleados a registrarse en la app, para que accedan a sus funciones. | 5 |
+| 50 | US50 | Como usuario, quiero que la app me pida confirmación en acciones críticas (eliminar producto, borrar cuenta), para evitar errores. | 3 |
+
 ---
 
 # **Capítulo IV: Product Design**

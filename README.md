@@ -480,6 +480,14 @@ En esta sección, se documentará y explicará, en términos de producto y colab
 | **Sprint 1 Velocity**          | 5                                                                                                                                                                                   |
 | **Sum of Story Points**        | 5                                                                                                                                                                                   
 ### 5.2.1.2. Aspect Leaders and Collaborators.
+| Team Member (Last Name, First Name) | Github Username | Elaboracion de User Stories Leader (L), Collaborator (C) | Desarrollo del landing page Leader (L), Collaborator (C) | Descripcion y desarrollo de los primeros capitulos Leader (L), Collaborator (C) |
+|-------------------------------------|-----------------| ------------------------------------------------------- |----------------------------------------------------------| -------------------------------------------------- |
+| Llamozas, Diego                     | Diego Llamozas  | (C)                                                     | (C)                                                      | (C)                                                |
+| Vidal, Jareth                       | Jareth341       | (L)                                                     | (L)                                                      | (C)                                                |
+| Chuchon, Jhon                       | JhonChuchon     | (C)                                                     | (C)                                                      | (C)                                                |
+| Seminario, Diego                    | DiegoSeminario  | (C)                                                     | (C)                                                      | (C)                                                |
+| Mendoza, Alejandro                  | AlexBoo578      |                 (C)                                         | (C)                                                      |        (C)                                  |
+
 ### 5.2.1.3. Sprint Backlog 1.
 | Sprint # | Sprint 1 |             |                   |                 |                                                |
 |----------|---|-------------|-------------------|-----------------|------------------------------------------------|

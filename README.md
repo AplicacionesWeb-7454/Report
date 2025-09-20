@@ -721,12 +721,41 @@ En la realización de este capitulo, abordaremos el diseño integral de la start
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Design-Level Event Storming.
 ### 4.6.2. Software Architecture Context Diagram.
+
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/DiagramContext.jpeg" alt="DiagramContext" style="max-width:100%; margin-bottom:10px;">
+
+
 ### 4.6.3. Software Architecture Container Diagrams.
+
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/DiagramContainer.jpeg" alt="DiagramContainer" style="max-width:100%; margin-bottom:10px;">
+
 ### 4.6.4. Software Architecture Components Diagrams.
+
+- Bounded Context Gestion de Usuarios y Accesos
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/BC_GestionUsuarios.jpeg" alt="BC_GestionUsuarios" style="max-width:100%; margin-bottom:10px;">
+
+- Bounded Context Gestion de Inventario
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/BC_GestionInventario.jpeg" alt="BC_GestionInventario" style="max-width:100%; margin-bottom:10px;">
+
+- Bounded Context Monitoreo IoT
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/BC_MonitoreoIoT.jpeg" alt="BC_MonitoreoIoT" style="max-width:100%; margin-bottom:10px;">
+
+- Bounded Context Reportes y Analitica
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/BC_ReporteAnalitica.jpeg" alt="BC_ReporteAnalitica" style="max-width:100%; margin-bottom:10px;">
+
+- Bounded Context Alertas y Notificaciones
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/BC_AlertasNotificaciones.jpeg" alt="BC_AlertasNotificaciones" style="max-width:100%; margin-bottom:10px;">
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
+
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/DiagramaClases.png" alt="DiagramaClases" style="max-width:100%; margin-bottom:10px;">
+
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagrams.
+
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/DataBaseDiagram.png" alt="DataBaseDiagram" style="max-width:100%; margin-bottom:10px;">
+
 
 ---
 

@@ -714,6 +714,13 @@ En la realización de este capitulo, abordaremos el diseño integral de la start
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
+![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/web-wire1.png)
+![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/web-wire2.png)
+![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/web-wire3.png)
+![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/web-wire4.png)
+![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/web-wire5.png)
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
 ### 4.4.2. Web Applications Mock-ups.
 ### 4.4.3. Web Applications User Flow Diagrams.

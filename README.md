@@ -505,6 +505,11 @@ En esta sección, se documentará y explicará, en términos de producto y colab
 ### 5.2.1.4. Development Evidence for Sprint Review.
 ### 5.2.1.5. Execution Evidence for Sprint Review.
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+Durante el Sprint 1, el equipo logró implementar y desplegar la Landing Page de Pandoras Fresh, lo que representa el primer entregable visible y funcional del producto. Esta incluye secciones informativas sobre la plataforma, beneficios clave para los usuarios, diferenciación por tipo de usuario, y botones de acción que direccionan al login o registro.
+
+Además, se configuró el entorno de desarrollo, se definieron los flujos de trabajo con Gitflow y se establecieron las convenciones de codificación. Los avances fueron registrados mediante commits con convenciones semánticas y organizados a través de su propio repositorio.
+
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 

@@ -309,7 +309,35 @@ Ganar una ventaja competitiva al ofrecer una gestión de calidad más transparen
 # **Capítulo II: Requirements Elicitation & Analysis**
 ## 2.1. Competidores.
 ### 2.1.1. Análisis competitivo.
+
+| Por qué llevar a cabo este análisis? | Este análisis permite identificar quiénes son los competidores directos e indirectos de Pandora’s Fresh, conocer sus fortalezas y debilidades, y determinar cómo posicionar nuestra solución para destacar en el mercado de gestión de inventarios de productos perecibles. |
+|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| Características | MarketMan | xtraCHEF / Toast | Yellow Dog Inventory | Afresh / RELEX Solutions | **Pandora's Fresh** |
+|-----------------|-----------|-----------------|--------------------|-------------------------|------------------|
+| **Perfil**      | Software de gestión de inventarios para restaurantes y bares. | Plataforma de automatización contable y control de inventarios para restaurantes. | Gestión de inventarios para restaurantes, catering y bares. | Software de optimización de inventarios frescos para supermercados y minoristas. | Plataforma integral de gestión de inventarios perecibles con IoT y analítica predictiva, enfocada en PYMEs locales y mercados. |
+| **Ventaja competitiva**<br>¿Qué valor ofrece a los clientes? | Control de costos, reducción de desperdicio, digitalización de inventarios. | Automatización contable, control de inventarios, informes financieros. | Control de inventarios y reducción de pérdidas. | Predicción de demanda, optimización de reabastecimiento de productos frescos. | Monitoreo en tiempo real de variables críticas (temperatura, humedad, caducidad), alertas proactivas, predicción de riesgos y toma de decisiones basada en datos. |
+| **Mercado objetivo** | Restaurantes y bares medianos. | Restaurantes y bares. | Restaurantes pequeños, catering y bares. | Supermercados y minoristas grandes. | Pequeños y medianos restaurantes y puestos de mercados de abastos en Lima Metropolitana. |
+| **Estrategias de marketing** | Demostraciones y webinars para restaurantes. | Integración con sistemas de punto de venta, marketing digital. | Promociones a restaurantes y bares locales. | Ventas B2B directas y consultoría para grandes retailers. | Alianzas locales, demostraciones en vivo, educación sobre sostenibilidad y reducción de desperdicio, marketing digital enfocado en PYMEs. |
+| **Precios & Costos** | Suscripción mensual según tamaño del negocio. | Suscripción basada en volumen de transacciones. | Suscripción mensual para pequeñas empresas. | Licencias empresariales personalizadas. | Modelo escalable basado en suscripción, adaptado a PYMEs, con opción de hardware IoT incluido. |
+| **Productos & Servicios** | Software de inventario, reportes de costos, alertas básicas. | Software contable y de inventario, reportes financieros. | Software de inventarios, reportes y alertas. | Software de optimización de inventario fresco, predicción de demanda. | Software + hardware IoT, monitoreo en tiempo real, alertas proactivas, reportes automáticos, insights predictivos, gestión centralizada. |
+| **Canales de distribución**  | Online, ventas directas, partners de restaurantes. | Integraciones con POS, ventas directas. | Online, ventas directas a restaurantes. | Ventas directas B2B y consultores especializados. | Online, demostraciones en sitio, alianzas locales con mercados y asociaciones de restaurantes. |
+| **Fortalezas**               | Fácil de usar, reduce desperdicio, digitaliza inventarios. | Integración con contabilidad, automatiza tareas financieras. | Control básico de inventarios, fácil de implementar. | IA avanzada para predicción de demanda, optimización de inventarios. | Monitoreo en tiempo real, IoT, predicción de riesgos, enfoque en PYMEs y sostenibilidad, insights accionables. |
+| **Debilidades**              | No incluye monitoreo ambiental ni predicción de riesgos. | No integra sensores ni alertas en tiempo real. | Funcionalidades limitadas, no predictivo. | Enfocado en grandes retailers, costoso para PYMEs. | Nuevo en el mercado, requiere educación a clientes sobre tecnología IoT. |
+| **Oportunidades**            | Crecimiento en adopción digital de restaurantes. | Expansión a nuevos mercados y cadenas de restaurantes. | Digitalización de PYMEs, integración con IoT. | Expansión a mercados emergentes y PYMEs. | Liderar digitalización de PYMEs locales, promover sostenibilidad, expandir monitoreo IoT a otros mercados. |
+| **Amenazas**                 | Competencia de software más avanzado y económico. | Competencia de soluciones más integrales. | Competencia de nuevas startups con IoT y analítica predictiva. | Competencia de soluciones especializadas para PYMEs. | Entrada de competidores globales, reticencia de negocios locales a adoptar tecnología nueva. |
+
+
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+
+| Estrategia | Objetivo | Tácticas |
+|------------|---------|----------|
+| **Diferenciación tecnológica** | Destacar como la solución más avanzada para PYMEs y mercados locales | - Integración de sensores IoT para monitoreo en tiempo real. <br> - Alertas proactivas y predicción de riesgos. <br> - Panel de control intuitivo con insights accionables. |
+| **Foco en PYMEs locales** | Atacar un nicho desatendido por competidores grandes | - Campañas de marketing local en Lima Metropolitana. <br> - Alianzas con mercados de abastos y asociaciones de restaurantes. <br> - Pricing escalable adaptado a pequeños negocios. |
+| **Sostenibilidad y reducción de desperdicio** | Posicionarse como aliado de eficiencia y responsabilidad | - Promover casos de éxito que muestren reducción de mermas. <br> - Contenido educativo sobre sostenibilidad y buenas prácticas. <br> - Certificaciones o reconocimientos de sostenibilidad para clientes. |
+| **Educación y confianza tecnológica** | Reducir la reticencia de negocios a adoptar IoT y software | - Webinars, workshops y demostraciones en sitio. <br> - Manuales simples y soporte personalizado. <br> - Programas de onboarding rápido. |
+| **Marketing de prueba y recomendación** | Generar adopción inicial y boca a boca | - Versiones piloto gratuitas o con descuento. <br> - Testimonios de clientes satisfechos. <br> - Programa de referidos para atraer nuevos negocios. |
+
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
 ### 2.2.2. Registro de entrevistas.

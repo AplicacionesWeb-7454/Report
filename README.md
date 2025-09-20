@@ -468,11 +468,78 @@ En síntesis, los hallazgos de las entrevistas muestran que la problemática no 
 
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
+
+- User Persona 1: Primer Segmento
+  
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter2/UserPersona1.jpg" alt="User Persona - Diego Ríos" style="max-width:100; height:auto;">
+
+- User Persona 2: Segundo Segmento
+  
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter2/UserPersona2.jpg" alt="User Persona - Carlos Diaz" style="max-width:100; height:auto;">
+
 ### 2.3.2. User Task Matrix.
+
+- **Segmento 1: Gerentes de Pequeños y Medianos Restaurantes (AS IS)**
+  
+| Tarea principal                                   | Frecuencia | Importancia |
+|---------------------------------------------------|------------|-------------|
+| Revisar inventario en libretas o Excel            | Alta       | Alta        |
+| Verificar fechas de caducidad manualmente         | Media      | Alta        |
+| Revisar cámaras de refrigeración de forma visual  | Alta       | Alta        |
+| Registrar compras con boletas o apuntes sueltos   | Media      | Media       |
+| Descartar insumos dañados sin registro formal     | Media      | Alta        |
+| Elaborar reportes contables a mano o en hojas     | Baja       | Alta        |
+  
+- **Segmento 2: Dueños de Puestos en Mercados de Abastos (AS IS)**
+
+| Tarea principal                                   | Frecuencia | Importancia |
+|---------------------------------------------------|------------|-------------|
+| Revisar visualmente el estado de frutas/verduras  | Alta       | Alta        |
+| Separar productos malogrados durante la venta     | Alta       | Alta        |
+| Ajustar precios según deterioro o exceso de stock | Alta       | Media       |
+| Controlar inventario de memoria o en papel        | Media      | Alta        |
+| Negociar precios rápidos con clientes             | Alta       | Media       |
+| Asumir pérdidas como parte del costo operativo    | Media      | Alta        |
+
 ### 2.3.3. User Journey Mapping.
+
+En esta sección se presentan los **User Journey Maps** de los segmentos definidos.  
+El objetivo es ilustrar el recorrido end-to-end actual de cada User Persona, mostrando cómo gestionan sus actividades cotidianas relacionadas con el manejo de inventarios de productos perecibles, **sin la existencia de la solución Pandora’s Fresh**. 
+
+- User Journey Mapping 1: Primer Segmento
+  
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter2/UserJourneyMapping1.jpg" alt="User Journey Mapping 1" style="max-width:100; height:auto;">
+
+- User Journey Mapping 2: Segundo Segmento
+  
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter2/UserJourneyMapping2.jpg" alt="User Journey Mapping 1"  style="max-width:100; height:auto;">
+  
 ### 2.3.4. Empathy Mapping.
+
+- Empathy Mapping 1
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter2/EmpathyMapping1.jpg" alt="Empathy Mapping 1" style="max-width:100; height:auto;">
+
+- Empathy Mapping 2
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter2/EmpathyMapping2.jpg" alt="Empathy Mapping 2" style="max-width:100; height:auto;">
+  
 ## 2.4. Big Picture Event Storming.
 ## 2.5. Ubiquitous Language.
+
+- **Perishable Goods (Productos perecibles)**: Alimentos con vida útil limitada (frutas, verduras, carnes, lácteos, pescados) que requieren condiciones específicas de almacenamiento para mantener su frescura.  
+- **Food Waste (Desperdicio de alimentos)**: Pérdida de productos alimenticios que no llegan a ser consumidos debido a caducidad, deterioro o mala gestión de inventario.  
+- **Traceability (Trazabilidad)**: Capacidad de rastrear el origen, almacenamiento y estado de un producto a lo largo de la cadena de suministro.  
+- **Inventory Management (Gestión de inventarios)**: Conjunto de prácticas para controlar la entrada, almacenamiento y salida de productos perecibles en restaurantes, mercados o almacenes.  
+- **Cold Chain (Cadena de frío)**: Proceso logístico que asegura la conservación de alimentos perecibles a bajas temperaturas desde la producción hasta la venta.  
+- **Stock Rotation (Rotación de inventario)**: Método de organización de productos donde los más antiguos se venden o usan primero (ej. método FIFO: First In, First Out).  
+- **Shrinkage (Merma)**: Pérdida de valor o cantidad de productos por caducidad, deterioro, manipulación o robo.  
+- **Food Safety (Seguridad alimentaria)**: Conjunto de prácticas para garantizar que los alimentos sean seguros para el consumo humano.  
+- **Supplier (Proveedor)**: Persona o empresa que abastece a restaurantes o mercados con productos frescos.  
+- **Customer Demand (Demanda del cliente)**: Cantidad y tipo de productos que los consumidores esperan encontrar disponibles en condiciones óptimas.  
+- **Shelf Life (Vida útil)**: Tiempo durante el cual un producto perecible mantiene sus características de calidad y seguridad para el consumo.  
+- **Spoilage (Descomposición/Deterioro)**: Estado en el cual los alimentos pierden frescura y ya no son aptos para la venta o consumo.  
+- **Overstocking (Sobreabastecimiento)**: Exceso de inventario que supera la demanda real, generando riesgo de desperdicio.  
+- **Understocking (Desabastecimiento)**: Falta de inventario suficiente para cubrir la demanda, ocasionando pérdidas de ventas y clientes insatisfechos.  
+- **Quality Control (Control de calidad)**: Procedimientos para evaluar y garantizar que los productos perecibles cumplen con los estándares establecidos de frescura y seguridad.  
 
 ---
 

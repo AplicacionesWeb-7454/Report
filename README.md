@@ -132,8 +132,9 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 
 | Criterio específico                                                  | Acciones realizadas       | Conclusiones      | 
 |----------------------------------------------------------------------|---------------------------|-------------------|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia   |                           |                   |
-|Comunica por escrito con efectividad a diferentes rangos de audiencia |                           |                   |
+|Comunica oralmente con efectividad a diferentes rangos de audiencia   |    TB1:Me reuní de manera efectiva con mis compañeros para la distribución de tareas.                       |                   |
+|Comunica por escrito con efectividad a diferentes rangos de audiencia |                           |                  TB1: Como equipo, logramos comunicarnos de manera efectiva en distintos contextos y audiencias, coordinando nuestras actividades mediante presentaciones claras, elaboración de User Stories, mockups, wireframes y diagramas de bases de datos.
+ |
 
 ---
 
@@ -157,7 +158,7 @@ Propuesta de Valor: Ofrecemos control absoluto, tranquilidad y eficiencia en la 
 | <img width="150" src="">   | Mi nombre es Jareth Vidal estoy estudiando la carrera de Ingeniería de Software y actualmente me encuentro cursando el quinto ciclo. Me gusta el deporte y mantenerme en constante aprendizaje. Tengo conocimientos en  C++, HTML, CSS y JavaScript y un poco de Python, así como habilidades para la adaptabilidad y la responsabilidad. |
 | <img width="150" src="">          |Mi nombre es Pablo,tengo 20 años y soy estudiante de Ingeniería de Software en la UPC, sede San Miguel. Soy una persona decidida, confiable, responsable y honesta con mi grupo de trabajo ,siendo lo más útil posible. Tengo conocimientos en C++,C# y php. Cada día trato de dar una mejor versión de mi y aprender de mis errores. |   
 | <img width="150" src="">          |Mi nombre es Pablo,tengo 20 años y soy estudiante de Ingeniería de Software en la UPC, sede San Miguel. Soy una persona decidida, confiable, responsable y honesta con mi grupo de trabajo ,siendo lo más útil posible. Tengo conocimientos en C++,C# y php. Cada día trato de dar una mejor versión de mi y aprender de mis errores. |   
-| <img width="150" src="assets/img/diego.png">          |Mi nombre es Diego,tengo 20 años y soy estudiante de Ingeniería de Software en la UPC, sede San Miguel. . |   
+| <img width="150" src="assets/img/FotosNuestras/diego.png">          |Mi nombre es Diego,tengo 20 años y soy estudiante de Ingeniería de Software en la UPC, sede San Miguel. . |   
 
 ## 1.2. Solution Profile
 

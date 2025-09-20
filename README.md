@@ -340,8 +340,132 @@ Ganar una ventaja competitiva al ofrecer una gestión de calidad más transparen
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
+
+- Preguntas para el primer segmento:
+  
+  - ¿Podría contarme brevemente en qué consiste su trabajo diario como jefe de cocina?
+    
+  - ¿Cómo decide qué cantidad de productos comprar a sus proveedores?
+    
+  - ¿Cómo lleva el control de las existencias que tiene disponibles?
+    
+  - ¿Cómo gestionan actualmente el inventario de alimentos en la cocina?
+    
+  - ¿Qué herramientas o métodos usan para controlar las fechas de caducidad y el estado de los productos?
+    
+  - ¿Qué tan seguido enfrentan problemas de falta o exceso de insumos?
+    
+  - ¿Cómo es la coordinación entre usted y el área de compras o proveedores?
+    
+  - ¿Qué procesos siguen para asegurar la calidad y frescura de los ingredientes antes de usarlos?
+    
+  - ¿Cómo garantizan el cumplimiento de normas de higiene y seguridad alimentaria en la cocina?
+    
+  - ¿Utilizan actualmente alguna herramienta digital para gestionar inventarios o pedidos?
+    
+  - ¿Qué funcionalidades cree que serían útiles en una herramienta pensada para la gestión de cocina?
+    
+  - ¿Qué consejo le daría a alguien que está empezando en este rol?
+
+- Preguntas para el segundo segmento:
+  
+  - ¿Podría explicarme cómo gestiona actualmente el inventario de productos frescos, lácteos y otros artículos perecederos?
+
+  - ¿Cuáles son los mayores desafíos o dolores de cabeza que enfrenta con la gestión de estos productos perecederos?
+
+  - ¿Cómo hace un seguimiento actualmente de cosas como las fechas de caducidad o la frescura de los productos?
+
+  - El desperdicio de alimentos es un desafío común en la industria. ¿Puede describir cómo se manifiesta eso en su negocio? ¿Con qué frecuencia tiene que tirar artículos?
+
+  - ¿Qué impacto tiene este desperdicio en su negocio, tanto financiero como operativo?
+
+  - ¿Ha tenido alguna vez una situación en la que se quedó sin un producto fresco inesperadamente durante las horas pico? ¿Qué pasó?
+
+  - ¿Qué herramientas o software utiliza hoy en día para la gestión de inventarios? ¿Es un sistema dedicado, una hoja de cálculo o simplemente lápiz y papel?
+
+  - ¿Qué le gusta de su método actual? ¿Qué le disgusta?
+
+  - ¿Cómo monitoriza el entorno de almacenamiento, como la temperatura en su cámara frigorífica o congelador? ¿Es manual?
+
+  - ¿Quién participa en el proceso de inventario y cuánto tiempo suele llevar cada día o semana?
+
+  - Si una varita mágica pudiera resolver tres de sus problemas de inventario, ¿cuáles serían?
+
+  - ¿Cómo mejoraría su día si pudiera ver la cantidad exacta y la fecha de caducidad de cada artículo en su inventario desde su teléfono o computadora?
+
+  - ¿Y si pudiera recibir alertas automáticas en su teléfono cuando la temperatura de un refrigerador se desvía de un rango seguro o cuando un producto específico está a punto de caducar? ¿Qué tan útil sería eso?
+
+  - ¿Qué valor tendría un informe que predijera sus niveles de desperdicio, ayudándole a tomar decisiones de compra más inteligentes para la próxima semana?
+
+  - Imagine que pudiera escanear un producto cuando llega y que se agregara automáticamente a su inventario digital. ¿Cuánto tiempo le ahorraría eso?
+
+  - ¿Cómo decide cuánto pedir de un artículo perecedero cada semana?
+
+  - Si un sistema pudiera reducir su desperdicio de alimentos en un 20% o más, ¿qué significaría eso para su resultado final?
+
+  - ¿Preferiría un sistema independiente o uno que se integre con otras herramientas que utiliza, como su sistema de punto de venta (TPV)?
+
+  - Para una solución que le ahorra tiempo, reduce el desperdicio y le da tranquilidad, ¿cómo preferiría pagar? ¿Una suscripción mensual, una licencia única o por característica?
+
+  - ¿Cuál sería el siguiente paso para usted si estuviera interesado en una solución como esta?
+
 ### 2.2.2. Registro de entrevistas.
+- **Primer Segmento:**
+  - **Entrevista 1**
+    
+  ![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter2/ruddy2.png)
+  
+  - Link: https://youtu.be/wqaXiDa08uo
+  - Resumen: El entrevistado, Rudy Allan, explica que como jefe de cocina sus principales funciones son la planificación y control del trabajo, la verificación del estado de los alimentos, la capacitación del personal, la elaboración de menús y la supervisión del servicio. La compra de productos depende del número de platos previstos al día, variando entre semana y fines de semana, y el control de existencias se realiza mayormente con compras diarias para garantizar frescura. No usan herramientas digitales ni métodos avanzados para caducidad, sino revisiones manuales. Señala que los problemas de exceso o falta de insumos son frecuentes, y que la coordinación con proveedores se da con pedidos uno o dos días antes, muchas veces por WhatsApp. Para asegurar calidad e higiene se enfocan en verificar los insumos y mantener limpieza constante en el personal y la cocina. Reconoce que herramientas digitales podrían ser útiles en restaurantes grandes, pero en mercados pequeños no suelen implementarse. Finalmente, aconseja a nuevos cocineros tener paciencia y mantener siempre la limpieza como base de un buen trabajo.
+
+
+
+
+  - **Entrevista 2**
+    
+  ![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter2/gabriel2.png)
+  - Link: https://youtu.be/_SDR6gKeThg
+  - Resumen: El jefe de cocina Gabriel Pérez organiza y supervisa al equipo, planifica menús y mantiene el orden e higiene, además de coordinar compras e inventario. Actualmente controla existencias con hojas de cálculo y conteos físicos, aunque reconoce que el sistema es manual y poco actualizado. Usa etiquetas y el método PEPS para fechas de vencimiento, pero sin alertas automáticas, lo que genera pérdidas frecuentes por exceso o escasez de insumos. La coordinación con proveedores es manual, vía WhatsApp o llamadas. Para garantizar calidad revisan color, olor y temperatura, y cumplen protocolos básicos de higiene. No utilizan herramientas digitales especializadas, pero considera útiles funciones como registro automático de entradas y salidas, alertas de caducidad, monitoreo de temperatura y reportes de consumo/desperdicio. Destaca que en este rol la paciencia, organización y comunicación con el equipo son claves.
+
+
+  - **Entrevista 3**
+ 
+- **Segundo Segmento:**
+  - **Entrevista 1**
+    
+  ![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter2/adolf.png)
+
+  - Resumen: El comerciante maneja su inventario de perecibles de forma manual con un cuaderno y memoria, lo que le genera pérdidas por vencimiento de lácteos y pan, además de quedarse sin stock en horas pico. Su mayor dolor es encontrar el equilibrio entre no traer de más ni de menos, ya que esto afecta sus ventas y genera desperdicio. Le gustaría contar con un sistema sencillo en el celular que le permita registrar automáticamente productos, recibir alertas de caducidad y tener reportes que predigan ventas y desperdicios. Valora la rapidez y bajo costo de su método actual, pero reconoce que pierde tiempo revisando manualmente y que se olvida de productos en el almacén. Ve mucho valor en una solución digital que le ahorre tiempo, reduzca pérdidas y le dé tranquilidad, y estaría dispuesto a pagar una suscripción mensual accesible si realmente le ayuda a organizarse y ahorrar dinero.
+ 
+
+
+
 ### 2.2.3. Análisis de entrevistas.
+
+Los tres casos entrevistados —dos jefes de cocina y un comerciante minorista de abarrotes— reflejan una realidad común en la gestión de inventarios de alimentos: la predominancia de métodos manuales y una fuerte dependencia de la experiencia personal más que de procesos estandarizados o herramientas tecnológicas. Aunque los contextos de trabajo son distintos, los problemas centrales coinciden y permiten identificar patrones clave.
+
+En el ámbito de restaurantes, tanto Rudy Allan como Gabriel Pérez describen que las compras se hacen en función del menú y la cantidad estimada de comensales, apoyándose en la intuición y la revisión visual de productos. Si bien existe un intento por organizarse con hojas de cálculo o con métodos como PEPS, en la práctica estos registros suelen estar desactualizados o incompletos, lo que provoca errores en la planificación y genera pérdidas por caducidad. La coordinación con proveedores es principalmente reactiva y se maneja por canales informales como WhatsApp o llamadas. Esto deja en evidencia que la toma de decisiones está marcada más por la experiencia del jefe de cocina y la improvisación diaria que por un sistema que garantice precisión y previsión.
+
+Por otro lado, el comerciante de abarrotes ilustra una situación muy similar, aunque en menor escala. Lleva todo en un cuaderno y mucho de memoria, lo que le resulta práctico y barato, pero también riesgoso. Su principal dolor está en los perecibles: lácteos, pan y embutidos, donde el control visual de fechas de vencimiento no siempre es suficiente para evitar pérdidas. Además, enfrenta el dilema constante de traer cantidades exactas: si se pasa, pierde dinero por caducidad; si compra de menos, pierde ventas y clientes. En su caso, la falta de rotación ordenada y el espacio limitado en el almacén agravan la dificultad para mantener un inventario eficiente.
+
+En conjunto, los tres entrevistados evidencian problemáticas comunes:
+
+  - Desperdicio constante de alimentos, principalmente por caducidad o sobrecompra.
+
+  - Falta de precisión en el cálculo de compras, al basarse en intuición o experiencia en lugar de datos objetivos.
+
+  - Carencia de sistemas automatizados, que obliga a gastar tiempo en revisiones manuales y genera margen de error.
+
+  - Dependencia de la memoria y del trabajo individual, lo que aumenta el riesgo de olvidos, inconsistencias y sobrecarga de responsabilidades.
+
+  - Canales de coordinación informales con proveedores, que dificultan planificar a largo plazo.
+
+Al mismo tiempo, los tres muestran disposición a adoptar soluciones digitales siempre que cumplan ciertas condiciones: deben ser fáciles de usar en el celular, no requerir infraestructura costosa (como computadoras o TPV avanzados), ofrecer alertas automáticas sobre caducidad o stock bajo, y generar reportes que permitan anticiparse a la demanda. Además, se valora la posibilidad de ahorrar tiempo en el registro de entradas y salidas y de reducir el desperdicio económico derivado de malas decisiones de compra.
+
+Este análisis confirma que existe una necesidad transversal de digitalización en la gestión de inventarios alimentarios, tanto en restaurantes como en negocios pequeños. La falta de estandarización y control centralizado genera pérdidas de dinero, tiempo y clientes. Aquí surge una oportunidad estratégica para Pandora Fresh: posicionarse como una solución práctica, accesible y flexible que se adapte a distintos niveles de operación (desde un puesto de abarrotes hasta una cocina profesional), resolviendo los problemas de caducidad, optimización de compras y eficiencia en el control diario.
+
+En síntesis, los hallazgos de las entrevistas muestran que la problemática no es aislada ni depende solo del tamaño del negocio, sino que responde a un vacío tecnológico en la forma como se gestionan inventarios perecibles. Si se logra cubrir esta brecha con un sistema sencillo y económico, se puede generar un impacto real en la reducción de desperdicios, la optimización del tiempo de trabajo y la mejora en la rentabilidad de los negocios.
+
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 ### 2.3.2. User Task Matrix.

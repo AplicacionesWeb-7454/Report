@@ -762,19 +762,237 @@ En la realización de este capitulo, abordaremos el diseño integral de la start
 # **Capítulo V: Product Implementation, Validation & Deployment**
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
+| Tipo de Actividad       | Herramienta / Producto | URL                                | Motivos de uso                                                                 |
+|--------------------------|-------------------------|------------------------------------|--------------------------------------------------------------------------------|
+| UX/UI Design             | Figma                  | https://www.figma.com/es-la        | Realizar los diseños de interfaz y de experiencia de usuario para nuestra solución. |
+| Desarrollo de Software   | VS Code                | https://code.visualstudio.com      | Desarrollar la Landing Page de nuestra solución.                                |
+| Documentación            | GitHub                 | https://github.com                 | Realizar la documentación de nuestra propuesta.                                 |
+| Gestión de Requisitos    | Miro                    | https://miro.com/                | Para organizar, colaborar y realizar un seguimiento del trabajo de manera eficiente. |
+| Reuniones                | Discord                | https://discord.com/               | Reuniones con el equipo.                                                        |
 ### 5.1.2. Source Code Management.
+**Link Repositorio Report**
+
+Link: https://github.com/AplicacionesWeb-7454/Report.git
+
+**Link Repositorio Landing**
+
+Link: https://github.com/AplicacionesWeb-7454/LandingPage.git
+
+
+**Workflow – GitFlow**
+
+Se implementará el modelo **GitFlow** para el manejo de ramas:
+
+- **main**: rama principal, contiene solo versiones estables listas para producción.
+- **develop**: rama de integración, donde se juntan las nuevas funcionalidades antes de liberar una versión.
+- **feature/***: cada nueva funcionalidad tendrá su propio branch.
+    - Ejemplo: feature/login-auth
+- **release/***: rama usada para preparar una nueva versión antes de pasar a producción.
+    - Ejemplo: release/1.0.0
+- **hotfix/***: ramas para corregir errores críticos en producción.
+    - Ejemplo: hotfix/fix-login-bug
+
+
+**Versionado**
+
+Se aplicará **Semantic Versioning (SemVer 2.0.0):**
+
+- **Formato**: MAJOR.MINOR.PATCH
+- **Ejemplo**: v1.2.3
+
+### Significado:
+- **MAJOR**: cambios incompatibles.
+- **MINOR**: nuevas funcionalidades sin romper compatibilidad.
+- **PATCH**: corrección de bugs.
+
+
+**Commits**
+
+Se utilizarán los estándares de **Conventional Commits**:
+
+- **feat**: nueva funcionalidad.
+- **fix**: corrección de bug.
+- **docs**: cambios en documentación.
+- **style**: cambios de formato (no afectan código).
+- **refactor**: cambios internos sin alterar funcionalidad.
+- **test**: pruebas añadidas o corregidas.
+- **chore**: tareas de mantenimiento.
 ### 5.1.3. Source Code Style Guide & Conventions.
+- HTML
+    - "p" Utiliza esta etiqueta para dividir el texto en párrafos.
+    - "a" Permite crear enlaces hacia otras páginas web.
+    - "ul" Crea una lista no ordenada (sin numeración).
+    - "li" Define cada elemento dentro de una lista.
+    - "meta" Se incluye en la sección de encabezado del HTML y no es visible en la página.
+    - "h1" Indica el encabezado más importante del contenido.
+    - "div" Agrupa diferentes secciones de contenido.
+
+- CSS
+    - width: Define el ancho de un elemento.
+    - height: Establece el alto de un elemento.
+    - padding: Crea espacio interno entre el borde y el contenido.
+    - font-family: Determina el tipo de fuente.
+    - font-size: Ajusta el tamaño de la fuente.
+    - font-weight: Controla el grosor o peso de la fuente.
+    - font-style: Configura el estilo de la fuente (normal, cursiva, etc.).
+    - text-align: Alinea el texto según lo especificado (izquierda, centro, derecha).
+    - color: Aplica color al texto o al borde del elemento.
+    - background-color: Define el color de fondo del elemento.
+
 ### 5.1.4. Software Deployment Configuration.
+
+**Entorno de Desarrollo:**
+
+Tecnologías utilizadas:
+- HTML
+- CSS
+- JavaScript
+- Vue (con Vite como empaquetador y servidor de desarrollo)
+
+Gestor de paquetes:
+- **npm** para Vue (administración de dependencias y scripts de build).
+
+**Estrategia de Deployment:**
+- **GitHub Pages** para desplegar la versión estática del Landing Page.
+- **Azure App Services** para desplegar los servicios backend (API RESTful).
+
+**Flujo Gitflow aplicado:**
+- `main`: Rama principal de producción.
+- `develop`: Rama de integración principal.
+- `feature/*`: Desarrollo de nuevas funcionalidades sobre `develop`.
+- Pull Requests realizados desde `feature/*` hacia `develop`, y de `develop` hacia `main` al completar un ciclo.
+
+
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
+En esta sección, se documentará y explicará, en términos de producto y colaboración, el primer sprint de trabajo.
 ### 5.2.1.1. Sprint Planning 1.
+| **Sprint #**                  | Sprint 1                                                                                                                                                                            |
+|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background** |                                                                                                                                                                                     |
+| **Date**                       | 19 de septiembre del 2025                                                                                                                                                           |
+| **Time**                       | 18:00 horas                                                                                                                                                                         |
+| **Location**                   | Modalidad remota a través de la plataforma Discord                                                                                                                                  |
+| **Prepared By**                | Todos los integrantes del equipo Pandoras Fresh                                                                                                                                     |
+| **Attendees (to planning meeting)** | Todos los integrantes del equipo Pandoras Fresh                                                                                                                                     |
+| **Sprint 0 Review Summary**    | Dado que es nuestro primer sprint de desarrollo, aún no se ha realizado un resumen del sprint anterior.                                                                             |
+| **Sprint 0 Retrospective Summary** | No se identificaron mejoras ya que es el primer sprint.                                                                                                                             |
+| **Sprint Goal & User Stories** | US01, US02, US03, US04, US05, US06, US07, US08, US09                                                                                                                                |
+| **Sprint 1 Goal**              | En este sprint, nuestro enfoque está en describir nuestra startup y en construir la estructura de la Landing Page, realizar las entrevisas, y tener definidos nuestros user stories |
+| **Sprint 1 Velocity**          | 5                                                                                                                                                                                   |
+| **Sum of Story Points**        | 5                                                                                                                                                                                   
 ### 5.2.1.2. Aspect Leaders and Collaborators.
+| Team Member (Last Name, First Name) | Github Username | Elaboracion de User Stories Leader (L), Collaborator (C) | Desarrollo del landing page Leader (L), Collaborator (C) | Descripcion y desarrollo de los primeros capitulos Leader (L), Collaborator (C) |
+|-------------------------------------|-----------------| ------------------------------------------------------- |----------------------------------------------------------| -------------------------------------------------- |
+| Llamozas, Diego                     | Diego Llamozas  | (C)                                                     | (C)                                                      | (C)                                                |
+| Vidal, Jareth                       | Jareth341       | (L)                                                     | (L)                                                      | (C)                                                |
+| Chuchon, Jhon                       | JhonChuchon     | (C)                                                     | (C)                                                      | (C)                                                |
+| Seminario, Diego                    | DiegoSeminario  | (C)                                                     | (C)                                                      | (C)                                                |
+| Mendoza, Alejandro                  | AlexBoo578      |                 (C)                                         | (C)                                                      |        (C)                                  |
+
 ### 5.2.1.3. Sprint Backlog 1.
+| Sprint # | Sprint 1 |             |                   |                 |                                                |
+|----------|---|-------------|-------------------|-----------------|------------------------------------------------|
+|          | User Story |             |                   |                 |                                                ||
+| Id       | Title | Description | Estimation(hours) | Assigned to     | Status (To-do / In-Process / To-Review / Done) |
+| US01     | Navegación clara	  |       Como visitante, quiero un menú claro y visible (Acerca de, Funcionalidades, Beneficiados, etc.), para ubicarme rápido en la página.	      | 4                 | Jareth341       | Done                                           |
+| US02     | Acciones rápidas	 |    Como visitante nuevo, quiero ver botones de acción rápida (Acerca de / Descarga), para decidir de inmediato si sigo explorando o bajo la app.	         | 3                 | Diego Llamozas  |          Done                                      |
+| US03     | Ver Acerca de Nosotros	 |     Como interesado en la app, quiero conocer la historia, misión, visión, valores y al equipo, para confiar en la propuesta y sentir seguridad en quiénes la desarrollan.	        | 4                 | Jhon Chuchon    |                         Done                       |
+| US04     | Ver Funcionalidades	  |    Como visitante curioso, quiero ver un listado de funcionalidades explicadas de forma simple y visual, para entender qué puede hacer la app y si se adapta a mi negocio.	         | 5                 | Diego Seminario |                               Done                 |
+| US05     | Ver Beneficiarios	 |      Como potencial cliente, quiero conocer qué tipos de usuarios se benefician (restaurantes, proveedores, consumidores), para identificarme y validar que la app me sirve.	       | 4                 | AlexBoo578      |                                     Done           |
+| US06     | Ver Testimonios	 |     Como nuevo visitante, quiero leer testimonios de otros usuarios reales, para ganar confianza en Pandora’s Fresh.	        | 4                 | Jareth341       |                             Done                   |
+| US07     | Ver Preguntas Frecuentes	 |       Como usuario confundido, quiero acceder a una sección de preguntas frecuentes, para resolver mis dudas rápidamente sin contactar soporte.	      | 5                 | Diego Llamozas  |                                           Done     |
+| US08     | Ver Términos y Condiciones	 |   Como cliente responsable, quiero poder revisar los Términos y Condiciones, para conocer mis derechos y obligaciones antes de usar la app.	          | 5                 | Jhon Chuchon    |                                           Done     |
+| US09     | Formulario de Contacto	 |     Como usuario con dudas o problemas, quiero tener un medio de contacto o feedback, para comunicarme fácilmente con el equipo.	        | 4                 | Diego Seminario |                                         Done       |
 ### 5.2.1.4. Development Evidence for Sprint Review.
 ### 5.2.1.5. Execution Evidence for Sprint Review.
+**Resumen:**
+
+Las principales secciones de la Landing Page de Pandoras Fresh fueron desarrolladas y desplegadas exitosamente. A continuación se presentan capturas de pantalla de las secciones implementadas.
+
+**Evidencia de Capturas:**
+
+**Hero section:**
+
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Hero-section.png" alt="HeroSection" style="max-width:100; height:auto;">
+
+**Nosotros section**
+
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Nosotros-section1.png" alt="NosotrosSection1" style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Nosotros-section2.png" alt="NosotrosSection2" style="max-width:100; height:auto;">
+
+**Funcionalidades section**
+
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Funcionalidades-section.png" alt="FuncionalidadesSection" style="max-width:100; height:auto;">
+
+**Beneficiados section**
+
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Beneficiados-section1.png" alt="BeneficiadosSection1" style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Beneficiados-section2.png" alt="BeneficiadosSection2" style="max-width:100; height:auto;">
+
+**Testimonios section**
+
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Testimonios-section1.png" alt="TestimoniosSection1" style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Testimonios-section2.png" alt="TestimoniosSection2" style="max-width:100; height:auto;">
+
+**Soporte section**
+
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Soporte-section1.png" alt="SoporteSection1" style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Soporte-section2.png" alt="SoporteSection2" style="max-width:100; height:auto;">
+
+**Descargar section**
+
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Descargar-section.png" alt="DescargarSection" style="max-width:100; height:auto;">
+
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+Durante el Sprint 1, el equipo logró implementar y desplegar la Landing Page de Pandoras Fresh, lo que representa el primer entregable visible y funcional del producto. Esta incluye secciones informativas sobre la plataforma, beneficios clave para los usuarios, diferenciación por tipo de usuario, y botones de acción que direccionan al login o registro.
+
+Además, se configuró el entorno de desarrollo, se definieron los flujos de trabajo con Gitflow y se establecieron las convenciones de codificación. Los avances fueron registrados mediante commits con convenciones semánticas y organizados a través de su propio repositorio.
+
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+Para este primer Sprint , como equipo logramos implementar satisfactoriamente la primera versión de la landing page. 
+
+**Design:**
+
+Para realizar el diseño de los wireframes y mockups de la Landing Page para este Sprint,
+se hizo uso de la plataforma Figma.
+
+**Deployment:** Para el deployment se uso github pages, el cuál nos permite alojar sitios web estáticos directamente desde un repositorio de GitHub.
+Se uso Vite con Vue 3 para el desarrollo de la landing page.
+
+Link LandingPage: https://aplicacionesweb-7454.github.io/LandingPage/
+
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Deployment-landingPage.png" alt="DeploymentLanding" style="max-width:100; height:auto;">
+
+Para nuestro proyecto se crearon 2 repositorios, el cuál fue:
+
+**Documentación:** https://github.com/AplicacionesWeb-7454/Report.git
+
+Este repositorio contiene el informe de nuestro proyecto.
+
+**Landing Page:**
+https://github.com/AplicacionesWeb-7454/LandingPage.git
+
+Este repositorio se usa para realizar el informe del proyecto de manera continua y subir la landing page.
+
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+**Resumen:**
+El equipo colaboró mediante GitHub y WhatsApp durante el Sprint. Las actividades principales se centraron en el desarrollo y despliegue de la Landing Page.
+
+**Evidencia de Colaboración:**
+
+* Captura de pantalla de commits en GitHub mostrando contribuciones del equipo.
+* Conversaciones de WhatsApp sobre coordinación de secciones y ajustes de diseño.
+
+
+**Principales Herramientas de Comunicación:**
+
+* GitHub (control de versiones y manejo de issues)
+* WhatsApp (comunicación diaria y aclaraciones rápidas)
+* Discord (reuniones de planificación de sprint)
 
 ---
 

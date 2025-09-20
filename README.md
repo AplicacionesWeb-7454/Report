@@ -512,35 +512,35 @@ Las principales secciones de la Landing Page de Pandoras Fresh fueron desarrolla
 
 **Hero section:**
 
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Hero-section.png" alt="HeroSection" style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Hero-section.png" alt="HeroSection" style="max-width:100; height:auto;">
 
 **Nosotros section**
 
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Nosotros-section1.png" alt="NosotrosSection1" style="max-width:100; height:auto;">
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Nosotros-section2.png" alt="NosotrosSection2" style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Nosotros-section1.png" alt="NosotrosSection1" style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Nosotros-section2.png" alt="NosotrosSection2" style="max-width:100; height:auto;">
 
 **Funcionalidades section**
 
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Funcionalidades-section.png" alt="FuncionalidadesSection" style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Funcionalidades-section.png" alt="FuncionalidadesSection" style="max-width:100; height:auto;">
 
 **Beneficiados section**
 
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Beneficiados-section1.png" alt="BeneficiadosSection1" style="max-width:100; height:auto;">
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Beneficiados-section2.png" alt="BeneficiadosSection2" style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Beneficiados-section1.png" alt="BeneficiadosSection1" style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Beneficiados-section2.png" alt="BeneficiadosSection2" style="max-width:100; height:auto;">
 
 **Testimonios section**
 
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Testimonios-section1.png" alt="TestimoniosSection1" style="max-width:100; height:auto;">
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Testimonios-section2.png" alt="TestimoniosSection2" style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Testimonios-section1.png" alt="TestimoniosSection1" style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Testimonios-section2.png" alt="TestimoniosSection2" style="max-width:100; height:auto;">
 
 **Soporte section**
 
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Soporte-section1.png" alt="SoporteSection1" style="max-width:100; height:auto;">
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Soporte-section2.png" alt="SoporteSection2" style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Soporte-section1.png" alt="SoporteSection1" style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Soporte-section2.png" alt="SoporteSection2" style="max-width:100; height:auto;">
 
 **Descargar section**
 
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Descargar-section.png" alt="DescargarSection" style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Descargar-section.png" alt="DescargarSection" style="max-width:100; height:auto;">
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 

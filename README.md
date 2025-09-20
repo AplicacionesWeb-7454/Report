@@ -130,17 +130,11 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 
 ### **Student Outcome**
 
-| Criterio específico                                                  | Acciones realizadas       | Conclusiones      | 
-|----------------------------------------------------------------------|---------------------------|-------------------|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia   |   Diego Seminario Castillo    TB1: Como equipo, logramos comunicarnos de manera efectiva en distintos contextos y audiencias, coordinando nuestras actividades mediante presentaciones claras, elaboración de User Stories, mockups, wireframes y diagramas de bases de datos.
+| Criterio específico                                                | Acciones realizadas                                                                                                      | Conclusiones |
+|--------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|--------------|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia | Diego Seminario Castillo  <br> **TB1:** Como equipo, logramos comunicarnos de manera efectiva en distintos contextos y audiencias, coordinando nuestras actividades mediante presentaciones claras, elaboración de User Stories, mockups, wireframes y diagramas de bases de datos. <br> **TB1:** Me reuní de manera efectiva con mis compañeros para la distribución de tareas. |              |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | Jareth Vidal <br> **TB1:** Se realizó todo el capítulo 2, capítulo 3, además de los domains y diagramas. |              |
 
-TB1:Me reuní de manera efectiva con mis compañeros para la distribución de tareas.
-Jareth Vidal
-TB1: Se realizo toco el cap 2, cap3 y los domain y diagramas
-                       |                  |
-|Comunica por escrito con efectividad a diferentes rangos de audiencia |        Jareth Vidal
-TB1: Se realizo toco el cap 2, cap3 y los domain y diagramas                   |                  
- |
 
 ---
 

@@ -909,8 +909,8 @@ Esta arquitectura de información asegura que los usuarios puedan encontrar ráp
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 ### 4.4.2. Web Applications Mock-ups.
-### 4.4.3. Web Applications User Flow Diagrams.
-## 4.5. Web Applications Prototyping.
+<p align="center"> <img src="assets/img/chapter4/figma.png" style="width:500px; height:auto;"> </p>
+
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Design-Level Event Storming.
 ### 4.6.2. Software Architecture Context Diagram.

@@ -256,68 +256,7 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
   - **Entrevista 3**
 ### 2.2.3. Análisis de entrevistas.
 
-- **Trabajo diario del jefe de cocina**  
-  Probablemente describa un rol multitarea: coordinar personal, supervisar preparación de platos, controlar pedidos y garantizar calidad. Esto dará contexto sobre su nivel de carga y apertura a usar herramientas digitales que le ahorren tiempo.
-
-- **Decisión de compras y control de existencias**  
-  Es común que se basen en la experiencia, intuición o registros básicos (notas, Excel). Si confirman esto, hay alta probabilidad de errores por exceso o escasez.
-
-- **Gestión del inventario**  
-  Muchos usan métodos manuales: conteos diarios, pizarras, libretas. Algunos más avanzados usan hojas de cálculo, pero no suelen estar automatizadas. Aquí aparece el dolor de la falta de precisión.
-
-- **Fechas de caducidad y estado de productos**  
-  Suele controlarse de manera visual o con etiquetas manuales. Esto abre la puerta a pérdidas frecuentes por falta de alertas tempranas.
-
-- **Problemas de faltantes o exceso**  
-  Responderán que son habituales, sobre todo en horas pico o con insumos frescos. Esto conecta directamente con pérdidas económicas.
-
-- **Coordinación con compras/proveedores**  
-  Puede ser informal (llamadas, WhatsApp, visitas rápidas). Si no hay integración digital, se generan retrasos y duplicidad de pedidos.
-
-- **Asegurar calidad e higiene**  
-  Respuestas mostrarán procesos básicos: revisar frescura al recibir insumos, controles visuales, checklist de higiene. Esto se liga a la necesidad de monitoreo constante y evidencia de cumplimiento.
-
-- **Uso de herramientas digitales**  
-  Lo más probable es que pocos usen sistemas dedicados. La mayoría se apoya en Excel o papel, confirmando el hueco de mercado para una solución más especializada.
-
-- **Funcionalidades deseadas en una herramienta**  
-  Se espera que mencionen alertas de caducidad, reportes de desperdicio, control de temperatura, predicción de compras y facilidad de uso desde el celular.
-
-- **Consejos a nuevos jefes de cocina**  
-  Probablemente destaquen organización, disciplina en control de inventario y comunicación con proveedores. Esto refuerza la importancia de la gestión ordenada.
-
-- **Gestión de perecibles y desafíos**  
-  El mayor dolor será el desperdicio y la dificultad de estimar la demanda. Tirar comida es frecuente y genera pérdidas financieras. También habrá frustración con productos que vencen sin usarse.
-
-- **Impacto financiero del desperdicio**  
-  Espera respuestas contundentes: pérdida de márgenes, presión en costos y estrés operativo. Aquí se valida la propuesta de valor de reducir mermas.
-
-- **Situaciones críticas (faltantes en horas pico)**  
-  Casos reales de “no había pollo/pescado” generan caos y clientes insatisfechos. Esto refleja el costo oculto de no gestionar bien.
-
-- **Seguimiento de almacenamiento (temperaturas, cámaras)**  
-  Normalmente manual. Pocos tienen sensores automáticos. Abre oportunidad clara para IoT.
-
-- **Tiempo invertido en inventario**  
-  Respuestas dirán que es tedioso y consume horas semanales. Una solución digital debería venderse como ahorro de tiempo.
-
-- **Deseos con “varita mágica”**  
-  Reducir desperdicio, evitar quedarse sin stock y simplificar el control. Básicamente, tres drivers de la solución.
-
-- **Interés en reportes predictivos**  
-  Muchos verán valor en planificar compras con base en datos. Esto valida incluir analítica en la propuesta.
-
-- **Preferencia de integración con POS u otros sistemas**  
-  Seguramente prefieran integración para no duplicar registros. Aporta valor adicional a la solución.
-
-- **Modelo de pago esperado**  
-  Habrá apertura a suscripción mensual si el costo es bajo comparado con el ahorro generado. Licencia única es menos probable en pymes.
-
-- **Siguiente paso ante interés**  
-  Probablemente solicitarían una demo sencilla o prueba gratuita antes de comprometerse.
-
-### Conclusión
-Las respuestas  confirman que el **dolor más grande** es el desperdicio, seguido por la falta de control y la pérdida de tiempo en procesos manuales. Casi todas las preguntas abren espacio para validar una **solución digital accesible, fácil de usar, que automatice inventario, prediga compras y genere alertas**.
+Las respuestas muestran que la gestión de inventarios en cocina y mercados se apoya en la experiencia del encargado y en métodos manuales como hojas de cálculo o registros en papel, lo que genera errores, desperdicio de alimentos y pérdidas económicas. También dejan ver que la coordinación con proveedores es reactiva y que el control de caducidad, frescura e higiene depende más de prácticas del personal que de procesos estandarizados. En conjunto, se evidencia una necesidad clara de digitalización y automatización para ahorrar tiempo, reducir mermas y mejorar la toma de decisiones con datos en tiempo real.
 
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.

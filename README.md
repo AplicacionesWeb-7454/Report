@@ -232,7 +232,10 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 ### 2.2.2. Registro de entrevistas.
 - **Primer Segmento:**
   - **Entrevista 1**
- 
+ Link: https://youtu.be/wqaXiDa08uo
+Entrevistado: Ruddy Alan Choquemamani Uchamaco
+Duración: 7:42
+
 
 
   - **Entrevista 2**

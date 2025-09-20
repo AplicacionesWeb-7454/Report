@@ -504,6 +504,29 @@ En esta sección, se documentará y explicará, en términos de producto y colab
 | US09     | Formulario de Contacto	 |     Como usuario con dudas o problemas, quiero tener un medio de contacto o feedback, para comunicarme fácilmente con el equipo.	        | 4                 | Diego Seminario |                                         Done       |
 ### 5.2.1.4. Development Evidence for Sprint Review.
 ### 5.2.1.5. Execution Evidence for Sprint Review.
+**Resumen:**
+
+Las principales secciones de la Landing Page de Pandoras Fresh fueron desarrolladas y desplegadas exitosamente. A continuación se presentan capturas de pantalla de las secciones implementadas.
+
+**Evidencia de Capturas:**
+
+**Hero section:**
+
+
+
+**Nosotros section**
+
+**Funcionalidades section**
+
+**Beneficiados section**
+
+**Testimonios section**
+
+**Soporte section**
+
+**Descargar section**
+
+
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
 Durante el Sprint 1, el equipo logró implementar y desplegar la Landing Page de Pandoras Fresh, lo que representa el primer entregable visible y funcional del producto. Esta incluye secciones informativas sobre la plataforma, beneficios clave para los usuarios, diferenciación por tipo de usuario, y botones de acción que direccionan al login o registro.

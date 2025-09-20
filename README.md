@@ -549,6 +549,29 @@ Durante el Sprint 1, el equipo logró implementar y desplegar la Landing Page de
 Además, se configuró el entorno de desarrollo, se definieron los flujos de trabajo con Gitflow y se establecieron las convenciones de codificación. Los avances fueron registrados mediante commits con convenciones semánticas y organizados a través de su propio repositorio.
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+Para este primer Sprint , como equipo logramos implementar satisfactoriamente la primera versión de la landing page. 
+
+**Design:**
+
+Para realizar el diseño de los wireframes y mockups de la Landing Page para este Sprint,
+se hizo uso de la plataforma Figma.
+
+**Deployment:** Para el deployment se uso github pages, el cuál nos permite alojar sitios web estáticos directamente desde un repositorio de GitHub.
+Se uso Vite con Vue 3 para el desarrollo de la landing page.
+
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Deployment-landingPage.png" alt="DeploymentLanding" style="max-width:100; height:auto;">
+
+Para nuestro proyecto se crearon 2 repositorios, el cuál fue:
+
+**Documentación:** https://github.com/AplicacionesWeb-7454/Report.git
+
+Este repositorio contiene el informe de nuestro proyecto.
+
+**Landing Page:**
+https://github.com/AplicacionesWeb-7454/LandingPage.git
+
+Este repositorio se usa para realizar el informe del proyecto de manera continua y subir la landing page.
+
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 **Resumen:**

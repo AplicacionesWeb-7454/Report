@@ -438,6 +438,29 @@ Se utilizarán los estándares de **Conventional Commits**:
 
 ### 5.1.4. Software Deployment Configuration.
 
+**Entorno de Desarrollo:**
+
+Tecnologías utilizadas:
+- HTML
+- CSS
+- JavaScript
+- Vue (con Vite como empaquetador y servidor de desarrollo)
+
+Gestor de paquetes:
+- **npm** para Vue (administración de dependencias y scripts de build).
+
+**Estrategia de Deployment:**
+- **GitHub Pages** para desplegar la versión estática del Landing Page.
+- **Azure App Services** para desplegar los servicios backend (API RESTful).
+
+**Flujo Gitflow aplicado:**
+- `main`: Rama principal de producción.
+- `develop`: Rama de integración principal.
+- `feature/*`: Desarrollo de nuevas funcionalidades sobre `develop`.
+- Pull Requests realizados desde `feature/*` hacia `develop`, y de `develop` hacia `main` al completar un ciclo.
+
+
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 En esta sección, se documentará y explicará, en términos de producto y colaboración, el primer sprint de trabajo.

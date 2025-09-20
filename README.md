@@ -320,6 +320,9 @@ Ganar una ventaja competitiva al ofrecer una gestión de calidad más transparen
 # **Capítulo III: Requirements Specification**
 ## 3.1. User Stories.
 ## 3.2. Impact Mapping.
+
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter3/ImpactMapping.png" alt="ImpactMapping" style="max-width:100; height:auto;">
+
 ## 3.3. Product Backlog.
 
 ---

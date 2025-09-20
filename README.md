@@ -375,10 +375,13 @@ En la realización de este capitulo, abordaremos el diseño integral de la start
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/DiagramaClases.png" alt="DiagramaClases.jpeg" style="max-width:100%; margin-bottom:10px;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/DiagramaClases.png" alt="DiagramaClases" style="max-width:100%; margin-bottom:10px;">
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagrams.
+
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/DataBaseDiagram.png" alt="DataBaseDiagram" style="max-width:100%; margin-bottom:10px;">
+
 
 ---
 

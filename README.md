@@ -559,6 +559,8 @@ se hizo uso de la plataforma Figma.
 **Deployment:** Para el deployment se uso github pages, el cuál nos permite alojar sitios web estáticos directamente desde un repositorio de GitHub.
 Se uso Vite con Vue 3 para el desarrollo de la landing page.
 
+Link LandingPage: https://aplicacionesweb-7454.github.io/LandingPage/
+
 <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Deployment-landingPage.png" alt="DeploymentLanding" style="max-width:100; height:auto;">
 
 Para nuestro proyecto se crearon 2 repositorios, el cuál fue:

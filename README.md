@@ -270,6 +270,7 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 # **Capítulo IV: Product Design**
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
+https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/f1f3ff.png
 ### 4.1.2. Web Style Guidelines.
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.

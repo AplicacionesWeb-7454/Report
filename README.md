@@ -26,10 +26,9 @@
 ### **Registro de Versiones del Informe**
 | Versión | Fecha       | Autor             | Descripción de modificación            |
 |---------|-------------|-------------------|----------------------------------------|
-|         |             |                   |                                        |
-|         |             |                   |                                        |
-|         |             |                   |                                        |
-|         |             |                   |                                        |
+| 0.1     | 06/04/2025  | Todos los integrantes          | Desarrollo del capítulo 1 y 2             |
+| 0.2     | 12/04/2025  | Todos los integrantes          | Desarrollo del capítulo 3                    |
+| 0.3     | 18/04/2025  | Todos los integrantes                 | Desarrollo del capítulo 4 y sprint 1         |
 
 ---
 

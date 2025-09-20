@@ -246,7 +246,7 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
  
 - **Segundo Segmento:**
   - **Entrevista 1**
-  - 
+- ![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter2/adolf.png) 
  
 
 

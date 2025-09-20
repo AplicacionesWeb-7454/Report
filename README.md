@@ -232,20 +232,21 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 ### 2.2.2. Registro de entrevistas.
 - **Primer Segmento:**
   - **Entrevista 1**
- -Link: https://youtu.be/wqaXiDa08uo 
--Entrevistado: Ruddy Alan Choquemamani Uchamaco
--Duración: 7:42
-![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter2/ruddy.png)
+- ![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter2/ruddy2.png)
+  -Link: https://youtu.be/wqaXiDa08uo 
+
 
 
 
   - **Entrevista 2**
- ![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter2/gabriel.png)
+- ![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter2/gabriel2.png)
+  - Link: https://youtu.be/_SDR6gKeThg
 
   - **Entrevista 3**
  
 - **Segundo Segmento:**
   - **Entrevista 1**
+  - 
  
 
 

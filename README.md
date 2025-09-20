@@ -289,6 +289,20 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 ![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/landing8.png)
 ![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/landing9.png)
 ### 4.3.2. Landing Page Mock-up.
+
+![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/MOCK-1.png)
+![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/Mock-2.png)
+![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/mock-3.png)
+![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/mock-4.png)
+![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/mock-5.png)
+![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/mock-6.png)
+![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/mock-7.png)
+![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/mock-8.png)
+![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/mock-9.png)
+![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/mock-10.png)
+
+
+
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 ### 4.4.2. Web Applications Wireflow Diagrams.

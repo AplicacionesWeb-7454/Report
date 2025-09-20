@@ -615,6 +615,9 @@ El objetivo es ilustrar el recorrido end-to-end actual de cada User Persona, mos
 
   
 ## 3.2. Impact Mapping.
+
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter3/ImpactMapping.png" alt="ImpactMapping" style="max-width:100; height:auto;">
+
 ## 3.3. Product Backlog.
 
 ---

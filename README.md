@@ -1202,33 +1202,36 @@ Para este primer Sprint , como equipo logramos implementar satisfactoriamente la
 Para realizar el diseño de los wireframes y mockups de la Landing Page para este Sprint,
 se hizo uso de la plataforma Figma.
 
-**Deployment:** Para el deployment se uso github pages, el cuál nos permite alojar sitios web estáticos directamente desde un repositorio de GitHub.
-Se uso Vite con Vue 3 para el desarrollo de la landing page.
 
-Link LandingPage: https://aplicacionesweb-7454.github.io/LandingPage/
+**Deployment:** Para el deployment se uso github pages, el cuál nos permite alojar sitios web estáticos directamente desde un repositorio de GitHub.
+Se uso HTML y CSS para el desarrollo de la landing page ya que es sitio estatico.
+
+- Link LandingPage: https://aplicacionesweb-7454.github.io/LandingPage/
 
 <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Deployment-landingPage.png" alt="DeploymentLanding" style="max-width:100; height:auto;">
 
 Para nuestro proyecto se crearon 2 repositorios, el cuál fue:
 
-**Documentación:** https://github.com/AplicacionesWeb-7454/Report.git
+**Documentación:** 
+Link Repositorio: https://github.com/AplicacionesWeb-7454/Report.git
 
 Este repositorio contiene el informe de nuestro proyecto.
 
 **Landing Page:**
-https://github.com/AplicacionesWeb-7454/LandingPage.git
+- Link Repositorio: https://github.com/AplicacionesWeb-7454/LandingPage.git
 
 Este repositorio se usa para realizar el informe del proyecto de manera continua y subir la landing page.
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 **Resumen:**
-El equipo colaboró mediante GitHub y WhatsApp durante el Sprint. Las actividades principales se centraron en el desarrollo y despliegue de la Landing Page.
+Durante este Sprint, las actividades de implementación se desarrollaron de manera colaborativa y organizada. El equipo utilizó herramientas como GitHub para la gestión de versiones y asignación de tareas, y Discord para la comunicación y coordinación diaria. Cada integrante asumió responsabilidades específicas según el backlog y los aspectos definidos en la planificación, participando activamente en el desarrollo, revisión de código y validación de entregables.
+
+Se promovió la revisión cruzada de avances, el registro de commits detallados y la documentación de los cambios realizados. Las reuniones periódicas permitieron resolver dudas, ajustar prioridades y asegurar que todos los miembros estuvieran alineados con los objetivos del Sprint. Esta dinámica facilitó la integración continua y la entrega oportuna de los resultados esperados.
 
 **Evidencia de Colaboración:**
 
-* Captura de pantalla de commits en GitHub mostrando contribuciones del equipo.
-* Conversaciones de WhatsApp sobre coordinación de secciones y ajustes de diseño.
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter1/CONTRI.PNG" alt="CONTRI" style="width:auto; height:auto;">
 
 
 **Principales Herramientas de Comunicación:**

@@ -1202,6 +1202,11 @@ Para este primer Sprint , como equipo logramos implementar satisfactoriamente la
 Para realizar el diseño de los wireframes y mockups de la Landing Page para este Sprint,
 se hizo uso de la plataforma Figma.
 
+1. Se accede a través de la página oficial de Figma: https://www.figma.com/login
+   
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/figma.png" alt="figma" style="width:auto; height:auto;">
+
+2. Luego, se crea un Draft que nos servirá como base para el proyecto colaborativo.
 
 **Deployment:** Para el deployment se uso github pages, el cuál nos permite alojar sitios web estáticos directamente desde un repositorio de GitHub.
 Se uso HTML y CSS para el desarrollo de la landing page ya que es sitio estatico.

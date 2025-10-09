@@ -1208,6 +1208,8 @@ se hizo uso de la plataforma Figma.
 
 2. Luego, se crea un Draft que nos servirá como base para el proyecto colaborativo.
 
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/figma2.PNG" alt="figma2" style="width:auto; height:auto;">
+
 **Deployment:** Para el deployment se uso github pages, el cuál nos permite alojar sitios web estáticos directamente desde un repositorio de GitHub.
 Se uso HTML y CSS para el desarrollo de la landing page ya que es sitio estatico.
 

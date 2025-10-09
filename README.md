@@ -690,28 +690,28 @@ Chromatic Colors
 #1cb4d4 (Azul Confianza - Secundario)
 Este azul vibrante representa confianza y profesionalismo, ideal para elementos interactivos como botones y llamadas a la acción. Transmite la seriedad y eficiencia que los usuarios esperan de una herramienta de gestión profesional.
 
-<p align="center"> <img src="assets/img/chapter4/colors/1cb4d4.png" style="width:500px; height:auto;"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/colors/1cb4d4.png" style="width:500px; height:auto;"> </p>
 
 #00bab3 (Turquesa Frescura - Acento)
 Este tono turquesa evoca frescura y vitalidad, representando perfectamente la naturaleza perecible de los productos que gestionamos. Se utiliza para resaltar acciones importantes y elementos que requieren atención especial.
 
-<p align="center"> <img src="assets/img/chapter4/colors/00bab3.png" style="width:500px; height:auto;"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/colors/00bab3.png" style="width:500px; height:auto;"> </p>
 
 #071d49 (Azul Profesional - Oscuro)
 Un azul marino profundo que aporta seriedad y contraste. Perfecto para encabezados y elementos que requieren jerarquía visual, transmitiendo la confiabilidad y seguridad que ofrece nuestra plataforma.
 
-<p align="center"> <img src="assets/img/chapter4/colors/071d49.png" style="width:500px; height:auto;"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/colors/071d49.png" style="width:500px; height:auto;"> </p>
 
 Background Colors
 #ccedfc (Azul Claridad - Primario)
 Un azul claro que sugiere transparencia y claridad en la gestión de productos. Funciona como fondo principal, creando una sensación de limpieza y espacio que facilita la visualización de la información.
 
-<p align="center"> <img src="assets/img/chapter4/colors/ccedfc.png" style="width:500px; height:auto;"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/colors/ccedfc.png" style="width:500px; height:auto;"> </p>
 
 #ffffff (Blanco Pureza - Luz)
 Blanco puro que representa la pureza e higiene necesaria en el manejo de productos perecibles. Se utiliza como fondo secundario y para elementos que necesitan máximo contraste.
 
-<p align="center"> <img src="assets/img/chapter4/colors/ffffff.jpg" style="width:500px; height:auto;"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/colors/ffffff.jpg" style="width:500px; height:auto;"> </p>
 **Typography: Sans Serif**
 
 Utilizamos dos familias tipográficas que complementan perfectamente los valores de Pandora's Fresh:
@@ -736,7 +736,7 @@ Montserrat Light (300): Textos secundarios y descripciones
 ### 4.1.3. Iconography
 El logotipo de Pandora's Fresh representa perfectamente nuestra esencia:
 
-<p align="center"> <img src="assets/img/chapter4/pandora-removebg-preview.png" alt="Pandora's Fresh Logo" style="width:300px; height:auto;"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/pandora-removebg-preview.png" alt="Pandora's Fresh Logo" style="width:300px; height:auto;"> </p>
 El diseño del logotipo combina elementos modernos y orgánicos que comunican:
 
 Frescura: Las líneas fluidas y orgánicas representan productos frescos y naturales
@@ -875,37 +875,86 @@ Notificaciones y alertas accesibles desde cualquier pantalla
 Esta arquitectura de información asegura que los usuarios puedan encontrar rápidamente lo que necesitan, tanto en la landing page de información como en la aplicación web funcional, manteniendo una experiencia coherente y alineada con los objetivos de negocio de Pandora's Fresh.
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
-![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/landing1.png)
-![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/landing2.png)
-![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/landing3.png)
-![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/landing4.png)
-![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/landing5.png)
-![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/landing6.png)
-![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/landing7.png)
-![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/landing8.png)
-![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/landing9.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/landing1.png" style="width:500px; height:auto;">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/landing2.png" style="width:500px; height:auto;">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/landing3.png" style="width:500px; height:auto;">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/landing4.png" style="width:500px; height:auto;">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/landing5.png" style="width:500px; height:auto;">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/landing6.png" style="width:500px; height:auto;">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/landing7.png" style="width:500px; height:auto;">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/landing8.png" style="width:500px; height:auto;">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/landing9.png" style="width:500px; height:auto;">
+</p>
+
 ### 4.3.2. Landing Page Mock-up.
 
-![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/MOCK-1.png)
-![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/Mock-2.png)
-![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/mock-3.png)
-![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/mock-4.png)
-![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/mock-5.png)
-![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/mock-6.png)
-![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/mock-7.png)
-![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/mock-8.png)
-![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/mock-9.png)
-![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/mock-10.png)
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/MOCK-1.png" style="width:500px; height:auto;">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/Mock-2.png" style="width:500px; height:auto;">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/mock-3.png" style="width:500px; height:auto;">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/mock-4.png" style="width:500px; height:auto;">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/mock-5.png" style="width:500px; height:auto;">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/mock-6.png" style="width:500px; height:auto;">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/mock-7.png" style="width:500px; height:auto;">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/mock-8.png" style="width:500px; height:auto;">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/mock-9.png" style="width:500px; height:auto;">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/mock-10.png" style="width:500px; height:auto;">
+</p>
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
-![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/web-wire1.png)
-![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/web-wire2.png)
-![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/web-wire3.png)
-![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/web-wire4.png)
-![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/web-wire5.png)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/web-wire1.png" style="width:500px; height:auto;">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/web-wire2.png" style="width:500px; height:auto;">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/web-wire3.png" style="width:500px; height:auto;">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/web-wire4.png" style="width:500px; height:auto;">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/web-wire5.png" style="width:500px; height:auto;">
+</p>
+
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams.

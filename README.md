@@ -35,15 +35,12 @@
 ### **Project Report Collaboration Insights**
 
 - URL Repositorio: https://github.com/AplicacionesWeb-7454/Report.git
+  
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter1/VDD.PNG" alt="VDD" style="width:auto; height:auto;">
 
-En esta sección el equipo indica el URL del repositorio para el Project Report en la
-organización de GitHub del equipo. Adicionalmente, para cada entrega explica cómo
-se han desarrollado las actividades de elaboración del informe y se presenta
-capturas en imagen de los analíticos de colaboración y commits en GitHub para el
-repositorio del informe, realizados por los miembros del equipo. Todos los miembros
-del equipo deben tener participación en la elaboración del informe. Esta sección
-debe ir expandiéndose con descripciones y evidencias en cada entrega. Lo descrito y
-evidenciado debe tener coherencia con el Registro de Versiones del Informe.
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter1/CONTRI.PNG" alt="CONTRI" style="width:auto; height:auto;">
+
+
 
 ---
 

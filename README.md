@@ -125,6 +125,9 @@
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)  
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)  
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+      - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](5221-sprint-planning-2)
+
 
 ---
 
@@ -1276,6 +1279,35 @@ Se promovió la revisión cruzada de avances, el registro de commits detallados 
 **Evidencia de Colaboración:**
 
 <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter1/CONTRI.PNG" alt="CONTRI" style="width:auto; height:auto;">
+
+### 5.2.2. Sprint 2
+En esta sección, se documentará y explicará, en términos de producto y colaboración, el segundo sprint de trabajo:
+#### 5.2.2.1. Sprint Planning 2
+
+| **Sprint #**                  | Sprint 2                                                                                                                                                                            |
+|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background** |                                                                                                                                                                                     |
+| **Date**                       |                                                                                                                                                            |
+| **Time**                       |                                                                                                                                                                          |
+| **Location**                   | Modalidad remota a través de la plataforma Discord                                                                                                                                  |
+| **Prepared By**                | Todos los integrantes del equipo Pandoras Fresh                                                                                                                                     |
+| **Attendees (to planning meeting)** | Todos los integrantes del equipo Pandoras Fresh                                                                                                                                     |
+| **Sprint 2 Review Summary**    |                                                                              |
+| **Sprint 2 Retrospective Summary** | .                                                                                                                             |
+| **Sprint Goal & User Stories** |                                                                                                                                 |
+| **Sprint 2 Goal**              |  |
+| **Sprint 2 Velocity**          |                                                                                                                                                                                    |
+| **Sum of Story Points**        |                                                                                                                                                                                    
+
+#### 5.2.2.2 Aspect Leaders and collaborations
+
+| Team Member (Last Name, First Name) | Github Username | Elaboracion de User Stories Leader (L), Collaborator (C) | Desarrollo del landing page Leader (L), Collaborator (C) | Descripcion y desarrollo de los primeros capitulos Leader (L), Collaborator (C) |
+|-------------------------------------|-----------------| ------------------------------------------------------- |----------------------------------------------------------| -------------------------------------------------- |
+| Llamozas, Diego                     | Diego Llamozas  | (C)                                                     | (C)                                                      | (C)                                                |
+| Vidal, Jareth                       | Jareth341       | (L)                                                     | (L)                                                      | (C)                                                |
+| Chuchon, Jhon                       | JhonChuchon     | (C)                                                     | (C)                                                      | (C)                                                |
+| Seminario, Diego                    | DiegoSeminario  | (C)                                                     | (C)                                                      | (C)                                                |
+| Mendoza, Alejandro                  | AlexBoo578      |                 (C)                                         | (C)                                                      |        (C)                                  |
 
 
 **Principales Herramientas de Comunicación:**

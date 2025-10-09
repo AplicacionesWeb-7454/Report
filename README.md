@@ -996,6 +996,7 @@ Esta arquitectura de información asegura que los usuarios puedan encontrar ráp
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Design-Level Event Storming.
 <img src="https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/registro%20y%20ges.png">
+<img src="https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/monitoreo%20y%20reportes.png">
 ### 4.6.2. Software Architecture Context Diagram.
 
 <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/DiagramContext.jpeg" alt="DiagramContext" style="max-width:100%; margin-bottom:10px;">

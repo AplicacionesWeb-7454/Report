@@ -3,7 +3,7 @@
 ### Facultad de Ingenieria  
 ### Carrera de Ingenieria de Software   
 ### Ciclo: 2025-02
-### 7385 | Aplicaciones Web 
+### 7454 | Aplicaciones Web 
 ### Profesor: Angel Augusto Velasquez Nuñez
 
 
@@ -18,21 +18,24 @@
 - Vidal Malaga, Jareth Beycker  (u202316878)
 - Seminario Castillo, Diego Vicente  (u202412591)
 - Chuchon Choquimamani, Jhon Alexander  (u20231c895)
-- Apellidos, Nombre  (Codigo)
-- Apellidos, Nombre  (Codigo)
+- Llamozas Diaz, Edson Diego  (u202319398)
+- Mendoza Vergara, Alejandro Franklin (u202312343)
 
 ---
 
 ### **Registro de Versiones del Informe**
 | Versión | Fecha       | Autor             | Descripción de modificación            |
 |---------|-------------|-------------------|----------------------------------------|
-| 0.1     | 06/04/2025  | Todos los integrantes          | Desarrollo del capítulo 1 y 2             |
-| 0.2     | 12/04/2025  | Todos los integrantes          | Desarrollo del capítulo 3                    |
-| 0.3     | 18/04/2025  | Todos los integrantes                 | Desarrollo del capítulo 4 y sprint 1         |
+| 0.1     | 06/04/2025  | Llamozas Diaz, Edson Diego  <br> Vidal Malaga, Jareth Beycker <br> Chuchon Choquimamani, Jhon Alexander <br> | Desarrollo del capítulo 1 y 2             |
+| 0.2     | 12/04/2025  | Vidal Malaga, Jareth Beycker          | Desarrollo del capítulo 3                    |
+| 0.3     | 18/04/2025  | Seminario Castillo, Diego Vicente <br> Chuchon Choquimamani, Jhon Alexander <br> Mendoza Vergara, Alejandro Franklin   | Desarrollo del capítulo 4 y sprint 1         |
 
 ---
 
 ### **Project Report Collaboration Insights**
+
+- URL Repositorio: https://github.com/AplicacionesWeb-7454/Report.git
+
 En esta sección el equipo indica el URL del repositorio para el Project Report en la
 organización de GitHub del equipo. Adicionalmente, para cada entrega explica cómo
 se han desarrollado las actividades de elaboración del informe y se presenta
@@ -132,8 +135,8 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 
 | Criterio específico                                                | Acciones realizadas                                                                                                      | Conclusiones |
 |--------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|--------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia | Diego Seminario Castillo  <br> **TB1:** Como equipo, logramos comunicarnos de manera efectiva en distintos contextos y audiencias, coordinando nuestras actividades mediante presentaciones claras, elaboración de User Stories, mockups, wireframes y diagramas de bases de datos. <br> **TB1:** Me reuní de manera efectiva con mis compañeros para la distribución de tareas. <br> Jareth Vidal <br>  TB1: Participación en presentaciones de avances y coordinación con el equipo en reuniones. Explicación de los entregables como el **Análisis de entrevistas, Needfinding, User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping**, además de la justificación de las decisiones de diseño |              |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | Jareth Vidal <br>  TB1: Elaboración de entregables escritos: **Análisis competitivo, Análisis de entrevistas, User Stories con Ubiquitous Language, Impact Mapping, Product Backlog, Diagramas de Arquitectura (Context, Container, Component), Class Diagrams, Database Diagrams**, y documentación de Software Object-Oriented Design. |              |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia | **Jareth Vidal** <br> TB1: Expliqué con claridad los análisis de competidores, user personas, journey mapping, historias de usuario, arquitectura, diseño orientado a objetos y base de datos, adaptando mi lenguaje según la audiencia y utilizando recursos visuales para comunicar efectivamente los avances del proyecto. <br> **Diego Seminario** <br> TB1: Presenté y sustenté las guías de estilo, arquitectura de información y mock-ups web utilizando un lenguaje claro y apoyos visuales, facilitando la comprensión de las decisiones de diseño ante públicos con distintos niveles técnicos. <br> **Jhon Chuchon** <br> TB1: Expliqué los resultados del diseño y análisis de entrevistas, así como los wireframes y mock-ups de la landing page, adaptando mi lenguaje y argumentos para transmitir con claridad las necesidades del usuario y las decisiones de diseño. <br> **Edson Llamozas** <br> TB1: Presenté la descripción de la startup, el proceso Lean UX y los segmentos objetivo explicando con claridad la problemática y las hipótesis del proyecto, adecuando mi lenguaje y ejemplos según la audiencia. <br> **Alejandro Mendoza** <br> TB1: Expuse los procesos de configuración, desarrollo e implementación del software, explicando las evidencias del sprint 1 y las decisiones técnicas con claridad, adaptando el lenguaje según el público y destacando el trabajo colaborativo del equipo.   | **TB1:** <br> Durante el desarrollo del proyecto, nuestro equipo demostró una comunicación oral efectiva al presentar cada etapa, desde la identificación del problema hasta la implementación del sistema. Expusimos ideas, decisiones técnicas y resultados de forma clara y estructurada, adaptando el lenguaje según la audiencia. Además, utilizamos recursos visuales como diagramas, mock-ups y evidencias de desarrollo, lo que facilitó la comprensión de los contenidos y permitió sostener una interacción fluida con docentes, compañeros y evaluadores.            |  
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | **Jareth Vidal** <br> TB1: Redacté con claridad los apartados de análisis competitivo, user personas, historias de usuario, arquitectura, diseño y base de datos, empleando un lenguaje técnico y estructurado según la audiencia, para comunicar de forma efectiva los resultados y decisiones del proyecto. <br> **Diego Seminario** <br> TB1: Documenté de manera estructurada las guías de estilo, sistemas de organización y navegación, así como los mock-ups web, empleando redacción técnica y visual coherente que permitió comunicar con precisión las propuestas de diseño.  <br> **Jhon Chuchon** <br> TB1: Elaboré los documentos de entrevistas, análisis y diseño visual de la landing page con redacción clara y organizada, utilizando lenguaje técnico y descriptivo que facilitó la comprensión de los hallazgos y propuestas. <br> **Edson Llamozas** <br> TB1: Redacté de forma estructurada la descripción de la startup, los perfiles del equipo y el proceso Lean UX, empleando un lenguaje formal y preciso que permitió comunicar claramente la problemática y los objetivos del proyecto. <br> **Alejandro Mendoza** <br> TB1: Documenté la configuración del entorno, gestión del código y desarrollo por sprints con redacción técnica y ordenada, presentando evidencias, convenciones y resultados que reflejan el avance y la calidad del proyecto.  | **TB1:** <br> Como equipo, elaboramos una documentación completa, coherente y organizada que abarcó desde la introducción del proyecto hasta su implementación. Empleamos un lenguaje técnico y formal adecuado para distintos públicos, complementado con gráficos, tablas y evidencias. Esto nos permitió comunicar de manera efectiva los objetivos, procesos y resultados obtenidos, reflejando el trabajo colaborativo y la solidez del proyecto en cada una de sus etapas.             |
 
 
 ---

@@ -959,7 +959,39 @@ Esta arquitectura de información asegura que los usuarios puedan encontrar ráp
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 ### 4.4.2. Web Applications Mock-ups.
-<p align="center"> <img src="assets/img/chapter4/figma.png" style="width:500px; height:auto;"> </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/WEB1.png" alt="WEB1" style="width:500px; height:auto;">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/WEB2.png" alt="WEB2" style="width:500px; height:auto;">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/WEB3.png" alt="WEB3" style="width:500px; height:auto;">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/WEB4.png" alt="WEB4" style="width:500px; height:auto;">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/WEB5.png" alt="WEB5" style="width:500px; height:auto;">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/WEB6.png" alt="WEB6" style="width:500px; height:auto;">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/WEB7.png" alt="WEB7" style="width:500px; height:auto;">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/WEB8.png" alt="WEB8" style="width:500px; height:auto;">
+</p>
+
 
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Design-Level Event Storming.

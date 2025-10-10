@@ -1208,8 +1208,8 @@ En esta sección, se documentará y explicará, en términos de producto y colab
 
 **Reporting and analytics BC:**
 
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/assets/img/chapter5/BC_RA1.png" alt="BC_RA1" style="max-width:100; height:auto;">
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/assets/img/chapter5/BC_RA2.png" alt="BC_RA2" style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/BC_RA1.png" alt="BC_RA1" style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/BC_RA2.png" alt="BC_RA2" style="max-width:100; height:auto;">
 
 ### 5.2.1.5. Execution Evidence for Sprint Review.
 **Resumen:**

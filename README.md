@@ -414,7 +414,7 @@ Ganar una ventaja competitiva al ofrecer una gestión de calidad más transparen
     
   ![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter2/ruddy2.png)
   
-  - Link: https://youtu.be/wqaXiDa08uo
+  - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c895_upc_edu_pe/EXkmlWxS3NpHv9hDBiurNwcBlFnjgQoeZh0RsF828AGlBw?e=jk1iL5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
   - Resumen: El entrevistado, Rudy Allan, explica que como jefe de cocina sus principales funciones son la planificación y control del trabajo, la verificación del estado de los alimentos, la capacitación del personal, la elaboración de menús y la supervisión del servicio. La compra de productos depende del número de platos previstos al día, variando entre semana y fines de semana, y el control de existencias se realiza mayormente con compras diarias para garantizar frescura. No usan herramientas digitales ni métodos avanzados para caducidad, sino revisiones manuales. Señala que los problemas de exceso o falta de insumos son frecuentes, y que la coordinación con proveedores se da con pedidos uno o dos días antes, muchas veces por WhatsApp. Para asegurar calidad e higiene se enfocan en verificar los insumos y mantener limpieza constante en el personal y la cocina. Reconoce que herramientas digitales podrían ser útiles en restaurantes grandes, pero en mercados pequeños no suelen implementarse. Finalmente, aconseja a nuevos cocineros tener paciencia y mantener siempre la limpieza como base de un buen trabajo.
 
 

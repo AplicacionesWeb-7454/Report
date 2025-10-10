@@ -256,6 +256,9 @@ Creemos que proveer datos claros sobre las causas y costos de la merma aumentar�
 **Éxito medido:** El **90%** de los usuarios consultará los reportes de merma al menos una vez por semana para ajustar pedidos o procesos.
 
 #### 1.2.2.4. Lean UX Canvas.
+
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter1/Lean%20UX%20Canvas%20Template.png" alt="Lean UX Canvas Template">
+
 ## 1.3. Segmentos objetivo.
 A. Pequeños y Medianos Restaurantes (PYMES)
 Establecimientos gastronómicos cuyo modelo de negocio depende de la frescura y calidad de sus insumos. Manejan un inventario diverso de productos perecibles (vegetales, carnes, lácteos) en cámaras de refrigeración y almacenes, pero carecen de sistemas especializados para su control. Están motivados por reducir costos operativos, minimizar el desperdicio de alimento y garantizar la calidad y seguridad de los platos que sirven a sus clientes.

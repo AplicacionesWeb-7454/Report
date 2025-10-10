@@ -1223,6 +1223,13 @@ En esta sección, se documentará y explicará, en términos de producto y colab
 <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/BC_RA1.png" alt="BC_RA1" style="max-width:100; height:auto;">
 <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/BC_RA2.png" alt="BC_RA2" style="max-width:100; height:auto;">
 
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Screenshot 2025-10-10 02.23.50.png" alt="BC_IN_1" style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Screenshot 2025-10-10 03.46.02.png" alt="BC_IN_2" style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Screenshot 2025-10-10 03.46.11.png" alt="BC_IN_3" style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Screenshot 2025-10-10 03.46.18.png" alt="BC_IN_4" style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Screenshot 2025-10-10 03.46.26.png" alt="BC_IN_5" style="max-width:100; height:auto;">
+
+
 ### 5.2.1.5. Execution Evidence for Sprint Review.
 **Resumen:**
 

@@ -692,6 +692,11 @@ El objetivo es ilustrar el recorrido end-to-end actual de cada User Persona, mos
 | 49 | US49 | Como administrador, quiero invitar a empleados a registrarse en la app, para que accedan a sus funciones. | 5 |
 | 50 | US50 | Como usuario, quiero que la app me pida confirmación en acciones críticas (eliminar producto, borrar cuenta), para evitar errores. | 3 |
 
+- Link Trello: https://trello.com/invite/b/68e82dc4aa24c7aadbc4cc21/ATTI0f71e2d868b5d516dd4b989004bb7a9348800ED5/kanban-template
+  
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter3/Trello1.PNG" alt="Trello1.PNG" style="max-width:100; height:auto;">
+
+
 ---
 
 # **Capítulo IV: Product Design**
@@ -1013,9 +1018,11 @@ Esta arquitectura de información asegura que los usuarios puedan encontrar ráp
 
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Design-Level Event Storming.
-<img src="https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/registro%20y%20ges.png">
-<img src="https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/monitoreo%20y%20reportes.png">
-<img src="https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter4/notifi.png">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/registro%20y%20ges.png">
+
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/monitoreo%20y%20reportes.png">
+
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter4/notifi.png">
 
 Para mirar mejor nuestro Design-Level EventStorming https://miro.com/app/board/uXjVJ8EOOzw=/?share_link_id=433285595421
 ### 4.6.2. Software Architecture Context Diagram.

@@ -421,9 +421,6 @@ Ganar una ventaja competitiva al ofrecer una gestión de calidad más transparen
 
 
   - **Entrevista 2**
-    
-  ![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter2/gabriel2.png)
-  - Link: https://youtu.be/_SDR6gKeThg
   - Resumen: El jefe de cocina Gabriel Pérez organiza y supervisa al equipo, planifica menús y mantiene el orden e higiene, además de coordinar compras e inventario. Actualmente controla existencias con hojas de cálculo y conteos físicos, aunque reconoce que el sistema es manual y poco actualizado. Usa etiquetas y el método PEPS para fechas de vencimiento, pero sin alertas automáticas, lo que genera pérdidas frecuentes por exceso o escasez de insumos. La coordinación con proveedores es manual, vía WhatsApp o llamadas. Para garantizar calidad revisan color, olor y temperatura, y cumplen protocolos básicos de higiene. No utilizan herramientas digitales especializadas, pero considera útiles funciones como registro automático de entradas y salidas, alertas de caducidad, monitoreo de temperatura y reportes de consumo/desperdicio. Destaca que en este rol la paciencia, organización y comunicación con el equipo son claves.
 
 
@@ -431,7 +428,11 @@ Ganar una ventaja competitiva al ofrecer una gestión de calidad más transparen
 - **Segundo Segmento:**
   - **Entrevista 1**
     
-  ![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter2/adolf.png)
+![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter2/adolfo.png).
+<br>
+-Nombre: Adolfo Choquemamani <br>
+-Duración 9:57 <br>
+-Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c895_upc_edu_pe/EVUziQ6m9XBPhb2HrK9j5CEBkUQtFc5x-vQDvtKd6nETcQ?e=Mxldvw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
   - Resumen: El comerciante maneja su inventario de perecibles de forma manual con un cuaderno y memoria, lo que le genera pérdidas por vencimiento de lácteos y pan, además de quedarse sin stock en horas pico. Su mayor dolor es encontrar el equilibrio entre no traer de más ni de menos, ya que esto afecta sus ventas y genera desperdicio. Le gustaría contar con un sistema sencillo en el celular que le permita registrar automáticamente productos, recibir alertas de caducidad y tener reportes que predigan ventas y desperdicios. Valora la rapidez y bajo costo de su método actual, pero reconoce que pierde tiempo revisando manualmente y que se olvida de productos en el almacén. Ve mucho valor en una solución digital que le ahorre tiempo, reduzca pérdidas y le dé tranquilidad, y estaría dispuesto a pagar una suscripción mensual accesible si realmente le ayuda a organizarse y ahorrar dinero.
 

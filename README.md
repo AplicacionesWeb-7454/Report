@@ -165,105 +165,95 @@ Propuesta de Valor: Ofrecemos control absoluto, tranquilidad y eficiencia en la 
 
 ## 1.2. Solution Profile
 
-Descripción del problema
-La gestión de inventarios de productos perecibles en mercados locales, restaurantes y pequeñas empresas se realiza mayoritariamente mediante métodos manuales y sistemas genéricos. Esta falta de especialización conlleva a una falta de visibilidad en tiempo real sobre el estado de los productos, generando un alto índice de desperdicio de alimentos, pérdidas económicas significativas y riesgos para la salud al consumidor.
+### 1.2.1. Antecedentes y Problemática
 
-Técnica 5W+2H
+####  Descripción del problema  
+La gestión de inventarios de productos perecibles en mercados locales, restaurantes y pequeñas empresas se realiza mayoritariamente mediante métodos manuales y sistemas genéricos. Esta falta de especialización conlleva a una ausencia de visibilidad en tiempo real sobre el estado de los productos, generando altos índices de desperdicio de alimentos, pérdidas económicas significativas y posibles riesgos para la salud del consumidor.
 
-What? (¿Qué?)
-La problemática principal es la pérdida y el desperdicio de productos perecibles debido a una gestión de inventario ineficiente, que no puede monitorear proactivamente variables críticas como la temperatura, la humedad y las fechas de caducidad.
+---
 
-When? (¿Cuándo?)
-El problema ocurre de manera constante a lo largo de toda la cadena de suministro, pero se agudiza durante las etapas de almacenamiento y venta, especialmente en picos de demanda o cuando falla la infraestructura de frío (ej. cortes de energía). También es crítico justo antes de que los productos alcancen su fecha de vencimiento.
+####  Técnica 5W+2H
 
-Where? (¿Dónde?)
-Este problema es prevalente en pequeenos y medianos negocios del sector alimentario, como bodegas, mercados de abastos, restaurantes y puestos de venta fresca, donde el acceso a tecnologías avanzadas de gestión es limitado por su costo y complejidad.
+**What? (¿Qué?)**  
+La problemática principal es la pérdida y el desperdicio de productos perecibles debido a una gestión de inventario ineficiente, que no permite monitorear proactivamente variables críticas como la temperatura, la humedad y las fechas de caducidad.
 
-Who? (¿Quién?)
-Los principales afectados son los propietarios y gerentes de estos negocios, quienes sufren las pérdidas económicas. De manera indirecta, también se ve afectado el personal de almacén y logística, que trabaja con información imprecisa, y el consumidor final, que puede acceder a productos en mal estado o enfrentarse a precios más altos debido a la ineficiencia.
+**When? (¿Cuándo?)**  
+El problema ocurre constantemente a lo largo de la cadena de suministro, pero se intensifica durante el almacenamiento y la venta, especialmente en picos de demanda o fallas de refrigeración (por ejemplo, cortes de energía). También es crítico justo antes de que los productos alcancen su fecha de vencimiento.
 
-Why? (¿Por qué?)
-La raíz del problema es la desconexión entre el estado físico real del producto y el sistema de gestión. Los métodos actuales (libretas, Excel, sistemas genéricos) dependen de revisiones manuales y registros retrospectivos, lo que impide una respuesta inmediata a cambios críticos en el ambiente que degradan la calidad de la mercancía.
+**Where? (¿Dónde?)**  
+Este problema es común en pequeños y medianos negocios del sector alimentario, como bodegas, mercados de abastos, restaurantes y puestos de venta fresca, donde el acceso a tecnologías avanzadas es limitado por su costo y complejidad.
 
-How? (¿Cómo?)
-Los procesos actuales son reactivos. Un empleado debe revisar físicamente cada producto o cámara frigorífica para registrar temperaturas y fechas. Este proceso es propenso a errores humanos, consume mucho tiempo y no ofrece alertas instantáneas ante una falla. Los productos se echan a perder antes de que alguien se dé cuenta del problema.
+**Who? (¿Quién?)**  
+Los principales afectados son los propietarios y gerentes de estos negocios, quienes sufren las pérdidas económicas. También se ve afectado el personal de almacén, que trabaja con información imprecisa, y el consumidor final, que puede recibir productos en mal estado o pagar precios más altos debido a la ineficiencia operativa.
 
-How Much? (¿Cuánto?)
-La magnitud del problema es enorme. Según la FAO, a nivel global, cerca de un tercio de todos los alimentos producidos se desperdicia. Para un negocio local, esto puede representar pérdidas de entre el 5% y el 20% de su inventario anual, impactando directamente en su rentabilidad y sostenibilidad. Además, conlleva costos adicionales por devoluciones, mermas en la reputación y potenciales sanciones por salubridad.
+**Why? (¿Por qué?)**  
+La raíz del problema es la desconexión entre el estado físico real del producto y los métodos de gestión utilizados. Las herramientas actuales (libretas, Excel, sistemas genéricos) dependen de revisiones manuales y registros retrospectivos, lo que impide una reacción inmediata ante condiciones que degradan la mercancía.
 
-### 1.2.1 Antecedentes y problemática
-### 1.2.2 Lean UX Process.
-#### 1.2.2.1. Lean UX Problem Statements.
+**How? (¿Cómo?)**  
+Los procesos actuales son reactivos. Un empleado debe revisar físicamente cada producto o cámara frigorífica para registrar temperaturas y fechas, lo cual es propenso a errores humanos, consume tiempo y no ofrece alertas instantáneas ante una falla. Esto genera que los productos se echen a perder sin advertencia previa.
 
-Nuestra plataforma, Pandora’s Fresh, ofrece una solución integral para la gestión de inventarios de productos perecibles. El objetivo de esta startup es reemplazar los métodos manuales y sistemas genéricos que se usan actualmente, tales como libretas físicas, hojas de cálculo y software no especializado, por un sistema digital centralizado que permita el monitoreo en tiempo real de variables críticas y la gestión proactiva del inventario.
+**How Much? (¿Cuánto?)**  
+Según la FAO, cerca de un tercio de todos los alimentos producidos a nivel mundial se desperdicia. Para un negocio local, esto puede representar entre el 5% y el 20% de su inventario anual, afectando directamente la rentabilidad, aumentando costos de operación y exponiendo a posibles sanciones por salubridad.
 
-Luego de analizar la metodología utilizada actualmente en mercados y restaurantes, identificamos un desafío crítico que puede resolver nuestra propuesta: la dependencia de los negocios en métodos reactivos y desconectados del estado físico real de la mercancía, lo cual genera un alto porcentaje de desperdicio de alimentos, pérdidas económicas y riesgos de salubridad. Esta falta de visibilidad y automatización impacta negativamente en la rentabilidad y la sostenibilidad operativa de los negocios.
+---
 
-En el contexto actual donde la eficiencia operativa y la sostenibilidad son prioritarias, es necesaria una plataforma que transforme datos ambientales en insights accionables. Con esta, las empresas evitarán pérdidas por merma, optimizarán sus compras y garantizarán la calidad y seguridad de sus productos.
+### 1.2.2. Lean UX Process
 
-El segmento inicial estará compuesto por pequeños y medianos restaurantes y puestos en mercados de abastos en Lima Metropolitana, quienes son los más afectados por el desperdicio y tienen una necesidad urgente de modernizar sus operaciones.
+#### 1.2.2.1. Lean UX Problem Statements
 
-#### 1.2.2.2. Lean UX Assumptions.
+Nuestra plataforma **Pandora’s Fresh** ofrece una solución integral para la gestión de inventarios de productos perecibles. El objetivo de esta startup es reemplazar los métodos manuales y sistemas genéricos —como libretas físicas, hojas de cálculo o software no especializado— por un sistema digital centralizado que permita el monitoreo en tiempo real de variables críticas y la gestión proactiva del inventario.
 
-Business Assumptions
+Luego de analizar la metodología utilizada actualmente en mercados y restaurantes, identificamos un desafío clave: la dependencia en métodos reactivos y desconectados del estado físico real de la mercancía, lo que genera desperdicio de alimentos, pérdidas económicas y riesgos sanitarios. Esta falta de visibilidad impacta directamente en la rentabilidad y sostenibilidad operativa de los negocios.
 
-Los negocios de alimentos están buscando activamente tecnologías accesibles para reducir el desperdicio de productos perecibles y mejorar su margen de rentabilidad.
+En el contexto actual, donde la eficiencia operativa y la sostenibilidad son prioridades, **Pandora’s Fresh** busca transformar datos ambientales en **insights accionables**, ayudando a las empresas a evitar pérdidas, optimizar compras y garantizar la calidad de sus productos.
 
-Los gerentes y propietarios están dispuestos a invertir en una solución que les ofrezca control total y tranquilidad sobre su inventario, evitando pérdidas económicas.
+El segmento inicial está compuesto por **pequeños y medianos restaurantes y puestos de mercados de abastos en Lima Metropolitana**, los más afectados por el desperdicio y con mayor urgencia de modernizar su gestión.
 
-La capacidad de demostrar un manejo higiénico y trazable de los alimentos es un diferenciador competitivo valorado por los clientes finales.
+---
 
-La automatización del control de variables ambientales (temperatura, humedad) es vista como una necesidad para operar de manera eficiente y profesional.
+#### 1.2.2.2. Lean UX Assumptions
 
-El problema del desperdicio es lo suficientemente crítico como para que los usuarios abandonen sus métodos tradicionales en favor de una solución digital especializada.
+**Business Assumptions**
+- Los negocios de alimentos están buscando tecnologías accesibles para reducir desperdicios y mejorar su rentabilidad.  
+- Los gerentes y propietarios están dispuestos a invertir en una solución que les brinde control total y tranquilidad sobre su inventario.  
+- La trazabilidad e higiene en la gestión de alimentos son factores competitivos valorados por los consumidores.  
+- La automatización del control de temperatura y humedad es percibida como una necesidad para operar de forma eficiente.  
+- El problema del desperdicio es tan crítico que los usuarios estarían dispuestos a abandonar métodos tradicionales por una solución digital.
 
-User Assumptions
+**User Assumptions**
+- **¿Quién es el usuario?** Propietarios, gerentes de restaurantes y encargados de almacén o bodega en mercados.  
+- **¿Dónde encaja el producto?** Pandora’s Fresh se integra en su flujo de trabajo diario como herramienta central de gestión, reemplazando revisiones manuales y ofreciendo datos en tiempo real.  
+- **¿Qué problemas resuelve?** Falta de visibilidad, control deficiente de caducidad y ausencia de alertas preventivas.  
+- **¿Cuándo y cómo se usa?** Durante la operación diaria, de forma proactiva y reactiva ante alertas, para monitorear, planificar compras o verificar productos específicos.  
+- **¿Qué características son importantes?** Alertas en tiempo real, seguimiento de caducidad, dashboard de inventario, reportes de merma y gestión intuitiva.  
+- **¿Cómo debe verse y comportarse?** Interfaz limpia, visual e intuitiva; prioriza alertas, confiabilidad y rapidez, comportándose de forma proactiva ante eventos críticos.
 
-¿Quién es el usuario? Los usuarios principales serían los propietarios, gerentes de restaurantes y encargados de almacén o bodega en mercados.
+**Feature Assumptions**
+- Las alertas en tiempo real sobre temperatura y humedad permitirán prevenir pérdidas inmediatas.  
+- Las notificaciones anticipadas sobre caducidad ayudarán a planificar ventas y reducir desperdicio.  
+- Un dashboard con métricas claras mejorará la toma de decisiones estratégicas.  
+- La interfaz móvil y web aumentará la adopción y facilidad de uso.  
+- La automatización de reportes de inventario y merma ahorrará tiempo valioso al personal.
 
-¿Dónde encaja nuestro producto en su trabajo o vida? Pandora’s Fresh encajaría en su flujo de trabajo diario como la herramienta central de gestión de inventario, reemplazando las revisiones manuales y permitiéndoles tomar decisiones basadas en datos en tiempo real.
+---
 
-¿Qué problemas tiene nuestro producto que resolver? Debe resolver la falta de visibilidad sobre el estado de los productos, eliminar el proceso manual de chequear fechas y temperaturas, y prevenir activamente el desperdicio.
+#### 1.2.2.3. Lean UX Hypothesis Statements
 
-¿Cuándo y cómo es nuestro producto usado? Será usado de forma continua durante el horario de operación para monitorear el estado del inventario. Se consultará de manera reactiva al recibir una alerta y de manera proactiva para realizar inventarios, planificar compras y verificar el estado de productos específicos.
+**Hypothesis Statement 01**  
+Creemos que el monitoreo en tiempo real de temperatura y humedad mediante sensores IoT reducirá las pérdidas de inventario causadas por condiciones ambientales inadecuadas.  
+**Éxito medido:** Después de tres meses, los usuarios reportarán una reducción del **25%** en productos perdidos por degradación.
 
-¿Qué características son importantes? Alertas en tiempo real por temperatura/humedad fuera de rango, seguimiento de fechas de caducidad, dashboard con el estado general del inventario, reportes de merma y un sistema de gestión de productos intuitivo.
+**Hypothesis Statement 02**  
+Creemos que las notificaciones proactivas sobre productos próximos a vencer permitirán aplicar estrategias de venta (ofertas o descuentos) para reducir el desperdicio.  
+**Éxito medido:** El **80%** de las alertas de caducidad generarán una acción correctiva por parte del usuario.
 
-¿Cómo debe verse nuestro producto y cómo debe comportarse? El producto debe tener una interfaz limpia, visual e intuitiva, priorizando la visualización de alertas y estados críticos. Debe ser extremadamente confiable y rápido, ya que se utiliza en entornos de trabajo dinámicos. Debe comportarse de forma proactiva, notificando al usuario de problemas antes de que ocurran.
+**Hypothesis Statement 03**  
+Creemos que centralizar la gestión del inventario en una plataforma intuitiva reducirá el tiempo dedicado a inventarios manuales.  
+**Éxito medido:** Los usuarios reportarán una reducción del **40%** en el tiempo destinado a gestión manual tras un mes de uso.
 
-Feature Assumptions
-
-Creemos que al proporcionar alertas en tiempo real sobre cambios en la temperatura y humedad, ayudaremos a los usuarios a prevenir la pérdida de productos de manera inmediata.
-
-Creemos que al integrar un sistema de tracking de fechas de caducidad con notificaciones anticipadas, los usuarios podrán planificar mejor sus ventas y reducirán el inventario que se vence.
-
-Creemos que al ofrecer un dashboard con métricas claras sobre el estado del inventario y las pérdidas, facilitaremos la toma de decisiones estratégicas para los gerentes.
-
-Creemos que una interfaz móvil y web responsiva permitirá a los usuarios gestionar su inventario desde cualquier lugar, aumentando la adopción y la utilidad.
-
-Creemos que la automatización de los reportes de inventario y merma ahorrará tiempo valioso a los empleados, que podrán dedicarlo a otras actividades.
-
-#### 1.2.2.3. Lean UX Hypothesis Statements.
-
-Hypothesis Statement 01
-Creemos que el monitoreo en tiempo real de temperatura y humedad mediante sensores IoT reducirá las pérdidas de inventario causadas por condiciones ambientales inadecuadas.
-Sabremos que hemos tenido éxito
-Cuando después de los primeros tres meses de uso, los usuarios reporten una reducción del 25% en el volumen de productos perdidos por degradación.
-
-Hypothesis Statement 02
-Creemos que las notificaciones proactivas sobre productos próximos a vencer permitirán a los usuarios aplicar estrategias de venta (ofertas, descuentos) para reducir el desperdicio.
-Sabremos que hemos tenido éxito
-Cuando se observe que el 80% de las alertas de proximidad a caducidad resultan en una acción por parte del usuario (venta, relocalización, descuento) que impida su pérdida total.
-
-Hypothesis Statement 03
-Creemos que centralizar la gestión del inventario en una plataforma intuitiva reducirá el tiempo que el personal dedica a realizar inventarios manuales y a buscar información.
-Sabremos que hemos tenido éxito
-Cuando los usuarios reporten una reducción del 40% en el tiempo semipal dedicado a la gestión y revisión manual del inventario después de un mes de uso.
-
-Hypothesis Statement 04
-Creemos que proveer datos claros sobre las causas y el costo de la merma aumentará la conciencia del negocio y llevará a cambios operativos para minimizarla.
-Sabremos que hemos tenido éxito
-Cuando el 90% de los usuarios utilice los reportes de merma al menos una vez por semana para analizar sus pérdidas y ajustar sus pedidos o procesos de almacenamiento.
+**Hypothesis Statement 04**  
+Creemos que proveer datos claros sobre las causas y costos de la merma aumentará la conciencia operativa y promoverá mejoras.  
+**Éxito medido:** El **90%** de los usuarios consultará los reportes de merma al menos una vez por semana para ajustar pedidos o procesos.
 
 #### 1.2.2.4. Lean UX Canvas.
 ## 1.3. Segmentos objetivo.

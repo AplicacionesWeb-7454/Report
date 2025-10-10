@@ -1217,6 +1217,9 @@ En esta sección, se documentará y explicará, en términos de producto y colab
 | US09     | Formulario de Contacto	 |     Como usuario con dudas o problemas, quiero tener un medio de contacto o feedback, para comunicarme fácilmente con el equipo.	        | 4                 | Diego Seminario |                                         Done       |
 ### 5.2.1.4. Development Evidence for Sprint Review.
 
+- Para de el Deploy se utilizo FireBase:
+
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/firebase.PNG" style="max-width:100; height:auto;">
 
 **Reporting and analytics BC:**
 
@@ -1234,6 +1237,13 @@ En esta sección, se documentará y explicará, en términos de producto y colab
 **User Management BC:**
 <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/login.png" alt="login" style="max-width:100; height:auto;">
 <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/register.png" alt="register" style="max-width:100; height:auto;">
+
+**IoT Monitoring BC:**
+
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/monitoring1.PNG"  style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/monitoring2.PNG"  style="max-width:100; height:auto;">
+
+
 
 ### 5.2.1.5. Execution Evidence for Sprint Review.
 **Resumen:**

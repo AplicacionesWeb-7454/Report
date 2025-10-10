@@ -539,6 +539,9 @@ El objetivo es ilustrar el recorrido end-to-end actual de cada User Persona, mos
   <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter2/EmpathyMapping2.jpg" alt="Empathy Mapping 2" style="max-width:100; height:auto;">
   
 ## 2.4. Big Picture Event Storming.
+
+
+
 ## 2.5. Ubiquitous Language.
 
 - **Perishable Goods (Productos perecibles)**: Alimentos con vida útil limitada (frutas, verduras, carnes, lácteos, pescados) que requieren condiciones específicas de almacenamiento para mantener su frescura.  
@@ -1201,6 +1204,13 @@ En esta sección, se documentará y explicará, en términos de producto y colab
 | US08     | Ver Términos y Condiciones	 |   Como cliente responsable, quiero poder revisar los Términos y Condiciones, para conocer mis derechos y obligaciones antes de usar la app.	          | 5                 | Jhon Chuchon    |                                           Done     |
 | US09     | Formulario de Contacto	 |     Como usuario con dudas o problemas, quiero tener un medio de contacto o feedback, para comunicarme fácilmente con el equipo.	        | 4                 | Diego Seminario |                                         Done       |
 ### 5.2.1.4. Development Evidence for Sprint Review.
+
+
+**Reporting and analytics BC:**
+
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/assets/img/chapter5/BC_RA1.png" alt="BC_RA1" style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/assets/img/chapter5/BC_RA2.png" alt="BC_RA2" style="max-width:100; height:auto;">
+
 ### 5.2.1.5. Execution Evidence for Sprint Review.
 **Resumen:**
 

@@ -257,6 +257,8 @@ Creemos que proveer datos claros sobre las causas y costos de la merma aumentar�
 
 #### 1.2.2.4. Lean UX Canvas.
 
+La imagen muestra un Lean UX Canvas para Pandora Fresh,Resume problemas de disponibilidad, propone una plataforma logística y tecnológica, identifica usuarios clave, valida hipótesis de adopción y establece un plan de acción con tiempos definidos.
+
 <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter1/Lean%20UX%20Canvas%20Template.png" alt="Lean UX Canvas Template">
 
 ## 1.3. Segmentos objetivo.
@@ -477,11 +479,13 @@ En síntesis, los hallazgos de las entrevistas muestran que la problemática no 
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 
-- User Persona 1: Primer Segmento
+- User Persona 1: Primer Segmento <br>
+  La imagen muestra el perfil de Diego Ríos, gerente de un restaurante en Lima. Se destaca su compromiso con la frescura y calidad de los alimentos, su preferencia por procesos artesanales y su búsqueda constante de eficiencia. Incluye sus motivaciones,     objetivos, frustraciones y rasgos de personalidad, lo que lo convierte en una persona clave para entender las necesidades del sector gastronómico local.
   
   <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter2/UserPersona1.jpg" alt="User Persona - Diego Ríos" style="max-width:100; height:auto;">
 
-- User Persona 2: Segundo Segmento
+- User Persona 2: Segundo Segmento <br>
+  La imagen muestra el perfil de Carlos Díaz, dueño de puestos de mercado en Lima. Refleja su experiencia vendiendo productos frescos, sus motivaciones por mantener calidad y competitividad, y sus frustraciones con pérdidas por productos dañados y falta de herramientas de gestión. También se destacan sus objetivos de mejorar rotación, ventas y equipamiento, junto con rasgos de personalidad que lo muestran como observador, racional y extrovertido. Es una representación clara de un usuario clave en el sector de alimentos frescos.
   
   <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter2/UserPersona2.jpg" alt="User Persona - Carlos Diaz" style="max-width:100; height:auto;">
 
@@ -514,20 +518,24 @@ En síntesis, los hallazgos de las entrevistas muestran que la problemática no 
 En esta sección se presentan los **User Journey Maps** de los segmentos definidos.  
 El objetivo es ilustrar el recorrido end-to-end actual de cada User Persona, mostrando cómo gestionan sus actividades cotidianas relacionadas con el manejo de inventarios de productos perecibles, **sin la existencia de la solución Pandora’s Fresh**. 
 
-- User Journey Mapping 1: Primer Segmento
+- User Journey Mapping 1: Primer Segmento <br>
+  La imagen muestra un User Journey Mapping con cinco etapas del proceso operativo en negocios de alimentos, destacando acciones, pensamientos y emociones. Identifica puntos críticos donde la tecnología puede mejorar control, eficiencia y experiencia.
   
   <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter2/UserJourneyMapping1.jpg" alt="User Journey Mapping 1" style="max-width:100; height:auto;">
 
-- User Journey Mapping 2: Segundo Segmento
+- User Journey Mapping 2: Segundo Segmento <br>
+  La imagen muestra un User Journey Mapping de un vendedor minorista, con cinco etapas del día. Refleja acciones, pensamientos y emociones, destacando desafíos como presión, incertidumbre y pérdidas.
   
   <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter2/UserJourneyMapping2.jpg" alt="User Journey Mapping 1"  style="max-width:100; height:auto;">
   
 ### 2.3.4. Empathy Mapping.
 
-- Empathy Mapping 1
+- Empathy Mapping 1 <br>
+  Empathy Mapping de un cliente gastronómico que revela preocupaciones por costos y calidad, frustraciones por pérdidas y deseos de control y eficiencia.
   <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter2/EmpathyMapping1.jpg" alt="Empathy Mapping 1" style="max-width:100; height:auto;">
 
-- Empathy Mapping 2
+- Empathy Mapping 2 <br>
+  Empathy Mapping de un vendedor agrícola que prioriza volumen sobre calidad, enfrenta pérdidas y busca modernizar su negocio con más control y trazabilidad.
   <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter2/EmpathyMapping2.jpg" alt="Empathy Mapping 2" style="max-width:100; height:auto;">
   
 ## 2.4. Big Picture Event Storming.

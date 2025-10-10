@@ -1296,20 +1296,20 @@ Se promovió la revisión cruzada de avances, el registro de commits detallados 
 En esta sección, se documentará y explicará, en términos de producto y colaboración, el segundo sprint de trabajo:
 #### 5.2.2.1. Sprint Planning 2
 
-| **Sprint #**                  | Sprint 2                                                                                                                                                                            |
-|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Sprint Planning Background** |                                                                                                                                                                                     |
-| **Date**                       |                                                                                                                                                            |
-| **Time**                       |                                                                                                                                                                          |
-| **Location**                   | Modalidad remota a través de la plataforma Discord                                                                                                                                  |
-| **Prepared By**                | Todos los integrantes del equipo Pandoras Fresh                                                                                                                                     |
-| **Attendees (to planning meeting)** | Todos los integrantes del equipo Pandoras Fresh                                                                                                                                     |
-| **Sprint 2 Review Summary**    |                                                                              |
-| **Sprint 2 Retrospective Summary** | .                                                                                                                             |
-| **Sprint Goal & User Stories** |                                                                                                                                 |
-| **Sprint 2 Goal**              |  |
-| **Sprint 2 Velocity**          |                                                                                                                                                                                    |
-| **Sum of Story Points**        |                                                                                                                                                                                    
+| **Sprint #**                        | Sprint 2                                                                                              |
+|-------------------------------------|-------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**      |                                                                                                       |
+| **Date**                            | 9 de octubre de 2025                                                                                  |
+| **Time**                            | 18:00                                                                                                 |
+| **Location**                        | Modalidad remota a través de la plataforma Discord                                                    |
+| **Prepared By**                     | Todos los integrantes del equipo Pandoras Fresh                                                       |
+| **Attendees (to planning meeting)** | Todos los integrantes del equipo Pandoras Fresh                                                       |
+| **Sprint 1 Review Summary**         | En el sprint anterior, se realizo los primeros puntos del reporte y la Landing Page                   |
+| **Sprint 1 Retrospective Summary**  | Se mejoró gran parte del desarrollo del sprint, dado los conocimientos para desplegar la landing page |
+| **Sprint Goal & User Stories**      | US08, US09, US10,US11, US12,US13,US14,US15,US16,US17,US18,US19,US20,US21,US22,US23,US24,US25          |
+| **Sprint 2 Goal**                   | El objetivo de este sprint es desplegar el frontend de la aplicación web                              |
+| **Sprint 2 Velocity**               | 5                                                                                                     |
+| **Sum of Story Points**             | 5                                                                                                     
 
 #### 5.2.2.2 Aspect Leaders and collaborations
 

@@ -432,7 +432,6 @@ Ganar una ventaja competitiva al ofrecer una gestión de calidad más transparen
   - Resumen: El jefe de cocina Gabriel Pérez organiza y supervisa al equipo, planifica menús y mantiene el orden e higiene, además de coordinar compras e inventario. Actualmente controla existencias con hojas de cálculo y conteos físicos, aunque reconoce que el sistema es manual y poco actualizado. Usa etiquetas y el método PEPS para fechas de vencimiento, pero sin alertas automáticas, lo que genera pérdidas frecuentes por exceso o escasez de insumos. La coordinación con proveedores es manual, vía WhatsApp o llamadas. Para garantizar calidad revisan color, olor y temperatura, y cumplen protocolos básicos de higiene. No utilizan herramientas digitales especializadas, pero considera útiles funciones como registro automático de entradas y salidas, alertas de caducidad, monitoreo de temperatura y reportes de consumo/desperdicio. Destaca que en este rol la paciencia, organización y comunicación con el equipo son claves.
 
 
-  - **Entrevista 3**
  
 - **Segundo Segmento:**
   - **Entrevista 1**
@@ -440,9 +439,21 @@ Ganar una ventaja competitiva al ofrecer una gestión de calidad más transparen
   ![](https://github.com/AplicacionesWeb-7454/Report/blob/main/assets/img/chapter2/adolf.png)
 
   - Resumen: El comerciante maneja su inventario de perecibles de forma manual con un cuaderno y memoria, lo que le genera pérdidas por vencimiento de lácteos y pan, además de quedarse sin stock en horas pico. Su mayor dolor es encontrar el equilibrio entre no traer de más ni de menos, ya que esto afecta sus ventas y genera desperdicio. Le gustaría contar con un sistema sencillo en el celular que le permita registrar automáticamente productos, recibir alertas de caducidad y tener reportes que predigan ventas y desperdicios. Valora la rapidez y bajo costo de su método actual, pero reconoce que pierde tiempo revisando manualmente y que se olvida de productos en el almacén. Ve mucho valor en una solución digital que le ahorre tiempo, reduzca pérdidas y le dé tranquilidad, y estaría dispuesto a pagar una suscripción mensual accesible si realmente le ayuda a organizarse y ahorrar dinero.
+
+- **Entrevista 2**
+    
+ <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter2/entrevista4P.PNG" alt="Entrevista 4P" style="width:auto; height:auto;">
  
-
-
+  - Nombre: Janeth Chavez
+   
+  - Inicio: 0:02
+     
+  - Final: 11:46
+     
+  - Link : https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316878_upc_edu_pe/EbKhJrwDTxFDuHgwF-VxLAIBVTElY_l2hPki17Y-d_wgsA?
+    e=K9UKkX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+   
+  - Resumen: Janeth Chávez, dueña de un puesto de mercado, gestiona su inventario de productos perecederos (frutas, verduras, lácteos y embutidos) de forma manual, utilizando un cuaderno o su celular para anotar las cantidades y revisando los productos diariamente “al ojo”. Entre sus principales dificultades se encuentran el desperdicio frecuente de mercadería por vencimiento o deterioro, la falta de control preciso de fechas de caducidad y la dificultad para calcular correctamente las cantidades de compra, lo que genera tanto pérdidas económicas como desabastecimiento en días de alta demanda. Además, el monitoreo de la temperatura y el almacenamiento se realiza de manera manual, lo que incrementa el riesgo de deterioro. Aunque valora la simplicidad y el bajo costo de su método actual, reconoce que este sistema le hace perder tiempo y precisión. Janeth muestra interés en adoptar una solución digital que le permita ver el inventario y las fechas de caducidad desde su celular, recibir alertas automáticas ante productos próximos a vencer o cambios de temperatura, e incluso integrar el control de stock con su punto de venta. Considera que una herramienta así reduciría el desperdicio, mejoraría su organización y aumentaría sus ganancias, prefiriendo un modelo de suscripción mensual accesible con la posibilidad de probarlo previamente.
 
 ### 2.2.3. Análisis de entrevistas.
 

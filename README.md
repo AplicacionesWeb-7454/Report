@@ -1291,8 +1291,8 @@ se hizo uso de la plataforma Figma.
 
 **Deployment Para la landing page, se utilizará Netlify para el despliegue de la página.**
 
-
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Deployment-landingPage.png" alt="DeploymentLanding" style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/deployLanding1.PNG" alt="DeploymentLanding" style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/deployLanding2.PNG" alt="DeploymentLanding" style="max-width:100; height:auto;">
 
 Para nuestro proyecto se crearon 2 repositorios, el cuál fue:
 

@@ -1346,12 +1346,15 @@ En esta sección, se documentará y explicará, en términos de producto y colab
 | Seminario, Diego                    | DiegoSeminario  | (C)                                                     | (C)                                                      | (C)                                                |
 | Mendoza, Alejandro                  | AlexBoo578      |                 (C)                                         | (C)                                                      |        (C)                                  |
 
+### 5.2.2.3. Sprint Backlog 2
 
-**Principales Herramientas de Comunicación:**
+Durante este Sprint, el equipo centró sus esfuerzos en el desarrollo de la capa Frontend de la aplicación, estableciendo las bases visuales y funcionales que interactúan directamente con los usuarios. Se priorizó la implementación de componentes clave asociados a cada uno de los bounded contexts asignados individualmente a los integrantes, lo cual permitió una distribución clara de responsabilidades y un avance paralelo de las funcionalidades. Cada miembro del equipo asumió el liderazgo en el desarrollo de un conjunto específico de componentes, asegurando coherencia y continuidad en cada dominio funcional.
 
-* GitHub (control de versiones y manejo de issues)
-* WhatsApp (comunicación diaria y aclaraciones rápidas)
-* Discord (reuniones de planificación de sprint)
+Además, como parte del compromiso con la experiencia del usuario, se implementó una nueva versión de la Landing Page, con un enfoque visual renovado. Esta incluye imágenes representativas de los servicios ofrecidos, buscando captar la atención desde el primer contacto y comunicar de manera más efectiva la propuesta de valor de la plataforma. Esta mejora visual no solo fortalece la identidad de marca, sino que también establece una conexión más directa con las necesidades de los usuarios.
+
+Este es nuestro link de invitación a nuestro Trello : https://trello.com/invite/b/68e82dc4aa24c7aadbc4cc21/ATTI0f71e2d868b5d516dd4b989004bb7a9348800ED5/kanban-template
+
+ 
 
 ---
 

@@ -1354,7 +1354,131 @@ Además, como parte del compromiso con la experiencia del usuario, se implement�
 
 Este es nuestro link de invitación a nuestro Trello : https://trello.com/invite/b/68e82dc4aa24c7aadbc4cc21/ATTI0f71e2d868b5d516dd4b989004bb7a9348800ED5/kanban-template
 
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter1/sprintback2.PNG"  style="width:auto; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/sprintback2.PNG" alt="SprintBack" style="width:auto; height:auto;">
+
+| Sprint # | Sprint 2 |
+|--------------|--------------|
+
+| **User Story Id** | **User Story Title** | **Task Id** | **Task Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+|-------------------|----------------------|--------------|----------------|-----------------|------------------------|-----------------|-------------|
+| **US10** | Registrar productos | T-10 | Implementar registro de productos | Permitir registrar productos perecibles con nombre, categoría, cantidad y fecha de caducidad. | 3 | **Jareth Vidal** | Done |
+| **US11** | Editar inventario | T-11 | Implementar edición de productos | Habilitar la actualización de datos en productos existentes. | 2 | **Edson Llamosas** | Done |
+| **US12** | Eliminar productos | T-12 | Implementar eliminación de productos | Permitir eliminar productos con confirmación previa. | 2 | **Diego Seminario** | Done |
+| **US13** | Consultar inventario | T-13 | Implementar visualización del inventario | Mostrar lista general del inventario filtrada por estado y fecha. | 2 | **Alejandro Mendoza** | Done |
+| **US14** | Categorizar inventario | T-14 | Implementar categorización de productos | Permitir asignar categorías y filtrar productos según tipo. | 2 | **Jhon Chuuchon** | Done |
+| **US15** | Escaneo de códigos | T-15 | Implementar escáner de productos | Permitir registrar productos escaneando código de barras o QR. | 3 | **Jareth Vidal** | Done |
+| **US16** | Monitorear temperatura | T-16 | Implementar monitoreo de temperatura | Mostrar temperatura actual y gráficos actualizados cada 5 minutos. | 3 | **Edson Llamosas** | Done |
+| **US17** | Monitorear humedad | T-17 | Implementar monitoreo de humedad | Mostrar niveles de humedad con alertas cuando superen límites seguros. | 3 | **Diego Seminario** | Done |
+| **US18** | Conectar sensores IoT | T-18 | Implementar conexión de sensores | Permitir emparejar sensores mediante código único para registrar condiciones ambientales. | 3 | **Alejandro Mendoza** | Done |
+| **US19** | Historial ambiental | T-19 | Implementar historial ambiental | Mostrar registros de temperatura y humedad de los últimos 30 días. | 2 | **Jhon Chuuchon** | Done |
+| **US20** | Alertas de desconexión | T-20 | Implementar alertas de desconexión | Enviar notificación por app y correo si un sensor deja de transmitir datos. | 2 | **Jareth Vidal** | Done |
+| **US21** | Reporte de inventario | T-21 | Implementar generación de reportes de inventario | Permitir generar reportes actualizados exportables en PDF y Excel. | 3 | **Edson Llamosas** | Done |
+| **US22** | Reporte de mermas | T-22 | Implementar reporte de mermas | Mostrar pérdidas de productos con cálculos por tipo y fecha. | 2 | **Diego Seminario** | Done |
+| **US23** | Reporte de caducidades | T-23 | Implementar reporte de caducidades | Mostrar listado de productos próximos a vencer (menos de 5 días). | 2 | **Alejandro Mendoza** | Done |
+| **US24** | Exportar reportes | T-24 | Implementar exportación de reportes | Permitir exportar reportes en formatos PDF, Excel y CSV. | 2 | **Jhon Chuuchon** | Done |
+| **US25** | Dashboard general | T-25 | Implementar dashboard de control | Mostrar métricas clave del inventario: total, pérdidas y alertas. | 3 | **Jareth Vidal** | Done |
+
+### 5.2.2.4. Development Evidence for Sprint Review
+
+Durante el Sprint se avanzó en la implementación de los siguientes productos: Landing Page, Aplicaciones Web y Servicios Web. A continuación se presenta la evidencia de desarrollo mediante commits registrados en los repositorios utilizados durante este periodo. La tabla incluye el nombre del repositorio, rama de trabajo, identificador del commit, mensaje del commit, descripción detallada del cambio y la fecha en que se realizó.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|--------------------|--------------------|
+| pandoras-fresh-frontend-official | feature-user | e792f8a | feat(feature-user): bc/user-management  | Implements user management endpoints with updated flow integration. | 7/10/2025 |
+| pandoras-fresh-frontend-official | feature-user | 7247e35 | feat(feature-user): update/language | Updates db.json and refactors file structure for consistency. | 7/10/2025 |
+| pandoras-fresh-frontend-official | inventory | ba20d49 | feat(views): add box inventory management interfaces | Adds subscription management and payment integration to inventory views. | 26/09/2024 |
+| pandoras-fresh-frontend-official | inventory | c4250eb | feat(services): implement box inventory management services | Integrates zone.js for event handling and service enhancements. | 26/09/2024 |
+| pandoras-fresh-frontend-official | inventory | 43e03eb | feat(domain): add box-based inventory domain models | Adds core domain models for box inventory with zone.js event support. | 26/09/2024 |
+| pandoras-fresh-frontend-official | iot-monitoring | 6005715 | feat: implementa filtrado reactivo por zona y estado en vista de | Adds profile domain entity, controller logic, and Material UI profile component. | 06/09/2024 |
+| pandoras-fresh-frontend-official | iot-monitoring | 7a799d2 | feat: implementa filtrado reactivo por zona y estado en vista de | Adds initial user entity for monitoring module. | 07/09/2024 |
+| pandoras-fresh-frontend-official | reporting-analytics | 510d178 | feat(reporting-routes): add routing for reporting and analytics views | Adds speaking repository service for analytics workflow. | 07/09/2024 |
+| pandoras-fresh-frontend-official | reporting-analytics | 6db38fb | feat(report-generator): implement report generation form with scheduling and preview functionality | Implements scheduling logic and preview UI for generated reports. | 07/09/2024 |
+| pandoras-fresh-frontend-official | alerta-notificacion1 | 4d3a50b | Push | Sets up initial alert-notification module configuration. | 07/09/2024 |
+| pandoras-fresh-frontend-official | alerta-notificacion1 | 4f821eb | fix(alert-notification): fix alert notification | Fixes alert notification setup and improves module initialization. | 07/09/2024 |
+
+### 5.2.2.5. Execution Evidence for Sprint Review.
+Durante este Sprint, el equipo logró implementar exitosamente las principales vistas del frontend de la aplicación Quizzbee, priorizando una experiencia de usuario fluida, intuitiva y visualmente coherente con el diseño propuesto. Se completó la estructura de navegación entre módulos clave, así como la visualización de datos simulados y el despliegue de componentes funcionales para cada uno de los bounded contexts asignados.
+
+El enfoque colaborativo permitió que cada integrante trabajara de forma autónoma y coordinada en su respectivo contexto funcional, asegurando así una integración efectiva de los distintos componentes en la interfaz final. Como evidencia del progreso, a continuación se presentan capturas de pantalla de las vistas más representativas desarrolladas durante este Sprint.
+
+**Reporting and analytics BC:**
+
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/BC_RA1.png" alt="BC_RA1" style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/BC_RA2.png" alt="BC_RA2" style="max-width:100; height:auto;">
+
+**Inventory BC:**
+
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Screenshot 2025-10-10 02.23.50.png" alt="BC_IN_1" style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Screenshot 2025-10-10 03.46.02.png" alt="BC_IN_2" style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Screenshot 2025-10-10 03.46.11.png" alt="BC_IN_3" style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Screenshot 2025-10-10 03.46.18.png" alt="BC_IN_4" style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Screenshot 2025-10-10 03.46.26.png" alt="BC_IN_5" style="max-width:100; height:auto;">
+
+**User Management BC:**
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/login.png" alt="login" style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/register.png" alt="register" style="max-width:100; height:auto;">
+
+**IoT Monitoring BC:**
+
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/monitoring1.PNG"  style="max-width:100; height:auto;">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/monitoring2.PNG"  style="max-width:100; height:auto;">
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
+Durante el Sprint 2, el equipo se centró en el desarrollo de la parte visual y dinámica del frontend de PandoraFresh, utilizando Vue para las funcionalidades interactivas y Firebase para el despliegue
+
+Repositorio de Web Services (Planificado para los próximos sprints): Se ha preparado el repositorio que se utilizará para el desarrollo de la lógica del backend y para la implementación de los endpoints REST que se necesitarán en los próximos sprints
+### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Aquí se presentará la evidencia del despliegue del software realizado en el Sprint 2. Se podrán añadir capturas de pantalla, enlaces a entornos desplegados, logs de despliegue y cualquier otro recurso que demuestre el proceso y resultado del deployment. (Las imágenes y evidencias serán añadidas posteriormente).
+
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/beceptor.png">
+Nos registramos 
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets//img/chapter-V/beceptopr2.png">
+Ya registrados podemos crear nuestras endpoints públicas
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/beceptor3.png">
+
+Y en el serverBasePath: Ponemos la url de nuestro endPoint pública
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/beceptopr24png.png">
+
+
+Firebase Firebase es una plataforma de desarrollo de aplicaciones web y móviles proporcionada por Google, diseñada para ayudar a los desarrolladores a crear, gestionar y escalar aplicaciones rápidamente. Firebase ofrece una variedad de servicios que facilitan tanto el desarrollo como la gestión de aplicaciones en tiempo real<br>
+
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/firebase.png">
+
+ Nos registramos con una cuenta de google y vamos a la consola
+ 
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/firebase2.png">
+ 
+ Creamos un nuevo proyecto de firebase
+ 
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/firebase3.png">
+ Ponemos un nombre para el proyecto
+ 
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/firebase4.png">
+
+
+ Vamos al apartado de hosting
+
+ 
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/firebase5.png">
+
+
+ Se configura el firebase hosting en nuestro proyecto de intellij idea
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/firebase6.png">
+
+Limk del frontend : 
+ 
+ Con esto ya tendríamos nuestro hosting desplegado con los siguientes comandos
+
+ng build
+sudo npm install -g firebase-tools
+firebase login
+firebase init
+firebase deploy
+
+### 5.2.2.8. Team Collaboration Insights during Sprint
+
+En este apartado se presenta un resumen de la dinámica de trabajo colaborativo y la gestión de tareas realizada por el equipo durante el Sprint 2. Se incluyen evidencias visuales que muestran la participación activa de los integrantes, así como el registro de los commits y contribuciones en el repositorio. Estas evidencias reflejan el compromiso, la organización y la comunicación efectiva que caracterizaron el desarrollo de este sprint.
 
 ---
 

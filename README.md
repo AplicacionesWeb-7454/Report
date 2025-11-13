@@ -1354,7 +1354,7 @@ Además, como parte del compromiso con la experiencia del usuario, se implement�
 
 Este es nuestro link de invitación a nuestro Trello : https://trello.com/invite/b/68e82dc4aa24c7aadbc4cc21/ATTI0f71e2d868b5d516dd4b989004bb7a9348800ED5/kanban-template
 
- 
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter1/sprintback2.PNG"  style="width:auto; height:auto;">
 
 ---
 

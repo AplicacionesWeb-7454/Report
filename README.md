@@ -1219,81 +1219,62 @@ En esta sección, se documentará y explicará, en términos de producto y colab
 | US09     | Formulario de Contacto	 |     Como usuario con dudas o problemas, quiero tener un medio de contacto o feedback, para comunicarme fácilmente con el equipo.	        | 4                 | Diego Seminario |                                         Done       |
 ### 5.2.1.4. Development Evidence for Sprint Review.
 
-- Para de el Deploy se utilizo FireBase:
+En esta sección se presenta la evidencia detallada del desarrollo alcanzado durante el Sprint 1, enfocado en la implementación de la Landing Page de Pandora Fresh. Durante este primer sprint, el equipo  se concentró en establecer los fundamentos técnicos y visuales de la plataforma web que conectará a nuestros usuarios.
 
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/firebase.PNG" style="max-width:100; height:auto;">
+Durante este Sprint, el equipo logró avances significativos en la implementación del proyecto. Se completó la estructura y diseño de la landing page, integrando las secciones principales como navegación, testimonios, funcionalidades, formulario de contacto, redes sociales y servicios. Además, se documentaron los commits y ramas utilizados, asegurando trazabilidad y colaboración efectiva entre los miembros del equipo. A continuación, se presenta la evidencia de los principales entregables y contribuciones realizadas durante el Sprint.
 
-**Reporting and analytics BC:**
-
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/BC_RA1.png" alt="BC_RA1" style="max-width:100; height:auto;">
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/BC_RA2.png" alt="BC_RA2" style="max-width:100; height:auto;">
-
-**Inventory BC:**
-
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Screenshot 2025-10-10 02.23.50.png" alt="BC_IN_1" style="max-width:100; height:auto;">
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Screenshot 2025-10-10 03.46.02.png" alt="BC_IN_2" style="max-width:100; height:auto;">
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Screenshot 2025-10-10 03.46.11.png" alt="BC_IN_3" style="max-width:100; height:auto;">
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Screenshot 2025-10-10 03.46.18.png" alt="BC_IN_4" style="max-width:100; height:auto;">
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Screenshot 2025-10-10 03.46.26.png" alt="BC_IN_5" style="max-width:100; height:auto;">
-
-**User Management BC:**
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/login.png" alt="login" style="max-width:100; height:auto;">
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/register.png" alt="register" style="max-width:100; height:auto;">
-
-**IoT Monitoring BC:**
-
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/monitoring1.PNG"  style="max-width:100; height:auto;">
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/monitoring2.PNG"  style="max-width:100; height:auto;">
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|--------------------|--------------------|
+| PandoraFresh-Report | Chapter1 | a1b2c3d | docs:(chapter-I)"add format of team member profiles" | Added structured format for team member profiles including personal information, skills, and role descriptions for each team member in the startup profile section | 15/09/2025 |
+| PandoraFresh-Report | Chapter1 | e4f5g6h | docs(chapter-1):"adding Competitive Analysis Landscape and Strategy and tactis front Rivals "" | Implemented comprehensive competitive analysis section with detailed competitor research, market positioning analysis, and strategic approaches to compete effectively in the market | 16/09/2025 |
+| PandoraFresh-Report | Chapter1 | i7j8k9l | docs(chapter-1): add introduction structure for QuizzBee project and finalize Desing interview | Created complete introduction structure for QuizzBee project including startup description, solution profile, and finalized interview design questions for user research | 17/09/2025 |
+| PandoraFresh-Report | Chapter2 | m0n1o2p | docs(chapter-II):"add summary of interview" | Added comprehensive summary of conducted interviews including key insights, user feedback analysis, and findings that will inform the product development process | 18/09/2025 |
+| PandoraFresh-Report | Chapter2| q3r4s5t | fix(empathymapping): fix empathy map images | Fixed empathy mapping images by correcting display issues, updating broken links, and ensuring proper visualization of user personas and their emotional journey maps | 19/09/2025 |
+| PandoraFresh-Report | Chapter2 | u6v7w8x | feat: Update the description on the Product Backlog. | Updated Product Backlog descriptions to align with user stories format, ensuring consistency between narrative descriptions and acceptance criteria across all user stories | 15/09/2025 |
+| PandoraFresh-Report | Chapter3 | y9z0a1b | feat: restructure user stories format | Restructured user stories from Given-When-Then format to narrative format using "Como [rol], quiero [objetivo] para [beneficio]" structure for better clarity and consistency | 16/09/2025 |
+| PandoraFresh-Report | Chapter3 | c2d3e4f | docs(chapter-III):"add epic with description and title" | Added comprehensive epic stories section with detailed descriptions and titles for each epic, establishing clear connections between user stories and business objectives | 17/09/2025 |
+| PandoraFresh-Report | Chapter4 | g5h6i7j | Delete assets/img/chapter-IV/wireframe1.png | Removed outdated wireframe image file that was no longer needed and replaced with updated design mockups that better represent the current UI/UX design approach | 19/09/2025 |
+| PandoraFresh-Report | Chapter5 | k8l9m0n | feat: update aspect leaders and collaborators | Updated aspect leaders and collaborators table with current team member assignments, defining clear roles and responsibilities for each sprint activity and deliverable | 20/09/2025 |
 
 
 
 ### 5.2.1.5. Execution Evidence for Sprint Review.
 **Resumen:**
 
-Las principales secciones de la Landing Page de Pandoras Fresh fueron desarrolladas y desplegadas exitosamente. A continuación se presentan capturas de pantalla de las secciones implementadas.
+El sprint culminó con la implementación completa de una Landing Page funcional y visualmente atractiva que incorpora todas las características esenciales definidas en las historias de usuario prioritarias. Se estableció una base tecnológica simple pero eficiente
 
-**Evidencia de Capturas:**
+Los principales logros incluyen la implementación exitosa del sistema de internacionalización que permite a los usuarios poder visualizar lo escencial del proyecto, garantizando accesibilidad para nuestros segmentos objetivo. Adicionalmente se desarrollo un boton para que pueda visualizar la web-application
 
-**Hero section:**
+La Landing Page resultante presenta una estructura clara y profesional que comunica efectivamente la propuesta de valor de PandoraFresh . Se implementaron secciones clave como la presentación de servicios principales, explicación del proceso de funcionamiento, características detalladas del producto, e información de contacto con múltiples canales de comunicación.
+
+En este Sprint se logró desplegar la primera versión funcional de la landing page del proyecto, cumpliendo con los objetivos planteados en el backlog. El equipo trabajó de manera colaborativa para implementar y publicar las principales secciones, asegurando una experiencia de usuario coherente y alineada con los requerimientos iniciales. A continuación, se presenta la evidencia visual y el enlace de acceso a la landing page desplegada
+
+Enlace de la Landing Page: <br>
+https://pandorafresh.netlify.app
 
 <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Hero-section.png" alt="HeroSection" style="max-width:100; height:auto;">
 
-**Nosotros section**
-
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Nosotros-section1.png" alt="NosotrosSection1" style="max-width:100; height:auto;">
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Nosotros-section2.png" alt="NosotrosSection2" style="max-width:100; height:auto;">
-
-**Funcionalidades section**
-
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Funcionalidades-section.png" alt="FuncionalidadesSection" style="max-width:100; height:auto;">
-
-**Beneficiados section**
-
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Beneficiados-section1.png" alt="BeneficiadosSection1" style="max-width:100; height:auto;">
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Beneficiados-section2.png" alt="BeneficiadosSection2" style="max-width:100; height:auto;">
-
-**Testimonios section**
-
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Testimonios-section1.png" alt="TestimoniosSection1" style="max-width:100; height:auto;">
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Testimonios-section2.png" alt="TestimoniosSection2" style="max-width:100; height:auto;">
-
-**Soporte section**
-
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Soporte-section1.png" alt="SoporteSection1" style="max-width:100; height:auto;">
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Soporte-section2.png" alt="SoporteSection2" style="max-width:100; height:auto;">
-
-**Descargar section**
-
-<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Descargar-section.png" alt="DescargarSection" style="max-width:100; height:auto;">
-
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
-Durante el Sprint 1, el equipo logró implementar y desplegar la Landing Page de Pandoras Fresh, lo que representa el primer entregable visible y funcional del producto. Esta incluye secciones informativas sobre la plataforma, beneficios clave para los usuarios, diferenciación por tipo de usuario, y botones de acción que direccionan al login o registro.
-
-Además, se configuró el entorno de desarrollo, se definieron los flujos de trabajo con Gitflow y se establecieron las convenciones de codificación. Los avances fueron registrados mediante commits con convenciones semánticas y organizados a través de su propio repositorio.
+Para esta entrega no se han empleado APIS, por lo cuál no se he requerido hacer una documentación sobre servicios implementados durante el Sprint
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-Para este primer Sprint , como equipo logramos implementar satisfactoriamente la primera versión de la landing page. 
+Durante este Sprint, el equipo realizó el despliegue exitoso de la landing page utilizando la plataforma Netlify. El objetivo fue asegurar que la solución estuviera disponible en línea para su revisión y validación ,estableciendo un flujo de trabajo automatizado que garantiza la entrega rápida y confiable de nuevas funcionalidades. El proceso de despliegue se diseñó con el objetivo de minimizar el tiempo de inactividad y maximizar la eficiencia del equipo de desarrollo.
+
+
+Estrategia de Despliegue Implementada:
+
+Se adoptó una arquitectura de despliegue moderno utilizando Netlify como plataforma de hosting, aprovechando sus capacidades de integración continua y entrega continua (CI/CD). Esta elección tecnológica permite despliegues automáticos, rollbacks instantáneos y una infraestructura escalable que se adapta perfectamente a las necesidades del proyecto quizbee.
+
+**Pasos realizados durante el despliegue:**
+1. Se creó una cuenta y espacio de trabajo en Netlify para el proyecto.
+2. Se conectó el repositorio de la landing page alojado en GitHub con Netlify, permitiendo la integración continua.
+3. Se configuró la rama principal del repositorio como fuente de despliegue automático.
+4. Se ajustaron las opciones de build y publish para asegurar la correcta generación de archivos estáticos.
+5. Se realizó el primer despliegue, verificando que la landing page estuviera accesible públicamente y funcionando correctamente.
+6. Se validó el acceso desde diferentes dispositivos y navegadores para garantizar la experiencia de usuario.
+7. Se documentó la URL de acceso y se compartió con el equipo para revisión y feedback.
+ 
 
 **Design:**
 
@@ -1308,10 +1289,8 @@ se hizo uso de la plataforma Figma.
 
 <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/figma2.PNG" alt="figma2" style="width:auto; height:auto;">
 
-**Deployment:** Para el deployment se uso github pages, el cuál nos permite alojar sitios web estáticos directamente desde un repositorio de GitHub.
-Se uso HTML y CSS para el desarrollo de la landing page ya que es sitio estatico.
+**Deployment Para la landing page, se utilizará Netlify para el despliegue de la página.**
 
-- Link LandingPage: https://aplicacionesweb-7454.github.io/LandingPage/
 
 <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/chapter05-sprint1/assets/img/chapter5/Deployment-landingPage.png" alt="DeploymentLanding" style="max-width:100; height:auto;">
 

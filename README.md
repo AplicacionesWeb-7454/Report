@@ -625,6 +625,11 @@ El objetivo es ilustrar el recorrido end-to-end actual de cada User Persona, mos
 | US48 | Alertas de energía | Como usuario, quiero recibir alertas cuando haya cortes de energía, para prevenir pérdida de productos. | **Given** que ocurre un corte de energía, **when** se detecta, **then** debo recibir notificación en menos de 1 min. | EP05 |
 | US49 | Registro por invitación | Como administrador, quiero invitar a empleados a registrarse en la app, para que accedan a sus funciones. | **Given** que quiero registrar un empleado, **when** genero una invitación, **then** el invitado debe recibir un correo con link único. | EP06 |
 | US50 | Confirmación de acciones críticas | Como usuario, quiero que la app me pida confirmación en acciones críticas (eliminar producto, borrar cuenta), para evitar errores. | **Given** que intento realizar una acción crítica, **when** la confirmo, **then** el sistema debe mostrar ventana de confirmación antes de ejecutarla. | EP06 |
+| TS1 | Backend User Management | Implementación de los servicios backend para la gestión de usuarios: registro, login, recuperación de contraseña, roles, sesiones y seguridad. | **Given** que el backend está activo, **when** se reciben solicitudes de gestión de usuarios, **then** el sistema debe validar datos, manejar autenticación y devolver respuestas correctas. | EP06 |
+| TS2 | Backend Inventory | Desarrollo del backend para CRUD de productos, filtros avanzados, categorización, escaneo y vista rápida de inventario. | **Given** que se envían solicitudes al inventario, **when** se procesa información, **then** el backend debe registrar, editar, eliminar, consultar y filtrar datos correctamente. | EP02 |
+| TS3 | Backend IoT-Monitoring | Implementación del backend para sensores IoT: lectura de temperatura/humedad, vinculación de sensores, historial y alertas por desconexión. | **Given** que un sensor transmite datos, **when** llegan al backend, **then** deben almacenarse, procesarse y generar alertas si corresponde. | EP03 |
+| TS4 | Backend Reporting & Analytics | Backend para generación de reportes, cálculos , exportación (PDF/Excel/CSV), automatización mensual y dashboard analítico. | **Given** que se solicita un reporte, **when** el backend procesa los datos, **then** debe generar el archivo solicitado y enviarlo correctamente. | EP04 |
+| TS5 | Alerts & Notifications Backend | Backend para envío de alertas por  caducidad y notificaciones push personalizadas. | **Given** que ocurre un evento crítico, **when** se detecta en el backend, **then** debe enviar la alerta correspondiente por los canales configurados. | EP05 |
 
 
 - Epicas:
@@ -698,6 +703,11 @@ El objetivo es ilustrar el recorrido end-to-end actual de cada User Persona, mos
 | 48 | US48 | Como usuario, quiero recibir alertas cuando haya cortes de energía, para prevenir pérdida de productos. | 5 |
 | 49 | US49 | Como administrador, quiero invitar a empleados a registrarse en la app, para que accedan a sus funciones. | 5 |
 | 50 | US50 | Como usuario, quiero que la app me pida confirmación en acciones críticas (eliminar producto, borrar cuenta), para evitar errores. | 3 |
+| 51 | TS01 | Implementación de los servicios backend para la gestión de usuarios: registro, login, recuperación de contraseña, roles, sesiones y seguridad. | 8 |
+| 52 | TS02 | Desarrollo del backend para CRUD de productos, filtros avanzados, categorización, escaneo y vista rápida de inventario. | 8 |
+| 53 | TS03 | Backend para sensores IoT: lectura de temperatura/humedad, vinculación, historial y alertas por desconexión. | 8 |
+| 54 | TS04 | Backend para reportes, cálculos, exportación (PDF/Excel/CSV), automatización mensual y dashboard analítico. | 8 |
+| 55 | TS05 | Backend para envío de alertas por caducidad y notificaciones push personalizadas. | 5 |
 
 - Link Trello: https://trello.com/invite/b/68e82dc4aa24c7aadbc4cc21/ATTI0f71e2d868b5d516dd4b989004bb7a9348800ED5/kanban-template
   
@@ -1522,14 +1532,55 @@ Durante este Sprint, el equipo enfocó sus esfuerzos en el desarrollo de la capa
 
 | **User Story Id** | **User Story Title** | **Task Id** | **Task Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
 |-------------------|----------------------|--------------|----------------|-----------------|------------------------|-----------------|-------------|
-| **TS01** | Backend API de login | T-01 | Implementar creacion de cuenta| Implementar el endpoint que permita al usuario crear su cuenta . | 2 | Abraam Acosta | Done |
-| **TS02** | Backend API de quizzes | T-02 | Implementar creación de quizzes | Implementar endpoints para que el usuario pueda crear, editar y gestionar quizzes personalizados. | 1 | Pablo Geronimo | Done |
-| **TS03** | Backend API de feedback | T-03 | Implementar creación de feedbacks | Implementar endpoints para que el usuario pueda feedbacks de los quizzes | 3 | Pablo Geronimo | Done |
-| **TS04** | Backend API de usuarios | T-04 | Implementar usuarios | Desarrollar el endpoint que permita eliminar usuarios y roles, manteniendo el control administrativo. | 2 | Jareth Vidal | Done |
-| **TS05** | Backend API de ranking | T-05 | Implementar ranking | Implementar endpoints para actualizar y consultar rankings globales, por nivel y por país. | 1 | Abraam Acosta | Done |
-| **TS06** | Backend API de progreso | T-06 | Implementar progreso | Crear endpoints para registrar y consultar el historial y progreso del usuario mediante gráficos. | 3 | Pablo Geronimo | Done |
-| **TS07** | Backend API de pagos y suscripciones | T-07 | Implementar planes premiuns | Implementar endpoints para gestionar transacciones y planes premium de los usuarios. | 2 | Jareth Vidal | Done |
-| **TS08** | Backend API de speaking rooms | T-08 | Implementar speaking rooms | Crear endpoints para la creación, moderación y grabación de speaking rooms. | 1 | Alejandro Mendoza | Done |
+| **TS01** | Backend API User Management | T-01 | Implementar creación de cuenta | Implementar el endpoint para registrar nuevos usuarios, validando datos y almacenando la información correctamente. | 2 | Diego Seminario | Done |
+| **TS02** | Backend API Inventory | T-02 | Implementar creación de inventario | Implementar endpoints para crear, editar y eliminar productos del inventario, incluyendo validaciones básicas. | 1 | Edson Llamozas| Done |
+| **TS03** | Backend API IoT Monitoring | T-03 | Implementar creación de sensores | Implementar endpoints para registrar sensores, vincularlos y recibir datos de temperatura y humedad. | 3 | Jareth Vidal | Done |
+| **TS04** | Backend API Reporting and Analytics | T-04 | Implementar reportes | Implementar el endpoint para generar reportes, procesar datos y retornar archivos en los formatos requeridos. | 2 | Alejandro Mendoza | Done |
+| **TS05** | Backend API Alerts and Notification | T-05 | Implementar notificación de caducidad | Implementar endpoints para enviar alertas de productos próximos a vencer y gestionar notificaciones configuradas por el usuario. | 1 | Jhon Chuchon | Done |
+
+Este es nuestro link de invitación a nuestro Trello: https://trello.com/invite/b/68e82dc4aa24c7aadbc4cc21/ATTI0f71e2d868b5d516dd4b989004bb7a9348800ED5/kanban-template
+
+### 5.2.3.4. Development Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|--------------------|--------------------|
+|pandoras-fresh-frontend-official |  |   |   |  |  21/10/2025 |
+|  pandoras-fresh-frontend-official |  |   |  | | 3/11/2025 |
+|  pandoras-fresh-frontend-official |  |  ||  | 9/11/2024 |
+
+### 5.2.3.5.  Execution Evidence for Sprint Review
+En esta sección, Tenemos los endpoints para PandoraFresh:
+
+### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
+ 
+### 5.2.3.7.  Software Deployment Evidence for Sprint Review. 
+
+ Link Landing Desplegado: https://pandorafresh.netlify.app/
+ Link del frontend despluegado: 
+ Evidencias:
+
+### 5.2.3.8.  Team Collaboration Insights during Sprint.
+
+## 5.3. Validation Interviews
+
+### 5.3.1. Diseño de Entrevistas
+
+En esta sección se presenta el diseño de las entrevistas de validación realizadas para la plataforma **PandoraFresh**, aplicadas a los segmentos objetivo identificados durante el proceso de investigación.  
+Cada entrevista busca recopilar percepciones sobre la **facilidad de uso**, **interfaz**, **flujo de navegación**, **motivación**, y **valor percibido** de las funcionalidades principales tanto del *Landing Page* como de la aplicación.
+
+## **Entrevistas por Segmento - Plataforma PandoraFresh**
+
+#### **Segmento 1: Personas que quieren reforzar lo aprendido de algún idioma**
+
+---
+
+#### **Segmento 2: Personas que ya dominan algún idioma**
+
+### 5.3.2. Registro de Entrevistas.
+
+#### Segmento 1:
+#### Segmento 2:
+
 
 ---
 

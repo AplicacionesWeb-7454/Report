@@ -1329,8 +1329,8 @@ En esta sección, se documentará y explicará, en términos de producto y colab
 | **Location**                        | Modalidad remota a través de la plataforma Discord                                                    |
 | **Prepared By**                     | Todos los integrantes del equipo Pandoras Fresh                                                       |
 | **Attendees (to planning meeting)** | Todos los integrantes del equipo Pandoras Fresh                                                       |
-| **Sprint 1 Review Summary**         | En el sprint anterior, se realizo los primeros puntos del reporte y la Landing Page                   |
-| **Sprint 1 Retrospective Summary**  | Se mejoró gran parte del desarrollo del sprint, dado los conocimientos para desplegar la landing page |
+| **Sprint 2 Review Summary**         | En el sprint anterior, se realizo los primeros puntos del reporte y la Landing Page                   |
+| **Sprint 2 Retrospective Summary**  | Se mejoró gran parte del desarrollo del sprint, dado los conocimientos para desplegar la landing page |
 | **Sprint Goal & User Stories**      | US08, US09, US10,US11, US12,US13,US14,US15,US16,US17,US18,US19,US20,US21,US22,US23,US24,US25          |
 | **Sprint 2 Goal**                   | El objetivo de este sprint es desplegar el frontend de la aplicación web                              |
 | **Sprint 2 Velocity**               | 5                                                                                                     |
@@ -1478,8 +1478,10 @@ firebase deploy
 
 En este apartado se presenta un resumen de la dinámica de trabajo colaborativo y la gestión de tareas realizada por el equipo durante el Sprint 2. Se incluyen evidencias visuales que muestran la participación activa de los integrantes, así como el registro de los commits y contribuciones en el repositorio. Estas evidencias reflejan el compromiso, la organización y la comunicación efectiva que caracterizaron el desarrollo de este sprint.
 
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter1/CONTRI.PNG" alt="CONTRI" style="width:auto; height:auto;">
+
 ### 5.2.3. Sprint 3
-En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo durante el desarrollo del Sprint 2.
+En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo durante el desarrollo del Sprint 3.
 
 ### 5.2.3.1. Sprint Planning 3.
 

@@ -1431,40 +1431,38 @@ Repositorio de Web Services (Planificado para los próximos sprints): Se ha prep
 
 Aquí se presentará la evidencia del despliegue del software realizado en el Sprint 2. Se podrán añadir capturas de pantalla, enlaces a entornos desplegados, logs de despliegue y cualquier otro recurso que demuestre el proceso y resultado del deployment. (Las imágenes y evidencias serán añadidas posteriormente).
 
-<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/beceptor.png">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/FIRE1.png" alt="Registro Firebase" style="width:auto; height:auto;">
 Nos registramos 
-<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets//img/chapter-V/beceptopr2.png">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/FIRE2.png" alt="Endpoints públicas" style="width:auto; height:auto;">
 Ya registrados podemos crear nuestras endpoints públicas
-<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/beceptor3.png">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/FIRE3.png" alt="Creación de endpoints" style="width:auto; height:auto;">
 
 Y en el serverBasePath: Ponemos la url de nuestro endPoint pública
-<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/beceptopr24png.png">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/FIRE4.png" alt="ServerBasePath" style="width:auto; height:auto;">
 
 
 Firebase Firebase es una plataforma de desarrollo de aplicaciones web y móviles proporcionada por Google, diseñada para ayudar a los desarrolladores a crear, gestionar y escalar aplicaciones rápidamente. Firebase ofrece una variedad de servicios que facilitan tanto el desarrollo como la gestión de aplicaciones en tiempo real<br>
 
- <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/firebase.png">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/FIRE5.png" alt="Firebase overview" style="width:auto; height:auto;">
 
  Nos registramos con una cuenta de google y vamos a la consola
  
- <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/firebase2.png">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/FIRE6.png" alt="Consola Firebase" style="width:auto; height:auto;">
  
  Creamos un nuevo proyecto de firebase
  
- <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/firebase3.png">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/FIRE7.png" alt="Nuevo proyecto Firebase" style="width:auto; height:auto;">
  Ponemos un nombre para el proyecto
  
- <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/firebase4.png">
-
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/FIRE8.png" alt="Nombre del proyecto" style="width:auto; height:auto;">
 
  Vamos al apartado de hosting
 
  
- <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/firebase5.png">
-
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/FIRE9.png" alt="Apartado Hosting" style="width:auto; height:auto;">
 
  Se configura el firebase hosting en nuestro proyecto de intellij idea
- <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/firebase6.png">
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/FIRE10.png" alt="Configuración en IntelliJ" style="width:auto; height:auto;">
 
 Limk del frontend : 
  

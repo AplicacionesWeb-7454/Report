@@ -1487,6 +1487,49 @@ En esta sección se registra el avance del producto y las acciones colaborativas
 
 Durante la reunión de planificación del Sprint 3, el equipo identificó los objetivos prioritarios en función del alcance general del proyecto. Se establecieron entregables enfocados en mejorar la funcionalidad de la plataforma y avanzar con la implementación de módulos esenciales. A continuación, se resumen los acuerdos principales:
 
+| **Sprint #** | Sprint 3 |
+|---------------|-----------|
+| **Sprint Planning Background** |  |
+| **Date** | 1/11/2025  |
+| **Time** | 13:00 horas  |
+| **Location** |  Modalidad remota a través de la plataforma Discord  |
+| **Prepared By** | Todos los integrantes del equipo PandoraFresh |
+| **Attendees (to planning meeting)** | Todos los integrantes del equipo PandoraFresh |
+| **Sprint n – 3 Review Summary** |  Durante el Sprint anterior, se realizaron correcciones sugeridas por el profesor en el informe del proyecto, y se logró desarrollar la primera versión de la aplicación Front End. Este avance permitió establecer la base del sistema, con un diseño visual inicial y funcionalidades básicas. Aunque algunas pantallas no fueron completadas, el producto resultante fue funcional y bien recibido.   |
+| **Sprint n – 3 Retrospective Summary** | El equipo expresó satisfacción con el trabajo colaborativo, destacando la mejora en la comunicación interna y la distribución de tareas. Se identificaron oportunidades de mejora en la organización del tiempo y planificación de actividades. Se acordó priorizar la definición clara de objetivos semanales para mejorar la eficiencia del equipo. |
+| **Sprint Goal & User Stories** | TS1, TS2, TS3, TS4, TS5, TS6, TS7, TS8  |
+| **Sprint 3 Goal** |  Nuestro enfoque se centra en el desarrollo y consolidación de la API de PandoraFresh, que constituye el núcleo funcional de la plataforma. Esta API implementa un conjunto de endpoints clave que soportan la creación, gestión                       del inventario, así como la administración de cada alimento y creacon sensores para el monitoreo Iot.El objetivo principal es garantizar un flujo completo y coherente entre las acciones del usuario y sus alimentos, permitiendo que la interaccion sea segura.  |
+| **Sprint 3 Velocity** | 100%|
+| **Sum of Story Points** | La suma de Story Points atendidos es de 21 story points|
+
+### 5.2.3.2. Aspect Leaders and Collaborators.
+
+En esta sección se presenta la Leadership-and-Collaboration Matrix (LACX) para el Sprint 3, enfocada en la integración casi completa entre la Frontend Web Application y los Web Services RESTful del backend de PandoraFresh. Esta matriz define los roles y responsabilidades de cada miembro del equipo durante el proceso de integración y pruebas.
+
+Principales Aspectos Considerados en el Sprint 3: Para el Sprint 3, se han identificado cuatro aspectos fundamentales que abarcan la integración y pruebas completas: API Integration (Integración de API): Este aspecto engloba la conexión de la aplicación frontend con los servicios RESTful del backend, incluyendo llamadas a endpoints, manejo de respuestas y errores. End-to-End Testing (Pruebas de extremo a extremo): Comprende la implementación de pruebas automatizadas que validan flujos completos desde la interfaz de usuario hasta el backend. Error Handling & User Feedback (Manejo de errores y retroalimentación al usuario): Incluye la implementación de mecanismos para manejar errores de API y proporcionar retroalimentación clara a los usuarios. Documentation & Deployment (Documentación y Despliegue): Abarca la actualización de la documentación técnica y la estrategia de despliegue continuo para la aplicación integrada.
+
+| Team Member (Last Name, First Name) | Github Username |  Iventory| IoT Monitoring | User Management |  Reporting and Analytics | Alerts and Notification |
+|-------------------------------------|-----------------| -------- |----------------| --------------- | -------------------------|-------------------------|
+| Llamozas, Diego                     | Diego Llamozas  | (L)      | (C)            | (C)             |   (C)                    | (C)                     |
+| Vidal, Jareth                       | Jareth341       | (C)      | (L)            | (C)             |   (C)                    | (C)                     |
+| Chuchon, Jhon                       | JhonChuchon     | (C)      | (C)            | (C)             |   (C)                    | (L)                     |
+| Seminario, Diego                    | DiegoSeminario  | (C)      | (C)            | (L)             |   (C)                    | (C)                     |
+| Mendoza, Alejandro                  | AlexBoo578      | (C)      | (C)            | (C)             |   (L)                    | (C)                     |
+
+### 5.2.3.2.3. Sprint Backlog 3. 
+
+Durante este Sprint, el equipo enfocó sus esfuerzos en el desarrollo de la capa Backend de la aplicación, implementando la lógica de negocio y los servicios necesarios para dar soporte funcional a cada uno de los bounded contexts. Se priorizó la creación de entidades, controladores, servicios y repositorios en base a una arquitectura por capas y principios de diseño orientado a dominios. Cada integrante asumió la implementación del backend correspondiente a su bounded context asignado, permitiendo un desarrollo distribuido y coherente. Esta fase ha sido clave para establecer la base de comunicación entre el frontend y la lógica del sistema, asegurando la persistencia de datos y el correcto flujo de la información. 
+
+| **User Story Id** | **User Story Title** | **Task Id** | **Task Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+|-------------------|----------------------|--------------|----------------|-----------------|------------------------|-----------------|-------------|
+| **TS01** | Backend API de login | T-01 | Implementar creacion de cuenta| Implementar el endpoint que permita al usuario crear su cuenta . | 2 | Abraam Acosta | Done |
+| **TS02** | Backend API de quizzes | T-02 | Implementar creación de quizzes | Implementar endpoints para que el usuario pueda crear, editar y gestionar quizzes personalizados. | 1 | Pablo Geronimo | Done |
+| **TS03** | Backend API de feedback | T-03 | Implementar creación de feedbacks | Implementar endpoints para que el usuario pueda feedbacks de los quizzes | 3 | Pablo Geronimo | Done |
+| **TS04** | Backend API de usuarios | T-04 | Implementar usuarios | Desarrollar el endpoint que permita eliminar usuarios y roles, manteniendo el control administrativo. | 2 | Jareth Vidal | Done |
+| **TS05** | Backend API de ranking | T-05 | Implementar ranking | Implementar endpoints para actualizar y consultar rankings globales, por nivel y por país. | 1 | Abraam Acosta | Done |
+| **TS06** | Backend API de progreso | T-06 | Implementar progreso | Crear endpoints para registrar y consultar el historial y progreso del usuario mediante gráficos. | 3 | Pablo Geronimo | Done |
+| **TS07** | Backend API de pagos y suscripciones | T-07 | Implementar planes premiuns | Implementar endpoints para gestionar transacciones y planes premium de los usuarios. | 2 | Jareth Vidal | Done |
+| **TS08** | Backend API de speaking rooms | T-08 | Implementar speaking rooms | Crear endpoints para la creación, moderación y grabación de speaking rooms. | 1 | Alejandro Mendoza | Done |
 
 ---
 

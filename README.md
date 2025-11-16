@@ -1632,8 +1632,12 @@ En esta sección, Tenemos los endpoints para PandoraFresh:
  Link del frontend despluegado: https://pandora-fresh.web.app
  
  Evidencias:
+ <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/evidenciaLand.PNG">
 
+ <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/evidenciaFront.PNG">
 ### 5.2.3.8.  Team Collaboration Insights during Sprint.
+
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter1/CONTRI.PNG" alt="CONTRI" style="width:auto; height:auto;">
 
 ## 5.3. Validation Interviews
 

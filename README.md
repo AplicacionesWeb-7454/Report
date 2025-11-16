@@ -1471,10 +1471,10 @@ Firebase Firebase es una plataforma de desarrollo de aplicaciones web y móviles
  
 <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/FIRE9.png" alt="Apartado Hosting" style="width:auto; height:auto;">
 
- Se configura el firebase hosting en nuestro proyecto de intellij idea
+ Se configura el firebase hosting en nuestro proyecto de webstorm
 <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/FIRE10.png" alt="Configuración en IntelliJ" style="width:auto; height:auto;">
 
-Limk del frontend : 
+Limk del frontend : https://pandora-fresh.web.app
  
  Con esto ya tendríamos nuestro hosting desplegado con los siguientes comandos
 

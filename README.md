@@ -1556,7 +1556,9 @@ En esta sección, Tenemos los endpoints para PandoraFresh:
 ### 5.2.3.7.  Software Deployment Evidence for Sprint Review. 
 
  Link Landing Desplegado: https://pandorafresh.netlify.app/
- Link del frontend despluegado: 
+ 
+ Link del frontend despluegado: https://pandora-fresh.web.app
+ 
  Evidencias:
 
 ### 5.2.3.8.  Team Collaboration Insights during Sprint.

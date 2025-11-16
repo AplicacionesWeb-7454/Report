@@ -1558,6 +1558,8 @@ Durante este Sprint, el equipo enfocó sus esfuerzos en el desarrollo de la capa
 
 Este es nuestro link de invitación a nuestro Trello: https://trello.com/invite/b/68e82dc4aa24c7aadbc4cc21/ATTI0f71e2d868b5d516dd4b989004bb7a9348800ED5/kanban-template
 
+<img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/trelloAW.PNG"  style="width:auto; height:auto;">
+
 ### 5.2.3.4. Development Evidence for Sprint Review.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |

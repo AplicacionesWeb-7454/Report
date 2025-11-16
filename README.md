@@ -1691,6 +1691,17 @@ Cada entrevista busca recopilar percepciones sobre la **facilidad de uso**, **in
 ### 5.3.2. Registro de Entrevistas.
 
 #### Segmento 1:  Dueños de restaurantes
+  - Entrevista 1:
+    
+     <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/entrevistafrontaw.PNG">
+     
+     Inicio: 0:05
+     
+     Final: 4:03
+    
+     URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316878_upc_edu_pe/IQBcw4Qfb6lkQJRaX2lLjG7xAcXQ-86E_bOpFKDmlBzlqH4?e=p1QnXA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+    
+     Resumen: La entrevistada, Jhaneth Chavez, comentó que la app le resultó sencilla de usar desde el registro y que el proceso de ingresar productos al inventario fue claro y ordenado. Destacó que la vinculación de los sensores IoT fue rápida y que las alertas de caducidad llegaron a tiempo, permitiéndole evitar pérdidas y organizar mejor sus insumos. Mencionó que tener toda la información en un solo panel le ahorró tiempo y le facilitó tomar decisiones sobre compras y rotación. Aunque al inicio tuvo una mínima duda con el flujo, lo entendió rápidamente. Finalmente, señaló que la herramienta le ha ayudado a mejorar la gestión de su restaurante y que sin duda la recomendaría a otros dueños.
 
 #### Segmento 2:
 

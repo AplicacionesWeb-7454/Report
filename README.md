@@ -1575,9 +1575,9 @@ En esta sección, Tenemos los endpoints para PandoraFresh:
 
 - Inventory:
 
-  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Inventory1.PNG" alt="Inventory">
-  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Inventory2.PNG" alt="Inventory">
-  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Inventory3.PNG" alt="Inventory">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Inventory1.png" alt="Inventory">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Inventory2.png" alt="Inventory">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Inventory3.png" alt="Inventory">
 
 
 

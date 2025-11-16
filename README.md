@@ -1525,7 +1525,7 @@ Durante la reunión de planificación del Sprint 3, el equipo identificó los ob
 | **Attendees (to planning meeting)** | Todos los integrantes del equipo PandoraFresh |
 | **Sprint n – 3 Review Summary** |  Durante el Sprint anterior, se realizaron correcciones sugeridas por el profesor en el informe del proyecto, y se logró desarrollar la primera versión de la aplicación Front End. Este avance permitió establecer la base del sistema, con un diseño visual inicial y funcionalidades básicas. Aunque algunas pantallas no fueron completadas, el producto resultante fue funcional y bien recibido.   |
 | **Sprint n – 3 Retrospective Summary** | El equipo expresó satisfacción con el trabajo colaborativo, destacando la mejora en la comunicación interna y la distribución de tareas. Se identificaron oportunidades de mejora en la organización del tiempo y planificación de actividades. Se acordó priorizar la definición clara de objetivos semanales para mejorar la eficiencia del equipo. |
-| **Sprint Goal & User Stories** | TS1, TS2, TS3, TS4, TS5, TS6, TS7, TS8  |
+| **Sprint Goal & User Stories** | TS1, TS2, TS3, TS4, TS5  |
 | **Sprint 3 Goal** |  Nuestro enfoque se centra en el desarrollo y consolidación de la API de PandoraFresh, que constituye el núcleo funcional de la plataforma. Esta API implementa un conjunto de endpoints clave que soportan la creación, gestión                       del inventario, así como la administración de cada alimento y creacon sensores para el monitoreo Iot.El objetivo principal es garantizar un flujo completo y coherente entre las acciones del usuario y sus alimentos, permitiendo que la interaccion sea segura.  |
 | **Sprint 3 Velocity** | 100%|
 | **Sum of Story Points** | La suma de Story Points atendidos es de 21 story points|
@@ -1562,9 +1562,15 @@ Este es nuestro link de invitación a nuestro Trello: https://trello.com/invite/
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|--------------------|--------------------|
-|pandoras-fresh-frontend-official |  |   |   |  |  21/10/2025 |
-|  pandoras-fresh-frontend-official |  |   |  | | 3/11/2025 |
-|  pandoras-fresh-frontend-official |  |  ||  | 9/11/2024 |
+| pandoras-fresh-platform | feature-iot-monitoring | 5ed38c3 | fix : Program.cs | Corrige configuración de inicialización en `Program.cs` para evitar fallos al registrar servicios y mejorar el arranque del módulo IoT. | 31/10/2025 |
+| pandoras-fresh-platform | feature-iot-monitoring | 9a39b76 | feat(sensor): add sensor and reading management with repositories and command services | Implementa entidades, repositorios y command services para gestionar sensores y lecturas. Se habilita el flujo completo de registro, consulta y persistencia. | 31/10/2025 |
+| pandoras-fresh-platform | feature-inventory | efb0ea3 | fix(inventory): resolve model builder extension errors. | Ajusta extensiones del Model Builder para evitar errores de mapeo. Se corrigen inconsistencias en claves, relaciones y configuraciones del modelo de inventario. | 3/11/2025 |
+| pandoras-fresh-platform | feature-inventory | fc7222c | feat(inventory): add Inventory aggregate root with storage management. | Añade el aggregate root de Inventario, incluyendo lógica de administración de stock, movimientos y sincronización con módulos relacionados. | 1/11/2024 |
+| pandoras-fresh-platform | feature-inventory | fc7222c | feat(inventory): add Inventory aggregate root with storage management. | Añade el aggregate root de Inventario, incluyendo lógica de administración de stock, movimientos y sincronización con módulos relacionados. | 1/11/2024 |
+| pandoras-fresh-platform | notifications | 34ffa5e | notifications | Implementa módulo inicial de notificaciones, permitiendo enviar alertas básicas y estructura para añadir canales futuros. | 7/11/2024 |
+| pandoras-fresh-platform | reporting-analytics | b13c3fc | feat(analytics): add Analytic entity and update createAnalyticCommand structure | Agrega la entidad Analytic y actualiza la estructura del comando de creación para soportar nuevos campos y validaciones. | 31/10/2024 |
+| pandoras-fresh-platform | reporting-analytics | db603c4 | feat(reporting-analytics): first chore reporting analytics | Inicializa el módulo de reporting y analytics, crea la base del proyecto y configura los componentes primarios. | 31/10/2024 |
+
 
 ### 5.2.3.5.  Execution Evidence for Sprint Review
 En esta sección, Tenemos los endpoints para PandoraFresh:
@@ -1684,7 +1690,8 @@ Cada entrevista busca recopilar percepciones sobre la **facilidad de uso**, **in
 
 ### 5.3.2. Registro de Entrevistas.
 
-#### Segmento 1:
+#### Segmento 1:  Dueños de restaurantes
+
 #### Segmento 2:
 
 

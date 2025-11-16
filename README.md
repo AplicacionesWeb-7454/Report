@@ -1551,7 +1551,22 @@ Este es nuestro link de invitación a nuestro Trello: https://trello.com/invite/
 ### 5.2.3.5.  Execution Evidence for Sprint Review
 En esta sección, Tenemos los endpoints para PandoraFresh:
 
+- IoT Monitoring:
+  
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/backIoT.PNG" alt="Backend IoT">
+
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
+- IoT Monitoring:
+  
+| Método | Endpoint | Descripción |
+|--------|----------|-------------|
+| **POST** | `/api/Links` | Crear un nuevo link |
+| **GET** | `/api/Links/{sensorId}` | Obtener links por sensor ID |
+| **GET** | `/api/Readings/{sensorId}` | Obtener lecturas por sensor ID |
+| **GET** | `/api/Sensors` | Obtener todos los sensores |
+| **GET** | `/api/Sensors/{id}` | Obtener un sensor específico |
+| **GET** | `/api/Statuses` | Obtener todos los estados |
+| **GET** | `/api/Zones` | Obtener todas las zonas |
  
 ### 5.2.3.7.  Software Deployment Evidence for Sprint Review. 
 

@@ -1387,6 +1387,24 @@ Este es nuestro link de invitación a nuestro Trello : https://trello.com/invite
 | **US23** | Reporte de caducidades | T-23 | Implementar reporte de caducidades | Mostrar listado de productos próximos a vencer (menos de 5 días). | 2 | **Alejandro Mendoza** | Done |
 | **US24** | Exportar reportes | T-24 | Implementar exportación de reportes | Permitir exportar reportes en formatos PDF, Excel y CSV. | 2 | **Jhon Chuuchon** | Done |
 | **US25** | Dashboard general | T-25 | Implementar dashboard de control | Mostrar métricas clave del inventario: total, pérdidas y alertas. | 3 | **Jareth Vidal** | Done |
+| **US41** | Integración móvil | Como usuario, quiero acceder desde mi celular, para gestionar inventario en cualquier lugar. | **Given** que uso la app móvil, **when** la instalo, **then** debe funcionar en Android e iOS. |
+| **US42** | Multidispositivo | Como usuario, quiero usar la app en varios dispositivos, para tener sincronización en tiempo real. | **Given** que accedo desde distintos dispositivos, **when** hago cambios, **then** estos deben reflejarse en todos. |
+| **US43** | Vista rápida | Como usuario, quiero ver un resumen rápido del inventario en el inicio, para ahorrar tiempo. | **Given** que entro al inicio, **when** lo reviso, **then** debo ver estado general y alertas recientes. |
+| **US44** | Filtros avanzados | Como usuario, quiero aplicar filtros avanzados (categoría, estado, caducidad), para encontrar productos fácilmente. | **Given** que estoy en el inventario, **when** aplico filtros, **then** los resultados deben mostrarse de inmediato. |
+| **US45** | Buscador inteligente | Como usuario, quiero buscar productos por nombre o código, para ubicar rápidamente ítems. | **Given** que estoy en la lista de productos, **when** uso el buscador, **then** debo ver resultados en menos de 2 segundos. |
+| **US51** | Create Inventories | Como usuario, quiero crear múltiples inventarios para organizar mis cajas de productos, para gestionar diferentes ubicaciones o categorías de almacenamiento. | **Given** que accedo a la gestión de inventarios, **when** creo un nuevo inventario, **then** debo poder asignarle nombre, descripción y ubicación. |
+| **US52** | Register Boxes | Como usuario, quiero registrar cajas dentro de mis inventarios, para organizar físicamente mis productos perecibles. | **Given** que estoy en un inventario, **when** registro una nueva caja, **then** debo poder definir su capacidad, ubicación específica y condiciones de almacenamiento. |
+| **US53** | Add Product Instances to Boxes | Como usuario, quiero agregar instancias de productos específicos a cajas seleccionadas, para organizar mi inventario físicamente. | **Given** que tengo productos y cajas registradas, **when** agrego instancias de productos, **then** debo poder seleccionar la caja destino y especificar cantidad y fecha de ingreso. |
+| **US54** | Display Box Information | Como usuario, quiero visualizar la información detallada de cada caja dentro de un inventario, para conocer su estado y contenido. | **Given** que accedo a un inventario, **when** selecciono una caja, **then** debo ver su capacidad, ocupación actual, condiciones ambientales y productos contenidos. |
+| **US55** | Display Product Instances per Box | Como usuario, quiero ver todas las instancias de productos contenidas en una caja específica, para gestionar el contenido de manera granular. | **Given** que visualizo una caja, **when** consulto su contenido, **then** debo ver lista de todas las instancias de productos con sus fechas de caducidad y cantidades. |
+| **US56** | Display Product Types per Box | Como usuario, quiero ver los tipos de productos diferentes contenidos en una caja, para conocer la variedad de productos almacenados. | **Given** que visualizo una caja, **when** consulto los tipos de productos, **then** debo ver un listado agrupado por tipo de producto con cantidades totales. |
+| **US57** | Display Product Instances per Inventory | Como usuario, quiero ver todas las instancias de productos en un inventario completo, para tener una visión general del stock. | **Given** que accedo a un inventario, **when** consulto todas las instancias, **then** debo ver lista completa de productos con su caja de pertenencia y estado. |
+| **US58** | Display Product Types per Inventory | Como usuario, quiero ver los tipos de productos diferentes en un inventario completo, para planificar compras y rotación. | **Given** que accedo a un inventario, **when** consulto los tipos de productos, **then** debo ver listado agrupado por tipo con cantidades totales y distribución en cajas. |
+| **US59** | Advanced Product Filters | Como usuario, quiero aplicar filtros avanzados tanto a instancias como a tipos de productos, para encontrar información específica rápidamente. | **Given** que estoy en cualquier vista de productos, **when** aplico filtros, **then** debo poder filtrar por tipo, caja, fecha de caducidad, estado y otros parámetros. |
+| **US60** | Update Box Information | Como usuario, quiero modificar la información de mis cajas registradas, para actualizar datos como capacidad o condiciones de almacenamiento. | **Given** que selecciono una caja, **when** edito su información, **then** debo poder actualizar todos sus campos modificables. |
+| **US61** | Delete Boxes | Como usuario, quiero eliminar cajas de mi inventario, para mantener mi organización actualizada cuando ya no sean necesarias. | **Given** que selecciono una caja, **when** la elimino, **then** el sistema debe pedir confirmación y redistribuir los productos contenidos o marcarlos como sin ubicación. |
+| **US62** | Update Inventory Information | Como usuario, quiero modificar la información de mis inventarios, para actualizar datos como nombre, descripción o configuración. | **Given** que selecciono un inventario, **when** edito su información, **then** debo poder actualizar todos sus campos modificables. |
+| **US63** | Delete Inventories | Como usuario, quiero eliminar inventarios completos, para reorganizar mi estructura de almacenamiento cuando sea necesario. | **Given** que selecciono un inventario, **when** lo elimino, **then** el sistema debe pedir confirmación y gestionar el destino de las cajas y productos contenidos. |
 
 ### 5.2.2.4. Development Evidence for Sprint Review
 
@@ -1555,6 +1573,14 @@ En esta sección, Tenemos los endpoints para PandoraFresh:
   
   <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/backIoT.PNG" alt="Backend IoT">
 
+- Inventory:
+
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Inventory1.PNG" alt="Inventory">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Inventory2.PNG" alt="Inventory">
+  <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/Inventory3.PNG" alt="Inventory">
+
+
+
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
 - IoT Monitoring:
   
@@ -1568,6 +1594,37 @@ En esta sección, Tenemos los endpoints para PandoraFresh:
 | **GET** | `/api/Statuses` | Obtener todos los estados |
 | **GET** | `/api/Zones` | Obtener todas las zonas |
  
+- Inventory
+
+
+| Método | Endpoint | Descripción |
+|--------|----------|-------------|
+| **POST** | `/api/v1/products` | Crear un nuevo producto |
+| **GET** | `/api/v1/products` | Obtener todos los productos |
+| **GET** | `/api/v1/products/{productId}` | Obtener un producto específico |
+| **PUT** | `/api/v1/products/{productId}` | Actualizar un producto existente |
+| **DELETE** | `/api/v1/products/{productId}` | Eliminar un producto |
+| **POST** | `/api/v1/categories` | Crear una nueva categoría |
+| **GET** | `/api/v1/categories` | Obtener todas las categorías |
+| **GET** | `/api/v1/categories/{categoryId}` | Obtener una categoría específica |
+| **POST** | `/api/v1/inventories` | Crear un nuevo inventario |
+| **GET** | `/api/v1/inventories` | Obtener todos los inventarios |
+| **GET** | `/api/v1/inventories/{inventoryId}` | Obtener un inventario específico |
+| **PUT** | `/api/v1/inventories/{inventoryId}` | Actualizar un inventario existente |
+| **DELETE** | `/api/v1/inventories/{inventoryId}` | Eliminar un inventario |
+| **GET** | `/api/v1/inventories/{inventoryId}/summary` | Obtener resumen del inventario |
+| **GET** | `/api/v1/products/categories/{categoryId}` | Obtener productos por categoría |
+| **GET** | `/api/v1/products/search?searchTerm={term}` | Buscar productos por término |
+| **POST** | `/api/v1/products/scan` | Escanear código de barras |
+| **GET** | `/api/v1/inventories/{inventoryId}/storage-boxes` | Obtener todas las cajas de almacenamiento de un inventario |
+| **POST** | `/api/v1/inventories/{inventoryId}/storage-boxes` | Crear una nueva caja de almacenamiento en un inventario |
+| **GET** | `/api/v1/inventories/{inventoryId}/storage-boxes/{storageBoxId}` | Obtener una caja de almacenamiento específica |
+| **PUT** | `/api/v1/inventories/{inventoryId}/storage-boxes/{storageBoxId}` | Actualizar una caja de almacenamiento existente |
+| **DELETE** | `/api/v1/inventories/{inventoryId}/storage-boxes/{storageBoxId}` | Eliminar una caja de almacenamiento |
+| **GET** | `/api/v1/inventories/{inventoryId}/storage-boxes/{storageBoxId}/content` | Obtener contenido de la caja (instancias de producto) |
+| **GET** | `/api/v1/inventories/{inventoryId}/storage-boxes/{storageBoxId}/product-types` | Obtener tipos de producto en la caja |
+
+
 ### 5.2.3.7.  Software Deployment Evidence for Sprint Review. 
 
  Link Landing Desplegado: https://pandorafresh.netlify.app/

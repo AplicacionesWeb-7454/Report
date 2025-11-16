@@ -1716,10 +1716,10 @@ Cada entrevista busca recopilar percepciones sobre la **facilidad de uso**, **in
 - 🎥 **Videos About the Product:**  
   [Ver en YouTube]
   
-- **Frontend aplication:**https://quizbee-frontendunid.web.app
+- **Frontend aplication:** https://pandora-fresh.web.app
 
 - 👥 **Video About the Team:**  
-  [https://youtu.be/dhwZBx9cvtc] https://pandora-fresh.web.app
+  [https://youtu.be/dhwZBx9cvtc] 
 ---
 
 

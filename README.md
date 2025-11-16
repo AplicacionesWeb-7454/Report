@@ -1694,7 +1694,9 @@ Cada entrevista busca recopilar percepciones sobre la **facilidad de uso**, **in
   - Entrevista 1:
     
      <img src="https://raw.githubusercontent.com/AplicacionesWeb-7454/Report/main/assets/img/chapter5/entrevistafrontaw.PNG">
-     
+
+     Nombre Entrevistada: Janeth Chavez
+    
      Inicio: 0:05
      
      Final: 4:03

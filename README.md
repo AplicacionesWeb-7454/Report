@@ -1648,11 +1648,39 @@ Cada entrevista busca recopilar percepciones sobre la **facilidad de uso**, **in
 
 ## **Entrevistas por Segmento - Plataforma PandoraFresh**
 
-#### **Segmento 1: Personas que quieren reforzar lo aprendido de algún idioma**
+#### **Segmento 1: Dueños de restaurantes**
+
+1. **¿Qué tan sencillo te resultó registrarte y empezar a usar la app por primera vez?**
+2. **¿Cómo fue tu experiencia registrando tus productos en el inventario?**  
+3. **¿Qué te pareció el proceso de vincular los sensores IoT con tus productos?**
+4. **¿Sentiste que las alertas de caducidad te llegaron a tiempo y fueron claras?**
+5. **¿Qué tan útil fue para ti ver el estado y caducidad de tus productos en un solo panel?**
+6. **¿Qué parte del flujo (registro, inventario, sensores, alertas) te pareció más valiosa para tu negocio?**
+7. **¿La app te ayudó a reducir desperdicios o pérdidas de productos?**
+8. **Si antes llevabas control manual, ¿notaste alguna diferencia clara con esta nueva forma automatizada?**
+9. **¿En algún punto no supiste qué hacer o dónde picar?**
+10. **¿Qué mejoras te gustaría ver para que la app se adapte mejor al ritmo de tu restaurante?**
+11. **¿La información que te muestra la app te ayuda a tomar decisiones rápidas (compras, rotación, reposición)?**
+12. **¿Recomendarías esta herramienta a otros dueños de restaurantes? ¿Por qué?**
+
 
 ---
 
-#### **Segmento 2: Personas que ya dominan algún idioma**
+#### **Segmento 2: Dueños de puestos de mercado**
+
+
+1. **¿Qué tan fácil fue registrarte y comenzar a usar la app desde tu puesto?**
+2. **¿Cómo te fue al ingresar tus productos al inventario? ¿Algo te quitó más tiempo del esperado?**
+3. **¿Qué tan claro fue el proceso de conectar los sensores IoT a tus productos perecibles?**
+4. **¿Las alertas de caducidad te ayudaron a evitar pérdidas o vender antes lo que estaba por vencer?**
+5. **¿Notaste que la app te facilita organizar mejor tus productos, especialmente los que rotan rápido?**
+6. **¿Qué parte del flujo te pareció más útil para tu día a día en el mercado (registro, inventario, sensores, alertas)?**
+7. **¿Sientes que ahora tienes más control sobre tus productos sin tener que revisarlos uno por uno?**
+8. **Antes de usar la app, cómo hacías tu control de inventario y caducidades? ¿En qué mejoró ahora?**
+9. **¿Te pareció práctico usar la app en un ambiente de mercado donde el ritmo es rápido?**
+10. **¿Te gustaría que la app funcione offline o con poca señal? ¿Cuánto te afecta eso en tu puesto?**
+11. **¿Qué funciones te gustaría agregar para hacer más fácil el manejo diario de tus productos?**
+12. **¿Recomendarías esta herramienta a otros vendedores del mercado? ¿Por qué?**
 
 ### 5.3.2. Registro de Entrevistas.
 

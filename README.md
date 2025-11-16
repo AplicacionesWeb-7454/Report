@@ -1709,7 +1709,17 @@ Cada entrevista busca recopilar percepciones sobre la **facilidad de uso**, **in
 
 #### Segmento 2:
 
+## 📎 **Anexos**
 
+- 🌐 **Landing Page:** https://pandorafresh.netlify.app
+
+- 🎥 **Videos About the Product:**  
+  [Ver en YouTube]
+  
+- **Frontend aplication:**https://quizbee-frontendunid.web.app
+
+- 👥 **Video About the Team:**  
+  [https://youtu.be/dhwZBx9cvtc] https://pandora-fresh.web.app
 ---
 
 

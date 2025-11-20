@@ -1714,12 +1714,12 @@ Cada entrevista busca recopilar percepciones sobre la **facilidad de uso**, **in
 - 🌐 **Landing Page:** https://pandorafresh.netlify.app
 
 - 🎥 **Videos About the Product:**  
-  [Ver en YouTube]
+  [[Ver en YouTube](https://youtu.be/5jmYtvdBXuI)]
   
 - **Frontend aplication:** https://pandora-fresh.web.app
 
 - 👥 **Video About the Team:**  
-  [https://youtu.be/dhwZBx9cvtc] 
+  [[Ver en YouTube](https://youtu.be/xOu7xfMzC2k)]
 ---
 
 
